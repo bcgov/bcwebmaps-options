@@ -1,1 +1,2 @@
+# What is this?
 Here you will find high-level types of applications or systems deployed in Government.  We have taken the liberty of providing here a first-cut definition of those types for your feedback.  The purpose of "typing" our applications is to illustrate potential for re-use across Government.  The source for this categorization is information about approximately 1,600 applications held by the Digital Investment office within the OCIO.
