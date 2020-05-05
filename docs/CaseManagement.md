@@ -1,3 +1,4 @@
+# Case Management
 Archetype: Case Management
 
 What is it?  Case management is the coordination of services on behalf of an individual within settings such as health care, nursing, rehabilitation, social work, disability insurance, employment, and law.  However, in the legal context, case management may refer to the collection and management of material (evidence, argument for both sides, judgements, appeals) specific to a particular matter between two individuals (one of which may be The Crown.) The need to secure personal information is generally higher in a case management context.
