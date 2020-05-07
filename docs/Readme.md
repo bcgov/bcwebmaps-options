@@ -61,7 +61,7 @@ The scope of the Framework includes a package of five key deliverables:
 ![](assets/img/hadf_workstreams.png)
 -->
 
-![](/HADF-Framework/assets/images/hadf_workstreams.png)
+![](/HADF-Overview/assets/images/hadf_workstreams.png)
 
 **A:  Hosting and Application Development Strategy**<br>
 The strategy will inform the future direction of managed hosting and data centre services for government as well as application development and software services.
