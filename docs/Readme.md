@@ -7,7 +7,7 @@ The Framework below is an alpha version ([https://developer.gov.bc.ca/Agile-Deli
 ## We would love your feedback!
 * We are seeking feedback on the Hosting and Application Development Framework. The intent in disseminating an alpha version of the Framework is to socialize it and iterate on it with the #DigitalBC community, both within government and in the broader technology ecosystem.
 * We are particularly interested in hearing from people with previous experience implementing a similar framework. We welcome comments on the approach, order of work and if anything is missing or general recommendations.
-*	We are also very interested in hearing from business leads and technologists within government.  This Framework will guide government’s direction regarding strategic infrastructure development, as established by the Government CIO (authority is set out in Section 12.2.2 of the [Core Policy and Procedures Manual](https://www2.gov.bc.ca/gov/content/governments/policies-for-government/core-policy/policies/im-it-management)).
+*	We are also very interested in hearing from business leads and technologists within government.  This Framework will guide government’s direction regarding strategic infrastructure development, as established by the Government CIO (authority is set out in Section 12.2.2 of the [Core Policy and Procedures Manual](https://www2.gov.bc.ca/gov/content/governments/policies-for-government/core-policy/policies/im-it-management)).<br>
 *	This alpha Framework has been developed by a team within the Office of the Government CIO, in the Ministry of Citizen Services. Executive Director Mac Campbell is our Product Champion. You can contribute directly to this repository or email <CITZAS@gov.bc.ca>. 
 
 ## Context
