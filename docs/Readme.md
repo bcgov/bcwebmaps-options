@@ -54,6 +54,19 @@ Modern hosting would support and accelerate the Digital Framework
 
 The scope of the Framework includes a package of five key deliverables:
 
+<!---
+[//]: # <img 
+[//]: #     src='/HADF-Framework/assets/images/hadf_workstreams.png' 
+[//]: #     height='42' 
+[//]: #     width='200' 
+[//]: #     style='display: block; margin-left: auto;margin-right: auto;width: 50%;' 
+[//]: #     alt='BC Gov'/> 
+-->
+
+<!--- <img src='/HADF-Framework/assets/images/hadf_workstreams.png' />
+-->
+![alt text](HADF-Framework/docs/assets/images/hadf_workstreams.png "HADF Deliverables")
+
 **A:  Hosting and Application Development Strategy**<br>
 The strategy will inform the future direction of managed hosting and data centre services for government as well as application development and software services.
 *	Align with key government initiatives and mandates 
