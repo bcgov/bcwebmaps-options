@@ -52,6 +52,8 @@ Modern hosting would support and accelerate the Digital Framework
 *	Gartner predicts that by 2025, 80% of enterprises will shut down their traditional data centers
 *	Potential opportunities to leverage modern hosting to improve costing and elasticity
 
+## Deliverables
+
 The scope of the Framework includes a package of five key deliverables:
 
 <!---
