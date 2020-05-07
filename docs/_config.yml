@@ -3,6 +3,8 @@ remote_theme: pmarsceill/just-the-docs
 aux_links:
   "Edit on Github":
     - "//github.com/bcgov/HADF-Framework"
+    
+heading_anchors: true
 
 footer_content: "<a href='https://gov.bc.ca/'>
   <img 
