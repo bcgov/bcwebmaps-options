@@ -25,11 +25,11 @@ The purpose of the Hosting and Application Development Framework (HADF) is to:
 
 Additional goals include:
 
-*	A plan to modernize and improve government-wide approaches and tools for hosting and managing applications and providing services.
-*	An integrated strategy will ensure that learning is shared between groups and not run on a project by project basis.
-*	A common framework for decision making such that decisions across government are consistent and allow for economies of scale, shared learning, and greater degrees of resource compatibility. 
-*	A common forum to raise issues, create transparency around shared challenges and ensure consistent performance management of teams, vendors and software.  
-*	Playbooks consisting of reference architectures, patterns, and other guidance instruments.
+*	A plan to modernize and improve government-wide approaches and tools for hosting and managing applications and providing services
+*	An integrated strategy will ensure that learning is shared between groups and not run on a project by project basis
+*	A common framework for decision making such that decisions across government are consistent and allow for economies of scale, shared learning, and greater degrees of resource compatibility
+*	A common forum to raise issues, create transparency around shared challenges and ensure consistent performance management of teams, vendors and software
+*	Playbooks consisting of reference architectures, patterns, and other guidance instruments
 
 ## Problems we are trying to solve
 
@@ -54,7 +54,7 @@ Modern hosting would support and accelerate the Digital Framework
 
 The scope of the Framework includes a package of five key deliverables:
 
-![alt text](src='HADF-Framework/assets/images/hadf_workstreams.png')
+![](assets/img/hadf_workstreams.png)
 
 **A:  Hosting and Application Development Strategy**<br>
 The strategy will inform the future direction of managed hosting and data centre services for government as well as application development and software services.
@@ -87,7 +87,7 @@ The blueprint will propose a reference architecture and measurable use cases del
 *	Inform interfaces between legacy and new systems
 
 **E: Policy**<br>
-Will review policy instruments and principles influencing the Framework.
+Will review policy instruments and principles influencing the Framework and co-create new ones where required.
 *	Digital Policy Framework
     * [CCPM Chapter 12](https://github.com/bcgov/digital-policy/blob/master/CPPM-Chapter12.md)<br>
     * Managing Government Information Policy (in development)
