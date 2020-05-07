@@ -1,4 +1,4 @@
-# Grant Management
+#Grant Management
 
 What is it?
 A grant is issued by a ministry to fund a specific project or initiative. Grant recipients typically require an application to indicate interest and eligibility, and some level of compliance and reporting.  A grant management application is used to organize, possibly publish, prioritize, and process the grant applications received from citizens or businesses. Grants are typically a one-time allocation.
