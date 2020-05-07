@@ -48,7 +48,7 @@ Ministries and partners would benefit from a clear government-wide strategy
 Modern hosting would support and accelerate the Digital Framework
 
 *	Work aligns closely with our commitment to being digital inside
-*	Consistent with our [Digital Principles](https://gww.gov.bc.ca/groups/digital-government/blogs/2020/0107/draft-digital-principles-v02) and expected updates to [Chapter 12](https://github.com/bcgov/digital-policy/blob/master/CPPM-Chapter12.md)
+*	Consistent with our [Digital Principles](https://github.com/bcgov/digital-principles) and expected updates to [Chapter 12](https://github.com/bcgov/digital-policy/blob/master/CPPM-Chapter12.md)
 *	Gartner predicts that by 2025, 80% of enterprises will shut down their traditional data centers
 *	Potential opportunities to leverage modern hosting to improve costing and elasticity
 
