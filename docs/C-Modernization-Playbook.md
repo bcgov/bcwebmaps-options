@@ -53,7 +53,7 @@ Having a basic hierarchy and taxonomy of these components help us keep track of 
 * Reporting
 * Online Application
 
-### System Apps (Technical Capabilities) 
+**System Applications** (Technical Capabilities) 
 * DBMS
 * middleware
 * Search
@@ -62,6 +62,7 @@ Having a basic hierarchy and taxonomy of these components help us keep track of 
 * Accessibility
 * Access Mgmt
 * Bulk Email
+
 ### Compute 
 * Physical
 * Virtual 
