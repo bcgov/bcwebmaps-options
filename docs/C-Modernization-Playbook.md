@@ -6,13 +6,13 @@ Architecture can be described as the decisions that are required to be made up f
 
 In the technology and business landscape there are typically 5 layers of architecture.
 
-**Enterprise: **Enterprise Architecture is concerned with the holistic organization or system, as in all associated things, and is typically aimed at achieving alignment… aka ensuring local optimization in one part of the system is not contributing to less than ideal outcomes overall. 
+**Enterprise:** Enterprise Architecture is concerned with the holistic organization or system, as in all associated things, and is typically aimed at achieving alignment… aka ensuring local optimization in one part of the system is not contributing to less than ideal outcomes overall. 
  
 **Business:** Business Architecture is concerned with the people, processes and technology required to usefully run a program or line of business.
 
-**Solution: **Solution Architecture is concerned with a business solution and the optimal selection and integration of components to most effectively and efficiently meet the business need. These components are made up of software, compute and storage. 
+**Solution:** Solution Architecture is concerned with a business solution and the optimal selection and integration of components to most effectively and efficiently meet the business need. These components are made up of software, compute and storage. 
 
-**Application & Data: **Application Architecture is concerned with the best way to engineer software to ensure it’s highly useable, resilient and will have longevity. Data architecture has the same aims but specifically with respect to structured data.
+**Application & Data:** Application Architecture is concerned with the best way to engineer software to ensure it’s highly useable, resilient and will have longevity. Data architecture has the same aims but specifically with respect to structured data.
 
 **Technical:** While both solution and application and data architecture, could be considered technical in nature, by Technical Architecture we mean being dedicated to discussion and comparison of technical protocols and standards such as those that enable technologies such as the internet, voice over IP and other foundational pieces of technology to operate.  
 
@@ -25,9 +25,11 @@ Having a basic hierarchy and taxonomy of these components help us keep track of 
 
 
 ### Software
-- **Productivity Applications **
-	- Office 365, Skype
- **- Business Applications** (Service Capabilities) 
+**Productivity Applications**
+* Office 365 
+* Skype
+
+**Business Applications** (Service Capabilities) 
 * Client Relationship Management 
 * Case Management 
 * Financial Management
@@ -51,17 +53,21 @@ Having a basic hierarchy and taxonomy of these components help us keep track of 
 * Reporting
 * Online Application
 
-### - System Apps (Technical Capabilities) 
+### System Apps (Technical Capabilities) 
 * DBMS
 * middleware
-* Search*
+* Search
 * Notification
 * Integration
 * Accessibility
 * Access Mgmt
 * Bulk Email
 ### Compute 
-Physical, Virtual, Containers, Serverless 
+* Physical
+* Virtual 
+* Containers
+* Serverless 
 
 ### Storage 
--             Unstructured, Structured
+* Unstructured
+* Structured
