@@ -57,11 +57,11 @@ Modern hosting would support and accelerate the Digital Framework
 The scope of the Framework includes a package of five key deliverables:
 
 <!---
-![alt text](HADF-Framework/assets/img/hadf_workstreams.png "HADF Deliverables")
+![alt text](assets/img/hadf_workstreams.png "HADF Deliverables")
 ![](assets/img/hadf_workstreams.png)
 -->
 
-![](/HADF-Overview/assets/images/hadf_workstreams.png)
+![](assets/images/hadf_workstreams.png)
 
 **A:  Hosting and Application Development Strategy**<br>
 The strategy will inform the future direction of managed hosting and data centre services for government as well as application development and software services.
