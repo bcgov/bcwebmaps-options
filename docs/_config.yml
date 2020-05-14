@@ -1,8 +1,8 @@
-remote-theme: pmarsceill/just-the-docs
+remote_theme: pmarsceill/just-the-docs
 
 aux_links:
   "Edit on Github":
-    - "//github.com/bcgov/HADF-Overview/docs"
+    - "//github.com/bcgov/HADF-Overview/"
     
 footer_content: "<a href='https://gov.bc.ca/'>
   <img 
