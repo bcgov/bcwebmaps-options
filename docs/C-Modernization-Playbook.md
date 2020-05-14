@@ -1,3 +1,9 @@
+---
+layout: default
+title: C. Modernization Playbook 
+nav_order: 2
+---
+
 # C. Modernization Playbook 
 
 ## Introduction – Digital Enterprise Architecture 

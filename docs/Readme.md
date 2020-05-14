@@ -1,3 +1,9 @@
+---
+layout: default
+title: Hosting and Application Development Framework
+nav_order: 1
+---
+
 # Hosting and Application Development Framework 
 
 The Government of British Columbia is creating a Hosting and Application Development Framework to accelerate digital change across government. This work supports BC’s Digital Framework and is intended to help government embrace modern technology to better serve British Columbians.
@@ -57,11 +63,11 @@ Modern hosting would support and accelerate the Digital Framework
 The scope of the Framework includes a package of five key deliverables:
 
 <!---
-![alt text](HADF-Framework/assets/img/hadf_workstreams.png "HADF Deliverables")
+![alt text](assets/img/hadf_workstreams.png "HADF Deliverables")
 ![](assets/img/hadf_workstreams.png)
 -->
 
-![](/HADF-Overview/assets/images/hadf_workstreams.png)
+![](assets/images/hadf_workstreams.png)
 
 **A:  Hosting and Application Development Strategy**<br>
 The strategy will inform the future direction of managed hosting and data centre services for government as well as application development and software services.
