@@ -1,3 +1,9 @@
+---
+layout: default
+title: Hosting and Application Development Framework
+nav_order: 1
+---
+
 # C. Modernization Playbook 
 
 ## Introduction – Digital Enterprise Architecture 
