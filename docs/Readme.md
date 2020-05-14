@@ -1,3 +1,9 @@
+---
+layout: default
+title: Hosting and Application Development Framework
+nav_order: 1
+---
+
 # Hosting and Application Development Framework 
 
 The Government of British Columbia is creating a Hosting and Application Development Framework to accelerate digital change across government. This work supports BC’s Digital Framework and is intended to help government embrace modern technology to better serve British Columbians.
