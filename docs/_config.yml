@@ -2,11 +2,11 @@ remote-theme: pmarsceill/just-the-docs
 
 aux_links:
   "Edit on Github":
-    - "//github.com/bcgov/HADF-Overview"
+    - "//github.com/bcgov/HADF-Overview/docs"
     
 footer_content: "<a href='https://gov.bc.ca/'>
   <img 
-    src='/HADF-Overview/assets/images/BCID_H_rgb_pos.png' 
+    src='assets/images/BCID_H_rgb_pos.png' 
     height='42' 
     width='200' 
     style='display: block; margin-left: auto;margin-right: auto;width: 50%;' 
