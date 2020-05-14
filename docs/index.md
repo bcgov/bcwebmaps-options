@@ -1,8 +1,3 @@
----
-layout: default
-title: Hosting and Application Development Framework
-nav_order: 1
----
 
 # Hosting and Application Development Framework 
 
