@@ -28,11 +28,6 @@ jobs:
     # Runs a single command using the runners shell
     - name: Run a one-line script
       run: |
-           pwd
-           ruby -v
-           ls
-           gem install bundler
-           bundle install
            bundle exec jekyll serve --config docs/_config.yml
 
     # Runs a set of commands using the runners shell
