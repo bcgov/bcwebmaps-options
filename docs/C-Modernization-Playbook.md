@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hosting and Application Development Framework
+title: C. Modernization Playbook 
 nav_order: 2
 ---
 
