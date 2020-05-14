@@ -24,9 +24,6 @@ jobs:
     - uses: ruby/setup-ruby@v1
       with:
         ruby-version: 2.7
-    - uses: actions/checkout@master
-      with:
-        fetch-depth: 1
     - uses: victoriadrake/jekyll-cd@master
 
     # Runs a single command using the runners shell
