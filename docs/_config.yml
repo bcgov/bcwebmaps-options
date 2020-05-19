@@ -1,4 +1,4 @@
-remote-theme: "pmarsceill/just-the-docs"
+remote_theme: "pmarsceill/just-the-docs"
 #theme: "just-the-docs"
 aux_links:
   "Edit on Github":
