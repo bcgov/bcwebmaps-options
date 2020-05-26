@@ -38,7 +38,7 @@ Having a basic hierarchy and taxonomy of these components help us keep track of 
 * Skype
 
 **Business Applications** (Service Capabilities) 
-* [Client Relationship Management](CRM.md)
+* Client Relationship Management
 * Case Management 
 * Financial Management
 * Human Resource 
