@@ -1,7 +1,7 @@
 ---
 layout: default
 grand_parent: Storage
-parent: Logical Storage (Data Store)
+parent: Data Store
 title: Relational Database
 nav_order: 2
 ---

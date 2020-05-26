@@ -1,7 +1,7 @@
 ---
 layout: default
 grand_parent: Storage
-parent: Logical Storage (Data Store)
+parent: Data Store
 title: Cold Data Storage
 nav_order: 4
 ---

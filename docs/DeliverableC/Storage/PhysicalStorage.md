@@ -7,6 +7,6 @@ nav_order: 1
 ---
 
 
-# Physical Servers
+# Physical Storage
 
 ************ Work in Progress **************
