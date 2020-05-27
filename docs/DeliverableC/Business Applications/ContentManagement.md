@@ -1,4 +1,11 @@
-#Content Management
+---
+layout: default
+title: Content Management
+parent: Business Applications
+nav_order: 17
+---
+
+# Content Management
 Archetype: Content Management
 
 What is it?  A content management system (CMS) is a software application that can be used to manage the creation and modification of digital content. More specific types of CMS might be enterprise content management, web content management, and Digital Asset Management. 
