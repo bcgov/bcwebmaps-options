@@ -12,3 +12,5 @@ footer_content: "<a href='https://gov.bc.ca/'>
     style='display: block; margin-left: auto;margin-right: auto;width: 50%;' 
     alt='BC Gov'/> 
 </a>"
+
+theme: jekyll-theme-cayman
