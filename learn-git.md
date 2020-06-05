@@ -1,4 +1,4 @@
-This document will provide a starting point for DataBC staff and contractors who will be using Git to work with repositories stored in the Data BC Gogs application found here <https://gogs.data.gov.bc.ca/>. Repositories in Gogs can be modified in the application or cloned to the users local PC and modified there. If you will be working with the repository locally then you will need to install git tools which can be [downloaded here](https://git-scm.com/downloads).
+This document will provide a starting point for BC Government staff and contractors who will be using Git to work with repositories stored in GitHub found in places like <https://github.com/bcgov/>. Repositories in Github can be modified in the application or cloned to the users local PC and modified there. If you will be working with the repository locally then you will need to install git tools which can be [downloaded here](https://git-scm.com/downloads).
 
 ## Getting Started
 
