@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Storage
-nav_order: 7
+title: Compute
+nav_order: 6
 has_children: true
 ---
 
 
 
-# Storage
+# Compute

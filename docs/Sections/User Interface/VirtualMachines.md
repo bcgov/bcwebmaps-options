@@ -1,12 +1,11 @@
 ---
 layout: default
-grand_parent: Storage
-parent: Data Store
-title: NoSQL Database
+parent: Compute
+title: Virtual Machines
 nav_order: 2
 ---
 
 
-# NoSQL Database
+# Virtual  Machines
 
 ************ Work in Progress **************

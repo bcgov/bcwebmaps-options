@@ -1,12 +1,11 @@
 ---
 layout: default
-parent: Storage
-title: Physical Storage
-has_children: true
+parent: Compute
+title: Physical Servers
 nav_order: 1
 ---
 
 
-# Physical Storage
+# Physical Servers
 
 ************ Work in Progress **************
