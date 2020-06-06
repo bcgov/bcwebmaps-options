@@ -6,7 +6,7 @@ aux_links:
     
 footer_content: "<a href='https://gov.bc.ca/'>
   <img 
-    src='assets/images/BCID_H_rgb_pos.png' 
+    src='assets/images/bclogo.png' 
     height='42' 
     width='200' 
     style='display: block; margin-left: auto;margin-right: auto;width: 50%;' 
@@ -15,7 +15,7 @@ footer_content: "<a href='https://gov.bc.ca/'>
 
 header_content: "<a href='https://gov.bc.ca/'>
   <img 
-    src='assets/images/BCID_H_rgb_pos.png' 
+    src='assets/images/bclogo.png' 
     height='42' 
     width='200' 
     style='display: block; margin-left: auto;margin-right: auto;width: 50%;' 
