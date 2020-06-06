@@ -2,6 +2,8 @@
 layout: default
 title: Web Mapping Services: Find the right solution for your business.
 nav_order: 1
+heading_anchors: true
+color_scheme: "dark"
 ---
 
 # Web Mapping Services: Find the right solution for your business. 
