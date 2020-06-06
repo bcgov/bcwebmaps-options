@@ -23,4 +23,4 @@ header_content: "<a href='https://gov.bc.ca/'>
 </a>"
 
 heading_anchors: true
-color_scheme: "dark"
+#color_scheme: "dark"
