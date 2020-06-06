@@ -13,4 +13,14 @@ footer_content: "<a href='https://gov.bc.ca/'>
     alt='BC Gov'/> 
 </a>"
 
-#theme: jekyll-theme-cayman
+header_content: "<a href='https://gov.bc.ca/'>
+  <img 
+    src='assets/images/BCID_H_rgb_pos.png' 
+    height='42' 
+    width='200' 
+    style='display: block; margin-left: auto;margin-right: auto;width: 50%;' 
+    alt='BC Gov'/> 
+</a>"
+
+heading_anchors: true
+color_scheme: "dark"
