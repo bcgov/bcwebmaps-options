@@ -6,7 +6,7 @@ aux_links:
     
 footer_content: "<a href='https://gov.bc.ca/'>
   <img 
-    src='assets/images/bclogo.png' 
+    src='assets/images/BCID_H_rgb_pos.png' 
     height='42' 
     width='200' 
     style='display: block; margin-left: auto;margin-right: auto;width: 50%;' 
@@ -15,7 +15,7 @@ footer_content: "<a href='https://gov.bc.ca/'>
 
 header_content: "<a href='https://gov.bc.ca/'>
   <img 
-    src='assets/images/bclogo.png' 
+    src='assets/images/BCID_H_rgb_pos.png' 
     height='42' 
     width='200' 
     style='display: block; margin-left: auto;margin-right: auto;width: 50%;' 
@@ -26,4 +26,4 @@ heading_anchors: true
 #color_scheme: "dark"
 
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/bclogo.png"
+logo: "/assets/images/BCID_H_rgb_pos.png"
