@@ -16,6 +16,28 @@ Some decisions are complicated. This framework will help you select a solution.
 |**Consider user needs:** * What should the mapping application accomplish? * What do users do in the application?|||
 |**Consider the business environment:** 	Is it important that your business fully control time to market? *	Think of all data you will need to display. Where are they stored? What format are they in? What are the security classifications of each layerwithin the map? Is data residency in Canada a requirement? *	Are you capable of maintaining customizations? *	Who should be able to access the application: the general public, all gov, or named users? Are the same permissions applied to the wholeapplication or on a layer level?|||
 
+-------------------------------------------------------------
+ Centered   Default           Right Left
+  Header    Aligned         Aligned Aligned
+----------- ------- --------------- -------------------------
+   First    row                12.0 Example of a row that
+                                    spans multiple lines.
+
+  Second    row                 5.0 Here's another one. Note
+                                    the blank line between
+                                    rows.
+-------------------------------------------------------------
+
++---------------+---------------+--------------------+
+| Fruit         | Price         | Advantages         |
++===============+===============+====================+
+| Bananas       | $1.34         | - built-in wrapper |
+|               |               | - bright color     |
++---------------+---------------+--------------------+
+| Oranges       | $2.10         | - cures scurvy     |
+|               |               | - tasty            |
++---------------+---------------+--------------------+
+
 ## DISCOVER
 
 * With your vision in mind, explore the subsequent pages to discover the available mapping solutions.
