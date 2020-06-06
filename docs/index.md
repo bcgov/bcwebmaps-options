@@ -8,10 +8,10 @@ nav_order: 1
 
 Some decisions are complicated. This framework will help you select a solution.
 
-|## ENVISION|## DISCOVER|## COLLABORATE|
+|ENVISION|DISCOVER|COLLABORATE|
 |---|---|---|
 |   |   |   |
-|Develop a vision of what your product needs to achieve. Success depends on a solution that meets user needs and aligns with your business environment.
+|Develop a vision of what your product needs to achieve. Success depends on a solution that meets user needs and aligns with your business environment.|||
 
 **Consider user needs:**
 * What should the mapping application accomplish?
