@@ -2,19 +2,14 @@
 layout: default
 title: Web Mapping Services: Find the right solution for your business.
 nav_order: 1
-heading_anchors: true
-color_scheme: "dark"
 ---
 
 # Web Mapping Services: Find the right solution for your business. 
 
 Some decisions are complicated. This framework will help you select a solution.
 
-## ENVISION
-Develop a vision of what your product needs
-to achieve. Success depends on a solution that
-meets user needs and aligns with your business
-environment.
+|## ENVISION|## DISCOVER|## COLLABORATE|
+|Develop a vision of what your product needs to achieve. Success depends on a solution that meets user needs and aligns with your business environment.
 
 **Consider user needs:**
 * What should the mapping application accomplish?
@@ -50,15 +45,13 @@ Karin.Brame@gov.bc.ca
 
 
 
-## Deliverables
 
-The scope of the Framework includes a package of five key deliverables:
 
 <!---
 ![alt text](assets/img/hadf_workstreams.png "HADF Deliverables")
 ![](assets/img/hadf_workstreams.png)
--->
+
 
 ![](assets/images/hadf_workstreams.png)
-
+-->
 
