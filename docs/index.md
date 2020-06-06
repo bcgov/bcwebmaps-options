@@ -13,19 +13,8 @@ Some decisions are complicated. This framework will help you select a solution.
 |---|---|---|
 |   |   |   |
 |Develop a vision of what your product needs to achieve. Success depends on a solution that meets user needs and aligns with your business environment.|||
-|
-**Consider user needs:**
-* What should the mapping application accomplish?
-* What do users do in the application?|||
-|
-**Consider the business environment:**
-*	Is it important that your business fully control time to market?
-
-*	Think of all data you will need to display. Where are they stored? What format are they in? What are the security classifications of each layerwithin the map? Is data residency in Canada a requirement?
-
-*	Are you capable of maintaining customizations?
-
-*	Who should be able to access the application: the general public, all gov, or named users? Are the same permissions applied to the wholeapplication or on a layer level?|||
+|**Consider user needs:** * What should the mapping application accomplish? * What do users do in the application?|||
+|**Consider the business environment:** 	Is it important that your business fully control time to market? *	Think of all data you will need to display. Where are they stored? What format are they in? What are the security classifications of each layerwithin the map? Is data residency in Canada a requirement? *	Are you capable of maintaining customizations? *	Who should be able to access the application: the general public, all gov, or named users? Are the same permissions applied to the wholeapplication or on a layer level?|||
 
 ## DISCOVER
 
