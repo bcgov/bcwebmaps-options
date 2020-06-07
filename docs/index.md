@@ -9,6 +9,7 @@ nav_order: 1
 
 Some decisions are complicated. This framework will help you select a solution.<br>
 
+--------------
 
 
 |<font size="8">1|
@@ -20,6 +21,8 @@ Some decisions are complicated. This framework will help you select a solution.<
 **Consider the business environment:** <br>	Is it important that your business fully control time to market?<br>*	Think of all data you will need to display. Where are they stored? What format are they in? What are the security classifications of each layerwithin the map? Is data residency in Canada a requirement? <br>*	Are you capable of maintaining customizations? <br>*	Who should be able to access the application: the general public, all gov, or named users? Are the same permissions applied to the wholeapplication or on a layer level?<br><br>
 
 
+--------------
+
 
 
 |<font size="8">2|
@@ -29,6 +32,8 @@ Some decisions are complicated. This framework will help you select a solution.<
 With your vision in mind, **explore the subsequent pages** to discover the available mapping solutions.<br><br>
 **Take note:** <br>*  Where do you see alignment between your needs and a solution?<br>*  Where do you see gaps?<br>*  What outstanding questions do you have?<br><br>
 
+
+--------------
 
 
 
@@ -45,7 +50,7 @@ If you don’t already have a point of contact for your web mapping needs, conta
 <br>*  IIT framework (CWM):<br>[Alexander.Filonovych@gov.bc.ca](mailto:Alexander.Filonovych@gov.bc.ca) or
 <br>[Karin.Brame@gov.bc.ca](mailto:Karin.Brame@gov.bc.ca)<br>
 
-
+--------------
 <!---
 ![alt text](assets/img/hadf_workstreams.png "HADF Deliverables")
 ![](assets/img/hadf_workstreams.png)
