@@ -1,6 +1,6 @@
 ---
 layout: default
-title: User Footnotes
+title: Footnotes
 nav_order: 7
 has_children: false
 ---
