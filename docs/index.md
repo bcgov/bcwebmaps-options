@@ -46,11 +46,11 @@ With your vision in mind, **explore the subsequent pages** to discover the avail
 Immediately identifying the solution for your business is rare. **Collaborate with technical experts** to select the best option for your business. Meet with your mapping solution point of contact. They will answer your questions and support the design of a solution that aligns with your users’ mapping needs and your business environment.<br><br>
 
 If you don’t already have a point of contact for your web mapping needs, contact information is as follows:
-<br>*  DataBC frameworks (IMF2, AGO, SMK):<br>[datamaps@gov.bc.ca](mailto:datamaps@gov.bc.ca)<br>
-<br>*  IIT framework (CWM):<br>[Alexander.Filonovych@gov.bc.ca](mailto:Alexander.Filonovych@gov.bc.ca) or
+<br>*  DataBC frameworks (IMF2, AGO, SMK):<br>:e-mail:[datamaps@gov.bc.ca](mailto:datamaps@gov.bc.ca)<br>
+<br>*  IIT framework (CWM):<br>:e-mail:[Alexander.Filonovych@gov.bc.ca](mailto:Alexander.Filonovych@gov.bc.ca) or :e-mail:
 <br>[Karin.Brame@gov.bc.ca](mailto:Karin.Brame@gov.bc.ca)<br>
 
---------------
+--------------:e-mail:
 <!---
 ![alt text](assets/img/hadf_workstreams.png "HADF Deliverables")
 ![](assets/img/hadf_workstreams.png)
