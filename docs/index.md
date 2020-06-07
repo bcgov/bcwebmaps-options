@@ -9,7 +9,7 @@ nav_order: 1
 
 Some decisions are complicated. This framework will help you select a solution.
 
-|1.<font size="6">***ENVISION***|
+|1. <font size="6">***ENVISION***|
 |-|
 
 
@@ -18,14 +18,14 @@ Some decisions are complicated. This framework will help you select a solution.
 **Consider user needs:** <br>* What should the mapping application accomplish? <br>* What do users do in the application?<br>
 **Consider the business environment:** <br>	Is it important that your business fully control time to market?<br>*	Think of all data you will need to display. Where are they stored? What format are they in? What are the security classifications of each layerwithin the map? Is data residency in Canada a requirement? <br>*	Are you capable of maintaining customizations? <br>*	Who should be able to access the application: the general public, all gov, or named users? Are the same permissions applied to the wholeapplication or on a layer level?<br>
 
-|2.<font size="6">***DISCOVER***|
+|2. <font size="6">***DISCOVER***|
 |-|
 
 
 With your vision in mind, **explore the subsequent pages** to discover the available mapping solutions.<br><br>
 **Take note:** <br>*  Where do you see alignment between your needs and a solution?<br>*  Where do you see gaps?<br>*  What outstanding questions do you have?<br>
 
-|3.<font size="6">***COLLABORATE***|
+|3. <font size="6">***COLLABORATE***|
 |-|
 
 
