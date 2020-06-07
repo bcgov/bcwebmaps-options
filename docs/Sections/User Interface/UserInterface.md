@@ -12,7 +12,7 @@ As the end user of the application I want...
 |                                           |AGO| CWM| IMF2| SMK|
 |:------------------------------------------|:-|:-|:-|:-|
 |Access on mobile devices                   |![](assets/images/check.jpg)||![](assets/images/check.png)|![](assets/images/check.png)|
-|Access for the visually impaired           |1|||
+|Access for the visually impaired           |1||:heavy_check_mark:|
 |Variety of base maps to choose from        ||||
 |Identify and discover relationships among  | |||
 |features                                   |2  |||
