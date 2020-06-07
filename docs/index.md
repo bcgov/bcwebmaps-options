@@ -47,10 +47,10 @@ Immediately identifying the solution for your business is rare. **Collaborate wi
 
 If you don’t already have a point of contact for your web mapping needs, contact information is as follows:
 <br>*  DataBC frameworks (IMF2, AGO, SMK):<br>:e-mail:[datamaps@gov.bc.ca](mailto:datamaps@gov.bc.ca)<br>
-<br>*  IIT framework (CWM):<br>:e-mail:[Alexander.Filonovych@gov.bc.ca](mailto:Alexander.Filonovych@gov.bc.ca) or :e-mail:
-<br>[Karin.Brame@gov.bc.ca](mailto:Karin.Brame@gov.bc.ca)<br>
+<br>*  IIT framework (CWM):<br>:e-mail:[Alexander.Filonovych@gov.bc.ca](mailto:Alexander.Filonovych@gov.bc.ca) or 
+<br>:e-mail:[Karin.Brame@gov.bc.ca](mailto:Karin.Brame@gov.bc.ca)<br>
 
---------------:e-mail:
+--------------
 <!---
 ![alt text](assets/img/hadf_workstreams.png "HADF Deliverables")
 ![](assets/img/hadf_workstreams.png)
