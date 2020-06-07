@@ -9,8 +9,8 @@ nav_order: 1
 
 Some decisions are complicated. This framework will help you select a solution.
 
-|1. <font size="6">***ENVISION***|
-|-|
+<table><tr><td><font size="6">***1. ENVISION***</td></tr></table>
+
 
 
 
@@ -18,15 +18,12 @@ Some decisions are complicated. This framework will help you select a solution.
 **Consider user needs:** <br>* What should the mapping application accomplish? <br>* What do users do in the application?<br>
 **Consider the business environment:** <br>	Is it important that your business fully control time to market?<br>*	Think of all data you will need to display. Where are they stored? What format are they in? What are the security classifications of each layerwithin the map? Is data residency in Canada a requirement? <br>*	Are you capable of maintaining customizations? <br>*	Who should be able to access the application: the general public, all gov, or named users? Are the same permissions applied to the wholeapplication or on a layer level?<br>
 
-|2. <font size="6">***DISCOVER***|
-|-|
-
+<table><tr><td><font size="6">***2. DISCOVER***</td></tr></table>
 
 With your vision in mind, **explore the subsequent pages** to discover the available mapping solutions.<br><br>
 **Take note:** <br>*  Where do you see alignment between your needs and a solution?<br>*  Where do you see gaps?<br>*  What outstanding questions do you have?<br>
 
-|3. <font size="6">***COLLABORATE***|
-|-|
+<table><tr><td><font size="6">***3. COLLABORATE***</td></tr></table>
 
 
 Immediately identifying the solution for your business is rare. **Collaborate with technical experts** to select the best option for your business. Meet with your mapping solution point of contact. They will answer your questions and support the design of a solution that aligns with your users’ mapping needs and your business environment.<br><br>
