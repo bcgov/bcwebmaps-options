@@ -1,3 +1,9 @@
+---
+layout: default
+title: User Footnotes
+nav_order: 7
+has_children: false
+---
 # FOOTNOTES
 
 ## User Interface<br>
