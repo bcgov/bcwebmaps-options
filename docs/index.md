@@ -17,12 +17,12 @@ Some decisions are complicated. This framework will help you select a solution.
 
 |***DISCOVER***|
 |-|
-|**With your vision in mind**, explore the subsequent pages to discover the available mapping solutions.|
+|With your vision in mind, **explore the subsequent pages** to discover the available mapping solutions.|
 |**Take note:** <br>*  Where do you see alignment between your needs and a solution?<br>*  Where do you see gaps?<br>*  What outstanding questions do you have?|
 
 |***COLLABORATE***|
 |-|
-|Immediately identifying the solution for your business is rare. Collaborate with technical experts to select the best option for your business. Meet with your mapping solution point of contact. They will answer your questions and support the design of a solution that aligns with your users’ mapping needs and your business environment.|
+|Immediately identifying the solution for your business is rare. **Collaborate with technical experts** to select the best option for your business. Meet with your mapping solution point of contact. They will answer your questions and support the design of a solution that aligns with your users’ mapping needs and your business environment.|
 |If you don’t already have a point of contact for your web mapping needs, contact information is as follows:<br>*  DataBC frameworks (IMF2, AGO, SMK):<br>datamaps@gov.bc.ca<br><br>*  IIT framework (CWM):<br>Alexander.Filonovych@gov.bc.ca or:<br>Karin.Brame@gov.bc.ca
 
 
