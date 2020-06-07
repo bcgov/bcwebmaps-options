@@ -7,7 +7,8 @@ nav_order: 1
 # Web Mapping Services: 
 ## Find the right solution for your business. 
 
-Some decisions are complicated. This framework will help you select a solution.
+Some decisions are complicated. This framework will help you select a solution.<br>
+
 ***
 |<font size="8">1|
 |:-|
@@ -15,7 +16,7 @@ Some decisions are complicated. This framework will help you select a solution.
 
 **Develop a vision** of what your product needs to achieve. Success depends on a solution that meets user needs and aligns with your business environment.<br><br>
 **Consider user needs:** <br>* What should the mapping application accomplish? <br>* What do users do in the application?<br>
-**Consider the business environment:** <br>	Is it important that your business fully control time to market?<br>*	Think of all data you will need to display. Where are they stored? What format are they in? What are the security classifications of each layerwithin the map? Is data residency in Canada a requirement? <br>*	Are you capable of maintaining customizations? <br>*	Who should be able to access the application: the general public, all gov, or named users? Are the same permissions applied to the wholeapplication or on a layer level?<br>
+**Consider the business environment:** <br>	Is it important that your business fully control time to market?<br>*	Think of all data you will need to display. Where are they stored? What format are they in? What are the security classifications of each layerwithin the map? Is data residency in Canada a requirement? <br>*	Are you capable of maintaining customizations? <br>*	Who should be able to access the application: the general public, all gov, or named users? Are the same permissions applied to the wholeapplication or on a layer level?<br><br>
 
 ***
 |<font size="8">2|
