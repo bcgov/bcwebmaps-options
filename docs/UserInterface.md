@@ -9,23 +9,21 @@ has_children: false
 
 ## As the end user of the application I want:
 
-|                                           |AGO                         | CWM                        | IMF2                       |SMK                         |
-|-------------------------------------------|----------------------------|----------------------------|----------------------------|----------------------------|
-|Access on mobile devices                   |![](assets/images/check.jpg)|                            |![](assets/images/check.jpg)|![](assets/images/check.jpg)|
-|Access for the visually impaired           |1|||
-|Variety of base maps to choose from        ||||
-|Identify and discover relationships among  | |||
-|features                                   |2  |||
-|Detect statistically significant patterns  ||||
-|Make predictions using analytical models   |3 |||
-|Re-symbolize, modify, or customize map     | |||
-|data or labels                             |4 4|||
-|Customize printing of maps                 |4 4|||
-|Save and share the work with others        ||||
-|Prepare specific datasets for off-line use |  7|||
-|Collect data                               |5 7|||
-|Edit data                                  |6 6 7|||
-|Work off-line (access without Internet)    | 7 7|||
+|                                                     |AGO                         | CWM                        | IMF2                       |SMK                         |
+|-----------------------------------------------------|----------------------------|----------------------------|----------------------------|----------------------------|
+|Access on mobile devices                             |![](assets/images/check.jpg)|                            |![](assets/images/check.jpg)|![](assets/images/check.jpg)|
+|Access for the visually impaired                     |1                           |                            |![](assets/images/check.jpg)|                            |
+|Variety of base maps to choose from                  |![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|
+|Identify & discover relationships among features     |![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|2|
+|Detect statistically significant patterns            |![](assets/images/check.jpg)|                            |                            |                            |
+|Make predictions using analytical models             |3                           |                            |                            |                            |
+|Re-symbolize, modify, or customize map data or labels|![](assets/images/check.jpg)|4                           |![](assets/images/check.jpg)|4                           | 
+|Customize printing of maps                           |![](assets/images/check.jpg)|![](assets/images/check.jpg)|4                           |4                           |
+|Save and share the work with others                  |![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|                            |
+|Prepare specific datasets for off-line use           |![](assets/images/check.jpg)|![](assets/images/check.jpg)|                            |7                           |
+|Collect data                                         |![](assets/images/check.jpg)|![](assets/images/check.jpg)|5                           |7                           |
+|Edit data                                            |6                           |![](assets/images/check.jpg)|6                           |7                           |
+|Work off-line (access without Internet)              |![](assets/images/check.jpg)|7                           |                            |7                           |   
 
 
 ## As the end user of the application I want to export data in the following formats:
