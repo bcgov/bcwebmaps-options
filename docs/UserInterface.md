@@ -4,12 +4,6 @@ title: User Interface
 nav_order: 2
 has_children: false
 
-table {
-  display: table;
-  min-width: 100%;
-  background-color: white;
-  color: black;
-}
 ---
 
 # User Interface
