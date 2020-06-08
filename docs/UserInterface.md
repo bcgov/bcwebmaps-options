@@ -29,6 +29,7 @@ has_children: false
 
 
 ## As the end user of the application I want to export data in the following formats:
+
 |                            |AGO                         | CWM                        | IMF2                       |SMK                          |
 |----------------------------|----------------------------|----------------------------|----------------------------|-----------------------------|
 |Shapefile (.shp)            |![](assets/images/check.jpg)|                            |![](assets/images/check.jpg)|                             |
