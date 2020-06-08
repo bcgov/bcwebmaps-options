@@ -11,18 +11,18 @@ has_children: true
 
 ## As the owner of the application owner I want:
 
-|                                                     |AGO                         | CWM                        | IMF2                       |SMK                         |
-|-----------------------------------------------------|----------------------------|----------------------------|----------------------------|----------------------------|
-|The ability to make small changes that are easy to maintain. (Configuration*) 9 8
-|The ability to invest more in build and maintenance to create a more unique experience. (Customization*) 8 8
-|Someone else to manage the application
-|All data to reside in Canada 11
-|Automatic server scalability to meet use levels 13 13
-|Prevent users from downloading datasets they are viewing
-|Security - manage users access at the application level 14
-|Security - manage users access at the data layer level 15 15
-|My team to self-publish updates**
-|Deploy anywhere**
+|                                                                                                        |AGO                         | CWM                        | IMF2                       |SMK                         |
+|--------------------------------------------------------------------------------------------------------|----------------------------| ---------------------------|----------------------------|----------------------------|
+|The ability to make small changes that are easy to maintain. (Configuration*)                           |![](assets/images/check.jpg)|9                           |![](assets/images/check.jpg)| 8                          |
+|The ability to invest more in build and maintenance to create a more unique experience. (Customization*)|![](assets/images/check.jpg)|8                           |![](assets/images/check.jpg)|8                           |
+|Someone else to manage the application                                                                  |![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|
+|All data to reside in Canada                                                                            |                            |![](assets/images/check.jpg)|![](assets/images/check.jpg)|11                          |     
+|Automatic server scalability to meet use levels                                                         |13                          |![](assets/images/check.jpg)|![](assets/images/check.jpg)|13                          |
+|Prevent users from downloading datasets they are viewing                                                |![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|
+|Security - manage users access at the application level                                                 |14                          |![](assets/images/check.jpg)|                            |![](assets/images/check.jpg)|
+|Security - manage users access at the data layer level                                                  |![](assets/images/check.jpg)|![](assets/images/check.jpg)|15                          |15                          |
+|My team to self-publish updates**                                                                       |![](assets/images/check.jpg)|![](assets/images/check.jpg)|                            |![](assets/images/check.jpg)|
+|Deploy anywhere**                                                                                       |![](assets/images/check.jpg)|![](assets/images/check.jpg)|                            |![](assets/images/check.jpg)|
 
 
 ## The data to create the map currently resides in:
