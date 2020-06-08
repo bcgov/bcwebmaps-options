@@ -28,6 +28,15 @@ has_children: false
 |Work off-line (access without Internet)    | 7 7|||
 
 
+## As the end user of the application I want to export data in the following formats:
+|                            |AGO                         | CWM                        | IMF2                       |SMK                          |
+|----------------------------|----------------------------|----------------------------|----------------------------|-----------------------------|
+|Shapefile (.shp)            |![](assets/images/check.jpg)|                            |![](assets/images/check.jpg)|                             |
+|GeoJSON (.json, .geojson)   |![](assets/images/check.jpg)|![](assets/images/check.jpg)|                            |                             |
+|attribute only (.csv, .xls) |![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|                             |
+|Keyhole Markup (.KML)       |![](assets/images/check.jpg)|![](assets/images/check.jpg)|                            |                             |
+|PDF or image                |![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)| ![](assets/images/check.jpg)|
+
 ## Look and Feel
 
 Below are examples of similar functionality in the available solutions.
