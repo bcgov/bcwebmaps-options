@@ -2,15 +2,16 @@
 layout: default
 title: User Interface
 nav_order: 2
-has_children: true
+has_children: false
 ---
 
 # User Interface
 
-As the end user of the application I want...
+As the end user of the application I want:
 
-|                                           |AGO| CWM| IMF2| SMK|
-|Access on mobile devices                   |![](assets/images/check.png)||![](assets/images/check.png)|![](assets/images/check.png)|
+|                                           |AGO                         | CWM                        | IMF2                       |SMK                         |
+|-------------------------------------------|----------------------------|----------------------------|----------------------------|----------------------------|
+|Access on mobile devices                   |![](assets/images/check.jpg)|                            |![](assets/images/check.png)|![](assets/images/check.png)|
 |Access for the visually impaired           |1|||
 |Variety of base maps to choose from        ||||
 |Identify and discover relationships among  | |||
