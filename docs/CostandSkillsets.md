@@ -15,7 +15,7 @@ The table highlights who typically bears the cost. These costs can be highly var
 
 |                                              |AGO   | CWM  | IMF2 |SMK  |
 |----------------------------------------------|------|------|------|-----|
-|Licensing                                     |C     |I     |N/A*  | N/A*|
+|Licensing                                     |C     |I     |D     | N/A*|
 |Hosting the application                       |D     |C     |C     | C   |
 |Configuration and customization,if applicable |C     |C     |C     | C   |
 |Maintenance                                   |C     |C     |C     | C   |
