@@ -32,19 +32,18 @@ location are best determined when collaborating with a technical expert.
 
 ## As the owner of the application I want to create maps that display data from the following format types: 
 
-|                                                     |AGO                         | CWM                        | IMF2                       |SMK                         |
-|-----------------------------------------------------|----------------------------|----------------------------|----------------------------|----------------------------|
-|.csv or .xml varient 17
-|GeoJSON
-|KML
-|Shape
-|File GeoDatabase
-|WMS
-|WFS
-|16
-|Oracle BCGW 10
-|Oracle operational database
-|ArcRest Endpoint
+|                             |AGO                         | CWM                        | IMF2                       |SMK                         |
+|-----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|
+|.csv or .xml varient         |![](assets/images/check.jpg)|![](assets/images/check.jpg)|                            |17                          |
+|GeoJSON                      |![](assets/images/check.jpg)|![](assets/images/check.jpg)|                            |![](assets/images/check.jpg)|                         |
+|KML                          |![](assets/images/check.jpg)|![](assets/images/check.jpg)|                            |![](assets/images/check.jpg)|
+|Shape                        |![](assets/images/check.jpg)|![](assets/images/check.jpg)|                            |![](assets/images/check.jpg)|
+|File GeoDatabase             |![](assets/images/check.jpg)|                            |                            |                            |
+|WMS                          |![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|
+|WFS                          |![](assets/images/check.jpg)|![](assets/images/check.jpg)|                            |![](assets/images/check.jpg)|          
+|Oracle BCGW                  |10                          |![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|
+|Oracle operational database  |                            |![](assets/images/check.jpg)|                            |                            |
+|ArcRest Endpoint             |![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|
 
 ## What does this mean?
 1. Typically, configuration requires less effort to implement and software upgrades are supported which
