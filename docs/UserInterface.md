@@ -8,6 +8,7 @@ has_children: true
 # User Interface
 
 As the end user of the application I want...
+
 |                                           |AGO| CWM| IMF2| SMK|
 |Access on mobile devices                   |![](assets/images/check.png)||![](assets/images/check.png)|![](assets/images/check.png)|
 |Access for the visually impaired           |1|||
