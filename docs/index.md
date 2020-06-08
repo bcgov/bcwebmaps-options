@@ -12,7 +12,7 @@ Some decisions are complicated. This framework will help you select a solution.<
 --------------
 
 
-|<font size="8">1|
+|<font size="8">Step 1|
 |:-|
 |<font size="6">ENVISION|
 
@@ -25,7 +25,7 @@ Some decisions are complicated. This framework will help you select a solution.<
 
 
 
-|<font size="8">2|
+|<font size="8">Step 2|
 |:-|
 |<font size="6">DISCOVER|
   
@@ -37,7 +37,7 @@ With your vision in mind, **explore the subsequent pages** to discover the avail
 
 
 
-|<font size="8">3|
+|<font size="8">Step 3|
 |:-|
 |<font size="6">COLLABORATE|
 
