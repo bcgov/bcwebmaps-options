@@ -40,10 +40,10 @@ has_children: false
 
 Below are examples of similar functionality in the available solutions.
 
-|    |Complexity|Client                               | Example                             |
-|----|----------|-------------------------------------|-------------------------------------|
-|AGO |Medium    |BC Wildfire Service                  |https://bit.ly/BC_Wildfire_Dashboard |
-|CWM |High      |Integrated Land and Resource Registry|https://www.ilrr.ca                  | 
-|IMF2|High      |iMapBC                               |https://maps.gov.bc.ca/ess/hm/imap4m/|
-|SMK |Low       |MoH                                  |https://moh.apps.gov.bc.ca/alrc/?    |
-|SMK |High      |Translink                            |https://translink.apps.gov.bc.ca/trp/|
+|    |Complexity|Client                               | Example                                                                      |
+|----|----------|-------------------------------------|------------------------------------------------------------------------------|
+|AGO |Medium    |BC Wildfire Service                  |[https://bit.ly/BC_Wildfire_Dashboard](https://bit.ly/BC_Wildfire_Dashboard)  |
+|CWM |High      |Integrated Land and Resource Registry|[https://www.ilrr.ca](https://www.ilrr.ca)                                    | 
+|IMF2|High      |iMapBC                               |[https://maps.gov.bc.ca/ess/hm/imap4m/](https://maps.gov.bc.ca/ess/hm/imap4m/)|
+|SMK |Low       |MoH                                  |[https://moh.apps.gov.bc.ca/alrc/?](https://moh.apps.gov.bc.ca/alrc/?)        |
+|SMK |High      |Translink                            |[https://translink.apps.gov.bc.ca/trp/](https://translink.apps.gov.bc.ca/trp/)|
