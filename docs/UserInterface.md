@@ -13,7 +13,7 @@ has_children: false
 |                                                     |AGO                         | CWM                        | IMF2                       |SMK                         |
 |-----------------------------------------------------|----------------------------|----------------------------|----------------------------|----------------------------|
 |Access on mobile devices                             |![](assets/images/check.jpg)|                            |![](assets/images/check.jpg)|![](assets/images/check.jpg)|
-|Access for the visually impaired                     |[*1*]{% post_url footnotes.html#1 %}|                            |![](assets/images/check.jpg)|                            |
+|Access for the visually impaired                     |[*1*]{% footnotes.html#1 %}|                            |![](assets/images/check.jpg)|                            |
 |Variety of base maps to choose from                  |![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|
 |Identify & discover relationships among features     |![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|2|
 |Detect statistically significant patterns            |![](assets/images/check.jpg)|                            |                            |                            |
