@@ -7,8 +7,10 @@ has_children: false
 # FOOTNOTES
 
 ## User Interface<br>
-1. AGO’s ability to provide features that support access by the visually impaired depends on the selected template.
-2. With customization SMK can identify basic relationships between features.
+#### 1. 
+AGO’s ability to provide features that support access by the visually impaired depends on the selected template.
+#### 2. 
+With customization SMK can identify basic relationships between features.
 3. AGO’s ability to make predictions depends on the complexity of the analytical model. AGO has limited capabilities - we suggest adding ArcMap or Pro.
 4. The ability to access certain features (re-symbolize layers, perform custom printing) is only available to site authors.
 5. IMF2’s feature to collect data requires the development of a customized workflow.
