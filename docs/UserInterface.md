@@ -13,18 +13,18 @@ has_children: false
 |                                                     |AGO                                 | CWM                                | IMF2                               |SMK                                 |
 |-----------------------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|
 |Access on mobile devices                             |![](assets/images/check.jpg)        |                                    |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |
-|Access for the visually impaired                     |[1]({% link footnotes.html#1 %})|![](assets/images/check.jpg)        |                                    |                                    |
+|Access for the visually impaired                     |[1]{% link footnotes.html#1 %}|![](assets/images/check.jpg)        |                                    |                                    |
 |Variety of base maps to choose from                  |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |
-|Identify & discover relationships among features     |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |[2]({% link footnotes.html#2 %})|
+|Identify & discover relationships among features     |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |[2]{% link footnotes.html#2 %}|
 |Detect statistically significant patterns            |![](assets/images/check.jpg)        |                                    |                                    |                                    |
-|Make predictions using analytical models             |[3]({% link footnotes.html#3 %})|                                    |                                    |                                    |
-|Re-symbolize, modify, or customize map data or labels|![](assets/images/check.jpg)        |[4]({% link footnotes.html#4 %})|![](assets/images/check.jpg)        |[4]({% link footnotes.html#4 %})| 
-|Customize printing of maps                           |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |[4]({% link footnotes.html#4 %})|[4]({% link footnotes.html#4 %})|
+|Make predictions using analytical models             |[3]{% link footnotes.html#3 %}|                                    |                                    |                                    |
+|Re-symbolize, modify, or customize map data or labels|![](assets/images/check.jpg)        |[4]{% link footnotes.html#4 %}|![](assets/images/check.jpg)        |[4]{% link footnotes.html#4 %}| 
+|Customize printing of maps                           |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |[4]{% link footnotes.html#4 %}|[4]{% link footnotes.html#4 %}|
 |Save and share the work with others                  |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |                                    |
-|Prepare specific datasets for off-line use           |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |                                    |[7]({% link footnotes.html#7 %})|
-|Collect data                                         |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |[5]({% link footnotes.html#5 %})|[7]({% link footnotes.html#7 %})|
-|Edit data                                            |[6]({% link footnotes.html#6 %})|![](assets/images/check.jpg)        |6                                   |[7]({% link footnotes.html#7 %})|
-|Work off-line (access without Internet)              |![](assets/images/check.jpg)        |[7]({% link footnotes.html#7 %})|                                    |[7]({% link footnotes.html#7 %})|   
+|Prepare specific datasets for off-line use           |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |                                    |[7]{% link footnotes.html#7 %}|
+|Collect data                                         |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |[5]{% link footnotes.html#5 %}|[7]{% link footnotes.html#7 %}|
+|Edit data                                            |[6]{% link footnotes.html#6 %}|![](assets/images/check.jpg)        |6                                   |[7]{% link footnotes.html#7 %}|
+|Work off-line (access without Internet)              |![](assets/images/check.jpg)        |[7]{% link footnotes.html#7 %}|                                    |[7]{% link footnotes.html#7 %}|   
 
 
 ## As the end user of the application I want to export data in the following formats:
