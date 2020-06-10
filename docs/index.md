@@ -7,7 +7,7 @@ nav_order: 1
 # Web Mapping Services: 
 ## Find the right solution for your business. 
 
-Some decisions are complicated. This framework will help you select a solution. or not.<br>
+Some decisions are complicated. This framework will help you select a solution.<br>
 
 --------------
 
