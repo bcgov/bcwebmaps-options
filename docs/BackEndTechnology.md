@@ -34,14 +34,14 @@ location are best determined when collaborating with a technical expert.
 
 |                             |AGO                         | CWM                        | IMF2                       |SMK                         |
 |-----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|
-|.csv or .xml varient         |![](assets/images/check.jpg)|![](assets/images/check.jpg)|                            |17                          |
+|.csv or .xml varient         |![](assets/images/check.jpg)|![](assets/images/check.jpg)|                            |[17](footnotes.html#17)     |
 |GeoJSON                      |![](assets/images/check.jpg)|![](assets/images/check.jpg)|                            |![](assets/images/check.jpg)|                         |
 |KML                          |![](assets/images/check.jpg)|![](assets/images/check.jpg)|                            |![](assets/images/check.jpg)|
 |Shape                        |![](assets/images/check.jpg)|![](assets/images/check.jpg)|                            |![](assets/images/check.jpg)|
 |File GeoDatabase             |![](assets/images/check.jpg)|                            |                            |                            |
 |WMS                          |![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|
 |WFS                          |![](assets/images/check.jpg)|![](assets/images/check.jpg)|                            |![](assets/images/check.jpg)|          
-|Oracle BCGW                  |10                          |![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|
+|Oracle BCGW                  |[10](footnotes.html#10)     |![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|
 |Oracle operational database  |                            |![](assets/images/check.jpg)|                            |                            |
 |ArcRest Endpoint             |![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|
 
