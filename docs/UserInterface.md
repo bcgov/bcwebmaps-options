@@ -24,6 +24,7 @@ Can the client easily create customize report outputs, either on-screen or print
 Can I share a link or a saved session so my client either internal or external to government can look at the same layout, zoom scale, and layers. 
 Can I measure distance or area on my map?
 Can you use this solution on a mobile device (phone or tablet) with a browser?
+Which internet browsers can you use with this application?
 
 ## As the end user of the application I want:
 
