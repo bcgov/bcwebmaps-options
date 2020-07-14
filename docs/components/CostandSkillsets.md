@@ -10,7 +10,7 @@ nav_order: 4
 
 # Costs and Skillsets
 
-|                                                                                    |[AGO](AGO.html)| [CWM](CWM.html)  | [IMF2](IMF2.html) |[SMK](SMK.html)  |
+|                                                                                    |[AGO](/web-mapping-frameworks/AGO.html)| [CWM](/web-mapping-frameworks/CWM.html)  | [IMF2](/web-mapping-frameworks/IMF2.html) |[SMK](/web-mapping-frameworks/SMK.html)  |
 |------------------------------------------------------------------------------------|------|------|------|-----|
 |What IT skills do you need to develop this solution?                                 |||||
 |What IT skills do you need to administer this solution once it has been implemented? |||||

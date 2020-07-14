@@ -3,7 +3,7 @@ layout: default
 title: Components
 nav_order: 2
 has_children: true
-permalink: /docs/components
+permalink: /components
 ---
 
 # Web Mapping Services: 
