@@ -14,7 +14,7 @@ Where is the data stored - in the cloud, on Government server or local drive.
 What capability does the application have to secure data or elements of the application based on IDIR/BCeID user and/or layer level security?
 Can the application be used when it isn't connected to the internet?
 What is the maturity and activity level of the project as measured in the Open Source environment?  
-Which internet browsers can you use with this application?
+
 
 ## As the owner of the application owner I want:
 
