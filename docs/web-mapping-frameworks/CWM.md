@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Web Mapping Services
+parent: Web Mapping Frameworks
 title: CWM - Common Webmapping Framework
 nav_order: 2
 ---

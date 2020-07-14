@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Web Mapping Services
+parent: Web Mapping Frameworks
 title: IMF2 - GeoCortex Essentials
 nav_order: 3
 

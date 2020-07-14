@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Web Mapping Services
+parent: Web Mapping Frameworks
 title: SMK - Simple Map Kit
 nav_order: 4
 
