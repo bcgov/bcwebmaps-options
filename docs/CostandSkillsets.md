@@ -9,7 +9,7 @@ has_children: true
 
 # Costs and Skillsets
 
-Can you use this solution on a mobile device (phone or tablet) with a browser?
+
 What IT skills do you need to develop this solution?
 What IT skills do you need to administer this solution once it has been implemented?
 What type of documentation is available and when was it updated?
