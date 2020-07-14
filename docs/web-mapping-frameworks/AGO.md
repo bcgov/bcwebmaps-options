@@ -3,7 +3,6 @@ layout: default
 parent: Web Mapping Services
 title: AGO - ArcGIS Online
 nav_order: 1
-has_children: false
 ---
 
 # BC Map Hub (ArcGIS Online Subscription)

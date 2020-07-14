@@ -2,8 +2,8 @@
 layout: default
 parent: Web Mapping Services
 title: SMK - Simple Map Kit
-nav_order: 1
-has_children: false
+nav_order: 4
+
 ---
 
 # SMK - Simple Map Kit 

@@ -1,9 +1,8 @@
 ---
 layout: default
-parent: Comparisons
+parent: Components
 title: Backend Technology
 nav_order: 3
-has_children: true
 ---
 
 

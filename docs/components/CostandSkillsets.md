@@ -1,9 +1,9 @@
 ---
 layout: default
-parent: Comparisons
+parent: Components
 title: Costs and Skillsets
 nav_order: 4
-has_children: true
+
 ---
 
 

@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Web Mapping Frameworks
-nav_order: 1
+title: Components
+nav_order: 3
 has_children: true
-has_toc: true
+permalink: /docs/components
 ---
 
 # Web Mapping Services: 
