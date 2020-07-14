@@ -2,7 +2,7 @@ remote_theme: "webgismd/just-the-docs"
 #theme: "just-the-docs"
 aux_links:
   "Edit on Github":
-    - "//github.com/webgismd/BCWebMaps-Options/"
+    - "//github.com/bcgov/BCWebMaps-Options/"
     
 footer_content: "<a href='https://gov.bc.ca/'>
   <img 
