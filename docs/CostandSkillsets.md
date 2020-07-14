@@ -10,6 +10,7 @@ has_children: true
 # Costs and Skillsets
 
 |                                                                                    |AGO   | CWM  | IMF2 |SMK  |
+|------------------------------------------------------------------------------------|------|------|------|-----|
 |What IT skills do you need to develop this solution?                                 |||||
 |What IT skills do you need to administer this solution once it has been implemented? |||||
 |What type of documentation is available and when was it updated?                     |||||
