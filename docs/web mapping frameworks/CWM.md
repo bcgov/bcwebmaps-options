@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Web Mapping Services
-title: IITD CWM - Common Webmapping Framework
+title: CWM - Common Webmapping Framework
 nav_order: 1
 has_children: false
 ---

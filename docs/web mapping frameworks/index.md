@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Web Mapping Services
+title: Web Mapping Frameworks
 nav_order: 1
 has_children: true
+has_toc: true
 ---
 
 # Web Mapping Services: 

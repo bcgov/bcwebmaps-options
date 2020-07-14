@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Web Mapping Services
-title: DataBC SMK - Simple Map Kit
+title: SMK - Simple Map Kit
 nav_order: 1
 has_children: false
 ---
