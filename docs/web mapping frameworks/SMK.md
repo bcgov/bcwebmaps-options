@@ -1,3 +1,11 @@
+---
+layout: default
+parent: Web Mapping Services: Find the right solution for your business.
+title: DataBC SMK - Simple Map Kit
+nav_order: 1
+has_children: false
+---
+
 # SMK - Simple Map Kit 
 
 Last updated 2020-03-25

@@ -1,3 +1,11 @@
+---
+layout: default
+parent: Web Mapping Services: Find the right solution for your business.
+title: BC's Map Hub - ArcGIS Online
+nav_order: 1
+has_children: false
+---
+
 # BC Map Hub (ArcGIS Online Subscription)
 
 Last updated 2020-03-25

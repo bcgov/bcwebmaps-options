@@ -1,3 +1,11 @@
+---
+layout: default
+parent: Web Mapping Services: Find the right solution for your business.
+title: DataBC IMF2 - GeoCortex Essentials
+nav_order: 1
+has_children: false
+---
+
 # IMF2 Internet Mapping Framework 2
 
 Last updated 2020-03-25

@@ -1,3 +1,10 @@
+---
+layout: default
+parent: Web Mapping Services: Find the right solution for your business.
+title: IITD CWM - Common Webmapping Framework
+nav_order: 1
+has_children: false
+---
 # CWM - Common Web Mapping Framework
 
 Last updated 2020-03-25
