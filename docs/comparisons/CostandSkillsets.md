@@ -1,5 +1,6 @@
 ---
 layout: default
+parent: Comparisons
 title: Costs and Skillsets
 nav_order: 4
 has_children: true
@@ -9,7 +10,7 @@ has_children: true
 
 # Costs and Skillsets
 
-|                                                                                    |[AGO](AGO.html)| [CWM](CWM.html)  | [IMF2]IMF2.html) |[SMK](SMK.html)  |
+|                                                                                    |[AGO](AGO.html)| [CWM](CWM.html)  | [IMF2](IMF2.html) |[SMK](SMK.html)  |
 |------------------------------------------------------------------------------------|------|------|------|-----|
 |What IT skills do you need to develop this solution?                                 |||||
 |What IT skills do you need to administer this solution once it has been implemented? |||||

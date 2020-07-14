@@ -1,5 +1,6 @@
 ---
 layout: default
+parent: Comparisons
 title: User Interface
 nav_order: 2
 has_children: false

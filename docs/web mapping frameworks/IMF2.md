@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Web Mapping Services: Find the right solution for your business.
+parent: Web Mapping Services
 title: DataBC IMF2 - GeoCortex Essentials
 nav_order: 1
 has_children: false
