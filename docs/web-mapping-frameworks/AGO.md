@@ -23,23 +23,13 @@ Last updated 2020-07-15
 
 ## Context
 
-ESRI's extension of ArcGIS into the cloud, ArcGIS Online provides a space to develop applications and share apps and contents for purposes of collaboration. The official BC Government location for ESRI's ArcGIS Online (AGOL) tool. It is a cloud-based tool which allows a user to develop applications and share geospatial information. Useful to link GIS Analyst work with Business users to share maps and reports. Primary Strengths -	"Simple applications that can be built and shared with groups, a ministry, government or public". Hundreds of default templates to choose from including story books. ArcGIS Online collector for quick, simple field data collection.
-Elastic server architecture for high, short term use applications
-
-
-## Context and Problem Statement
-
-Business Areas who may have internal GIS Staff who are able to build and support the web mapping solution and they may not have access to software developers.
+ESRI's extension of ArcGIS into the cloud, ArcGIS Online provides a space to develop applications and share apps and contents for purposes of collaboration. The official BC Government location for ESRI's ArcGIS Online (AGOL) tool. It is a cloud-based tool which allows a user to develop applications and share geospatial information. It is Useful to link GIS Analyst work with Business users to share maps and reports. Primary Strengths include the ability to create simple applications that can be built and shared with groups, a ministry, government or the public. There are many default templates to choose from including story books. For field data collection, there is ArcGIS Online collector for quick, simple field data collection. The elastic server architecture allows for high, short term use applications.
+This SaaS product is usefull for any business areas that may have internal GIS Staff who are able to build and support web mapping solution and who may not have access to software developers.
 
 ## Decision Drivers
 
-### Pros
 * skillset of team (may be historial GIS analysts familiar with ArcGIS Products vs IT Developers)
 * cloud based service offering that is scalable, and accessible to GIS analysts who may not be developeres
-
-### Cons
-
-* costs
 * not open source
 * hosted outside of Canada
 
