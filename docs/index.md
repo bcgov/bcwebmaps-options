@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Main
+title: Return to Main
 nav_order: 1
 has_toc: false
 
@@ -14,13 +14,7 @@ There are many options for web mapping technology frameworks in today's world. T
 
 The purpose of this site is to discover what is available, and if any of these solutions can meet your needs.
 
-{: .fs-6 .fw-300 }
-
-<br><br>
-
-# Component Comparisons
-
-<br><br>
+# Component Comparison
 
 --------------
 ## Costs and Skillsets
