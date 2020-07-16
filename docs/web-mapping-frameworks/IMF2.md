@@ -8,23 +8,21 @@ nav_order: 3
 
 # IMF2 Internet Mapping Framework 2
 
-Last updated 2020-03-25
+Last updated 2020-07-15
 
 ## Status
 
 * Status: Platform Maturity - Minor UI Updates
-* Contact / Initiation Process	Client Engagement - Terry.Lanktree@gov.bc.ca; datamaps@gov.bc.ca
-* Technology platform - .NET, IIS, HTML5 Viewer, ArcGIS rest services
+* Contact / Initiation Process	Client Engagement - [Terry.Lanktree@gov.bc.ca](mailto:Terry.Lanktree@gov.bc.ca); [datamaps@gov.bc.ca](mailto:datamaps@gov.bc.ca)
+* Technology platform - .NET, IIS, HTML5 Viewer, ArcGIS rest services, GeoCortex Essentials
 * Skillsets required - .NET development for customization, deployment via jenkins of configuration files to DataBC's environment
-* Licensed through GeoCortex
-* Links to software providers/code repositories - https://www.geocortex.com/products/geocortex-essentials/
-* Example implementation - https://maps.gov.bc.ca/ess/hm/imap4m/
+* Licensed through VertiGis 
+* Links to software providers/code repositories - [https://www.geocortex.com/products/geocortex-essentials/](https://www.geocortex.com/products/geocortex-essentials/)
+* Example implementation - iMapBC - [https://maps.gov.bc.ca/ess/hm/imap4m/](https://maps.gov.bc.ca/ess/hm/imap4m/)
 
 ## Context
 
-A web mapping platform that's versatile through configuration and custom tool development.  
-Ideal for fit for purpose applications, both desktop and mobile.  Can be light weight or heavy weight depending on clients needs.
-A web mapping platform which is the built upon the ESRI GeoCortex platform. 
+A web mapping platform which is the built upon the ESRI GeoCortex platform and an HTML5 viewer.
 This is a DataBC hosted licensed product which provides maps and reports from the BC Geographic Warehouse (secure and public). 
 Ideal for either mobile or desktop as is or with additional development.  
 
@@ -37,20 +35,7 @@ Allows access to secure objects within the BC Geographic Warehouse via WEBADE an
 * based on business need for secure access to BCGW, and hosting support
 * capabilitied and skill sets of the development/application team
 * relationship with DataBC
-
-## Considered Options
-
-* refer to root of this repo - 
-
-
-### Positive Consequences 
-
 * hosted by DataBC, access to secure BC Geographic Warehouse data
-
-
-### Negative Consequences 
-
-* costs
 * not open source
 * use of legacy security model
 * full control of hosted environment in production is by DataBC
@@ -59,21 +44,11 @@ Allows access to secure objects within the BC Geographic Warehouse via WEBADE an
 # Additional Information
 
 ## Hosting / Development Requirements
-* Full development of coding/scripting web mapping applications 
-* A web mapping application that can be configured and deployed with internal resources 
-* A web mapping application that can be configured and deployed with Consulting/contractor services 
-* Simple customizations without the effort of a full development 
-* Complex custom tools, workflows and applications to provide powerful and feature-rich end-user experiences 
-* Customization of web mapping applications that can be embedded in other applications or web pages 
-* Is hosted in Canada	- yes
-* Is hosted (DataBC managed deployment, developer deployments with delivery environments)	
-* minimal licensing fees	Geocortex ELA
+* A web mapping application that can be configured and deployed with internal resources or with Consulting/contractor services 
+* Is hosted in Canada	- (DataBC managed deployment, developer deployments with delivery environments)	
+* minimal licensing fees Geocortex ELA
 * Supports the ability to secure the application or data within the application based on IDIR/BCeID user layer level security	
 * Time to Market	Varies - Standard SDLC
-* Build Cost/Development	
-* License/Platform Cost	
-* Data Modelling Costs	
-* Hosting Costs	Annual hosting costs vary based on app complexity or MOU
 
 ## End User Requirements	
 * Can Easily FIND the web mapping application and data within the map	
