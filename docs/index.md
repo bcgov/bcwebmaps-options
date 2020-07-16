@@ -16,12 +16,11 @@ The purpose of this site is to discover what is available, and if any of these s
 
 {: .fs-6 .fw-300 }
 
-
+<br><br><br><br>
 
 # Web Mapping Framework Component Comparisons
-## Find the right solution for your business. 
 
-Some decisions are complicated. This framework will help you select a solution.<br>
+<br><br>
 
 --------------
 ## Costs and Skillsets
