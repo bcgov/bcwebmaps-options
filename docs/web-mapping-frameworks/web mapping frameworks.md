@@ -3,7 +3,7 @@ layout: default
 title: Web Mapping Frameworks
 nav_order: 1
 has_children: true
-
+nav_exclude: true
 ---
 
 # Web Mapping Frameworks
