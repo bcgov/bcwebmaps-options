@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Web Mapping Frameworks
-title: AGO - ArcGIS Online
+title: AGO
 nav_order: 1
 ---
 
