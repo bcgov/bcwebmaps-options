@@ -8,6 +8,7 @@ nav_order: 1
 # BC Map Hub (ArcGIS Online Subscription)
 
 Last updated 2020-07-15
+[return home](.){: .btn }
 
 ## Status
 
