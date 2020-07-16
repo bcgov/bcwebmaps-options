@@ -22,12 +22,7 @@ Last updated 2020-07-15
 
 ## Context
 
-This Natural Resource Ministries (NRM) service is part of Common Services tools which provides an Open Source framework for building a map within an application.  The CWM Client can be added to host application web pages to display and interact with maps and spatial data. The NRM Common Web Mapping (CWM) framework provides a simple, powerful and lightweight mapping capability for web-browser based client applications. CWM is integrated with the NRS ISSS service-based architecture.  The client component provides a simple API to let host pages interact with the map to display and manipulate spatial data.
-
-
-## Context and Problem Statement
-
-Business Areas who may have javascript/software developers who are able to build and support the web mapping solution OR engage with IIT for hosting/deployment resources.
+This Natural Resource Ministries (NRM) service is part of Common Services tools which provides an Open Source framework for building a map within an application.  The CWM Client can be added to host application web pages to display and interact with maps and spatial data. The NRM Common Web Mapping (CWM) framework provides a simple, powerful and lightweight mapping capability for web-browser based client applications. CWM is integrated with the NRS ISSS service-based architecture.  The client component provides a simple API to let host pages interact with the map to display and manipulate spatial data. This may fit a business areas that may have javascript/software developers that are able to build and support web mapping solutions OR engage with IITD for hosting/deployment resources.
 
 ## Decision Drivers
 
