@@ -6,23 +6,23 @@ nav_order: 2
 ---
 # CWM - Common Web Mapping Framework
 
-Last updated 2020-03-25
+Last updated 2020-07-15
 
 ## Status
 
 * Status: Platform Maturity
-* Contact / Initiation Process	Client Engagement - Bill.Devey@gov.bc.ca Common Services Manager IITD
+* Contact / Initiation Process	Client Engagement - [Bill.Devey@gov.bc.ca](mailto:Bill.Devey@gov.bc.ca) Common Services Manager IITD
 * Technology platform - javascript, openlayers, OGC WMS/WFS, ISSS Platform (Liferay/Tomcat)
 * Skillsets required - familiarity with javascript / relationship with IIT
 * Links to software providers/code repositories - Vivid Solutions Inc.
 * Ie. Example web map application  
-  - Natural Resource Online Services https://portal.nrs.gov.bc.ca/web/client/explore
-  - Mineral Tenures Online https://www.mtonline.gov.bc.ca/mtov/map/mto/cwm.jsp?site=mem_mto_min-view-title
-  - Integrated Land & Resource Registry (ILRR) https://a100.gov.bc.ca/ext/ilrr/jsp/mapviewer/ilrr-mapviewer.jsp
+  - Natural Resource Online Services [https://portal.nrs.gov.bc.ca/web/client/explore](https://portal.nrs.gov.bc.ca/web/client/explore)
+  - Mineral Tenures Online [https://www.mtonline.gov.bc.ca/mtov/map/mto/cwm.jsp?site=mem_mto_min-view-title](https://www.mtonline.gov.bc.ca/mtov/map/mto/cwm.jsp?site=mem_mto_min-view-title)
+  - Integrated Land & Resource Registry (ILRR) [https://a100.gov.bc.ca/ext/ilrr/jsp/mapviewer/ilrr-mapviewer.jsp](https://a100.gov.bc.ca/ext/ilrr/jsp/mapviewer/ilrr-mapviewer.jsp)
 
 ## Context
 
-This NRM service is part of Common Services tools which provides an Open Source framework for building a map within an application.  The CWM Client can be added to host application web pages to display and interact with maps and spatial data. The NRM Common Web Mapping (CWM) framework provides a simple, powerful and lightweight mapping capability for web-browser based client applications. CWM is integrated with the NRS ISSS service-based architecture.  The client component provides a simple API to let host pages interact with the map to display and manipulate spatial data.
+This Natural Resource Ministries (NRM) service is part of Common Services tools which provides an Open Source framework for building a map within an application.  The CWM Client can be added to host application web pages to display and interact with maps and spatial data. The NRM Common Web Mapping (CWM) framework provides a simple, powerful and lightweight mapping capability for web-browser based client applications. CWM is integrated with the NRS ISSS service-based architecture.  The client component provides a simple API to let host pages interact with the map to display and manipulate spatial data.
 
 
 ## Context and Problem Statement
@@ -33,34 +33,16 @@ Business Areas who may have javascript/software developers who are able to build
 
 * skillset of team (javascript developers/ relationship to IIT)
 * opensource drivers
-
-## Considered Options
-
-* refer to root of this repo - 
-
-
-### Positive Consequences 
-
 * part of NRM ISSS environment
-
-### Negative Consequences 
-
 * skill set required for development and maintenance available internal to government (software developer skillsets) that may not be available to business project.
 
 # Additional Information
 
 ## Hosting / Development Requirements
-* Full development of coding/scripting web mapping applications- yes
-* A web mapping application that can be configured and deployed with internal resources- yes
-* A web mapping application that can be configured and deployed with Consulting/contractor services- yes
-* Simple customizations without the effort of a full development	No - Depends how you define simple. Lots of customization can be done by changes to a JSON configuration file, without writing any code.
-* Complex custom tools, workflows and applications to provide powerful and feature-rich end-user experiences- yes  Workflows are the responsibility of the developer. 
-* Customization of web mapping applications that can be embedded in other applications or web pages- yes
-* Is hosted with deployment via a web server (IIT managed deployment)- yes
+* Lots of customization can be done by changes to a JSON configuration file, without writing any code.
+* Is hosted with deployment via a web server (IIT managed deployment)
 * Has zero or minimal licensing fees- yes
-* Supports the ability to secure the application or data within the application based on IDIR/BCeID user layer level security- yes both site and layer level
-* Provides high performance, fast and efficient response times- yes
-* Can handle a lot of users and high data volume- yes  Yes - The CWM library is running completely in the user’s browser, so it scales to any number of users. The map data it is showing is being generated on other machines, and those resources are being shared by all users. 
+* The CWM library is running completely in the user’s browser, so it scales to any number of users. The map data it is showing is being generated on other machines, and those resources are being shared by all users. 
 * Time to Market	Varies - Standard SDLC
 
 
