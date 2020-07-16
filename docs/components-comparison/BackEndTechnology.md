@@ -7,15 +7,7 @@ nav_order: 3
 
 
 
-# Backend Technology
 
-|                                                                                    |[AGO](/web-mapping-frameworks/AGO.html)| [CWM](/web-mapping-frameworks/CWM.html)  | [IMF2](/web-mapping-frameworks/IMF2.html) |[SMK](web-mapping-frameworks/SMK.html)  |
-|------------------------------------------------------------------------------------|------|------|------|-----|
-Where will the application be hosted - in the cloud, on a Government server or elsewhere?|||||
-Where is the data stored - in the cloud, on Government server or local drive.|||||
-What capability does the application have to secure data or elements of the application based on IDIR/BCeID user and/or layer level security?|||||
-Can the application be used when it isn't connected to the internet?|||||
-What is the maturity and activity level of the project as measured in the Open Source environment?  |||||
 
 
 ## As the owner of the application owner I want:
