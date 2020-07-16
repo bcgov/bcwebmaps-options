@@ -27,3 +27,6 @@ heading_anchors: true
 
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/BCID_H_rgb_pos.png"
+
+# Supports true (default) or false
+search_enabled: true
