@@ -43,39 +43,4 @@ Business Areas who may have internal GIS Staff who are able to build and support
 * not open source
 * hosted outside of Canada
 
-# Additional Information
 
-## Hosting / Development Requirements
-* Can Self-serve/wizard option to build web mapping applications quickly with or without coding/scripting experience
-* Can build coding/scripting web mapping applications - see web app builder [(http://esri.com/en-us/arcgis/products/web-appbuilder/overview)](http://esri.com/en-us/arcgis/products/web-appbuilder/overview)
-* A web mapping application that can be configured and deployed with internal resources or Consulting/contractor services
-* Simple customizations without the effort of a full development
-* Can handle a lot of users and high data volume
-* Time to Market - Fast - Self publication potential
-* Build Cost/Development - requirements user based subscriptions, no coding required for simple maps, configuration via GUI
-* Hosting Costs - data hosting costs may apply
-
-## End User Requirements	
-* Can Easily FIND the web mapping application and data within the map
-* Can Easily FIND metadata/information about the data in the web mapping application 
-* Can ACCESS the web mapping application via their mobile device
-* Can SHARE the mapping application session and its data internally within government
-* Can SHARE the mapping application session and its data externally with non-government 
-* Can Consume and integrate local data into the web mapping application 
-* Can Consume and integrate Provincial data into the web mapping application - can be WMS/WFS - limited, better with ArcGIS Rest services.
-* Can Consume and integrate External data into the web mapping application (WMS, REST) 
-* Can Transfer data collected within the web mapping application to operational systems 
-* Can Collect data	Yes - through Collector for AGO and Survey123 for AGO mobile apps
-* Can Edit data 
-* Can Filter or query data 
-* Can Download the data being viewed	Yes - but there may be some limitations
-* Can Prepare specific datasets for off-line use 
-* Can Add mark-ups to the map in the web mapping application 
-* Can Re-symbolize, modify or customize map data or labels 
-* Can Customize printing by modifying the legend	
-* Can Access visualization tools in the web mapping application 
-* Can Identify & discover relationships among features (e.g. proximity, intersection) 
-* Can Detect statistically significant patterns (e.g. hotspots, outliers) 
-* Can Use analytical models to make predictions based on data	(AGO does have some capabilities - but we encourage folks to use ArcMap or Pro instead.  Complexity of desired analytical model may be a factor and incur hosting costs)
-* Types of training available - in person, webinars, documentation, ESRI Support
-Mobile Friendly	- Yes
