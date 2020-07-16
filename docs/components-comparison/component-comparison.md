@@ -14,7 +14,7 @@ Some decisions are complicated. This framework will help you select a solution.<
 --------------
 ## Costs and Skillsets
 
-|                                                                                    |[AGO](/web-mapping-frameworks/AGO.html)| [CWM](/web-mapping-frameworks/CWM.html)  | [IMF2](/web-mapping-frameworks/IMF2.html) |[SMK](web-mapping-frameworks/SMK.html)  |
+|                                                                                    |[AGO](web-mapping-frameworks/AGO.html)| [CWM](web-mapping-frameworks/CWM.html)  | [IMF2](web-mapping-frameworks/IMF2.html) |[SMK](web-mapping-frameworks/SMK.html)  |
 |------------------------------------------------------------------------------------|------|------|------|-----|
 |What IT skills do you need to develop this solution?                                 |familiarity with ESRI ecosystem of applications and their APIs|familiarity with javascript / relationship with IIT|familiarity with GeoCortex Essentials, .NET development for customization, deployment via jenkins of configuration files to DataBC’s environment|familiarity with javascript development/github|
 |What IT skills do you need to administer this solution once it has been implemented? |familiarity with ESRI ecosystem of applications||||
