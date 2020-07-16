@@ -1,10 +1,4 @@
----
-layout: default
-title: Component Comparison
-nav_order: 2
-has_children: true
-permalink: /components
----
+
 
 # Web Mapping Framework Component Comparisons
 ## Find the right solution for your business. 
