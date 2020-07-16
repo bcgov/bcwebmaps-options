@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Component Comparison
+title: Main
 nav_order: 1
-has_children: true
+has_toc: false
 
 ---
 
@@ -16,9 +16,9 @@ The purpose of this site is to discover what is available, and if any of these s
 
 {: .fs-6 .fw-300 }
 
-<br><br><br>
+<br><br>
 
-# Web Mapping Framework Component Comparisons
+# Component Comparisons
 
 <br><br>
 
