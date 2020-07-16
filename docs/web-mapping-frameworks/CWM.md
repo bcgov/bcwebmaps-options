@@ -36,36 +36,3 @@ Business Areas who may have javascript/software developers who are able to build
 * part of NRM ISSS environment
 * skill set required for development and maintenance available internal to government (software developer skillsets) that may not be available to business project.
 
-# Additional Information
-
-## Hosting / Development Requirements
-* Lots of customization can be done by changes to a JSON configuration file, without writing any code.
-* Is hosted with deployment via a web server (IIT managed deployment)
-* Has zero or minimal licensing fees- yes
-* The CWM library is running completely in the user’s browser, so it scales to any number of users. The map data it is showing is being generated on other machines, and those resources are being shared by all users. 
-* Time to Market	Varies - Standard SDLC
-
-
-## End User Requirements	
-* Easily FIND the web mapping application and data within the map- yes
-* Easily FIND metadata/information about the data in the web mapping application- yes
-* Easily USE the web mapping application without training (Training to use, and/or build)- yes
-* SHARE the mapping application session and its data internally within government- yes
-* SHARE the mapping application session and its data externally with non-government - yes
-* Consume and integrate local data into the web mapping application- yes  Seven popular geometry types for import 
-* Consume and integrate Provincial data into the web mapping application- yes
-* Consume and integrate External data into the web mapping application (WMS, ArcGIS REST)- yes
-* Transfer data collected within the web mapping application to operational systems	- not part of CWM client.  Application which hosts CWM needs to be able to handle this.
-* Collect data	- CWM client provides the tools, but the application needs to implement workflows
-* Edit data	- CWM client provides the tools, but the application needs to implement workflows
-* Filter or query data- yes
-* Download the data being viewed- yes
-* Prepare specific datasets for off-line use- yes
-* Add mark-ups to the map in the web mapping application- yes
-* Customize printing by modifying the legend- yes
-* Save work and return to it at a later date- yes
-* Access visualization tools in the web mapping application	
-* Identify & discover relationships among features (e.g. proximity, intersection)- CWM client can make use of SOS to find features that overlap a polygon.
-* Types of training available	- Floating Help, contextual help, 
-* Mobile Friendly	- No
-
