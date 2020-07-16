@@ -17,7 +17,7 @@ Last updated 2020-07-15
 * Technology platform - javascript, leaflet, arcgis javascript api, OGC WMS/WFS, ArcGIS Rest
 * Skillsets required - familiarity with javascript development/github
 * Apache 2.0 license
-* Links to software providers/code repositories - [https://github.com/bcgov/smk-client](https://github.com/bcgov/smk-client)
+* Links to software providers/code repositories - [https://github.com/bcgov/smk](https://github.com/bcgov/smk) and [https://bcgov.github.io/smk/](https://bcgov.github.io/smk/)
 * Ie. Example web map applications:  
   - Truck Route Planner - [https://bcgov.github.io/smk-tlink/](https://bcgov.github.io/smk-tlink/)
   - Assisted Living and Residential Care Locations - [http://moh-qa.apps.gov.bc.ca/alrc/?](http://moh-qa.apps.gov.bc.ca/alrc/?)
