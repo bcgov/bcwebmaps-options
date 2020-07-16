@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Web Mapping Frameworks
-title: IMF2 - GeoCortex Essentials
+title: IMF2
 nav_order: 3
 
 ---
