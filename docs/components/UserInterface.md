@@ -9,23 +9,25 @@ nav_order: 2
 
 # User Interface
 
-Can I print a map with a user-defined scale, paper size or in combination with a report?
-Which geographic projection and datums are available for use with this application?
-Can I add markup text or drawings onto my map for printing?
-Can data be downloaded which was created on the map ie. Markup AOI
-Can I draw and edit an Area of Interest ?
-Can I turn on or off specific map layers while viewing the map?
-Can I download application data?
-Can you import or load data for use in the map?
-Can you search for geographic locations or a specific feature on the map?
-Does the application provide map navigation tools such as mouse wheel zoom, zoom to extent or zoom to a feature?
-Can you select different basemaps which are either an image or a different style of map?
-Can I create and save data queries within the map to find locations or interests on the map?
-Can the client easily create customize report outputs, either on-screen or printable?
-Can I share a link or a saved session so my client either internal or external to government can look at the same layout, zoom scale, and layers. 
-Can I measure distance or area on my map?
-Can you use this solution on a mobile device (phone or tablet) with a browser?
-Which internet browsers can you use with this application?
+|                                                                                    |[AGO](/web-mapping-frameworks/AGO.html)| [CWM](/web-mapping-frameworks/CWM.html)  | [IMF2](/web-mapping-frameworks/IMF2.html) |[SMK](web-mapping-frameworks/SMK.html)  |
+|------------------------------------------------------------------------------------|------|------|------|-----|
+Can I print a map with a user-defined scale, paper size or in combination with a report?|||||
+Which geographic projection and datums are available for use with this application?|||||
+Can I add markup text or drawings onto my map for printing?|||||
+Can data be downloaded which was created on the map ie. Markup AOI|||||
+Can I draw and edit an Area of Interest ?|||||
+Can I turn on or off specific map layers while viewing the map?|||||
+Can I download application data?|||||
+Can you import or load data for use in the map?|||||
+Can you search for geographic locations or a specific feature on the map?|||||
+Does the application provide map navigation tools such as mouse wheel zoom, zoom to extent or zoom to a feature?|||||
+Can you select different basemaps which are either an image or a different style of map?|||||
+Can I create and save data queries within the map to find locations or interests on the map?|||||
+Can the client easily create customize report outputs, either on-screen or printable?|||||
+Can I share a link or a saved session so my client either internal or external to government can look at the same layout, zoom scale, and layers. |||||
+Can I measure distance or area on my map?|||||
+Can you use this solution on a mobile device (phone or tablet) with a browser?|||||
+Which internet browsers can you use with this application?|||||
 
 ## As the end user of the application I want:
 
