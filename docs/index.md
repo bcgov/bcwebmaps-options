@@ -29,13 +29,13 @@ The purpose of this site is to discover what is available, and if any of these s
 
 |                                                                                    |[AGO](/web-mapping-frameworks/AGO.html)| [CWM](/web-mapping-frameworks/CWM.html)  | [IMF2](/web-mapping-frameworks/IMF2.html) |[SMK](web-mapping-frameworks/SMK.html)  |
 |------------------------------------------------------------------------------------|------|------|------|-----|
-Can I print a map with a user-defined scale, paper size or in combination with a report?|||||
-Which geographic projection and datums are available for use with this application?|||||
-Can I add markup text or drawings onto my map for printing?|||||
-Can data be downloaded which was created on the map ie. Markup AOI|||||
-Can I draw and edit an Area of Interest ?|||||
-Can I turn on or off specific map layers while viewing the map?|||||
-Can I download application data?|||||
+Can I print a map with a user-defined scale, paper size or in combination with a report?|yes|yes|yes|yes|
+Can I draw and edit an Area of Interest ?|yes|yes|yes|?|
+Can data be downloaded that was created on the map ie. Area of Interest AOI|yes|yes|yes|YeS?viewer onlyyllno|
+Can I import/export data layers that are in different geographic projection as the map?|no* available in ESRI Javascript API/desktop tools|yes|yes|?|
+Can I add markup text or drawings onto my map for printing?|yes|yes|yes|yes?..|
+Can I turn on or off specific map layers while viewing the map?|yes|yes|yes|yes|
+Can I download operational business data from the map/application?|yes* webappbuilder csv, snippet of data|no|redirects to DataBC Distribution for BCGW data||
 Can you import or load data for use in the map?|||||
 Can you search for geographic locations or a specific feature on the map?|||||
 Does the application provide map navigation tools such as mouse wheel zoom, zoom to extent or zoom to a feature?|||||
