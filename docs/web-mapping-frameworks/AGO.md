@@ -7,7 +7,7 @@ nav_order: 1
 
 # BC Map Hub (ArcGIS Online Subscription)
 
-[return home](/BCWebMaps-Options){: .btn }<br>
+
 Last updated 2020-07-15
 
 
