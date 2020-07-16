@@ -5,7 +5,7 @@ title: CWM
 nav_order: 2
 ---
 # CWM - Common Web Mapping Framework
-[return home](/){: .btn }<br>
+
 Last updated 2020-07-15
 
 ## Status
