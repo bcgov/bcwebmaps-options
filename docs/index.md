@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Web Mapping Frameworks
+title: Main
 nav_order: 1
 has_children: true
 
