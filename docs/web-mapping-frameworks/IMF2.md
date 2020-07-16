@@ -24,11 +24,7 @@ Last updated 2020-07-15
 
 A web mapping platform which is the built upon the ESRI GeoCortex platform and an HTML5 viewer.
 This is a DataBC hosted licensed product which provides maps and reports from the BC Geographic Warehouse (secure and public). 
-Ideal for either mobile or desktop as is or with additional development.  
-
-## Context and Problem Statement
-
-Allows access to secure objects within the BC Geographic Warehouse via WEBADE and Siteminder.
+Ideal for either mobile or desktop as is or with additional development. This solution may be a good fit for business areas that need access to secure objects within the BC Geographic Warehouse via WEBADE and Siteminder, and may not have any GIS, hosting or development capabilities.
 
 ## Decision Drivers
 
