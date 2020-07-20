@@ -58,9 +58,9 @@ As the owner or developer of the application I want to understand...
 
 |                                                                                    |[AGO](/web-mapping-frameworks/AGO.html)| [CWM](/web-mapping-frameworks/CWM.html)  | [IMF2](/web-mapping-frameworks/IMF2.html) |[SMK](web-mapping-frameworks/SMK.html)  |
 |------------------------------------------------------------------------------------|------|------|------|-----|
-<b>Where will the application be hosted - in the cloud, on a Government server or elsewhere?|||||
-<b>Where is the data stored - in the cloud, on Government server or local drive.|||||
-<b>What capability does the application have to secure data or elements of the application based on IDIR/BCeID user and/or layer level security?|||||
+<b>Where can these application be hosted - in the cloud, on a Government server or elsewhere?|Cloud|onPremise|onPremise|both|
+<b>Where is the data stored - in the cloud, on Government server or local drive.|all|cloud, onpremise|all|cloud, onpremise|
+<b>What capability does the application have to secure data or elements of the application based on IDIR/BCeID user and/or layer level security?|AGO BCGov Subscription based|Webade/Siteminder|Webade/Siteminder|User governed|
 <b>Can the application be used when it isn't connected to the internet?|![](assets/images/check.jpg)|[7](footnotes.html#7)  ||[7](footnotes.html#7)  |
 <b>What is the maturity and activity level of the project as measured in the Open Source environment?  |low|high|low|high|
 
@@ -78,7 +78,7 @@ Below are examples of similar functionality in the available solutions.
 
 ## Supporting/StandAlone Spatial Serivces
 
-These REST basd web services are stand alone and support the Web Mapping Frameworks described above.
+These REST based web services are stand alone and are supported by each of these Web Mapping Frameworks described above.
 
 |Name|Function|More Information|
 |----|--------|----------------|
