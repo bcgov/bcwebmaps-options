@@ -26,7 +26,7 @@ As the owner or developer of the application I want to understand...
 |------------------------------------------------------------------------------------|------|------|------|-----|
 |What IT skills do you need to develop this solution?                                 |familiarity with ESRI ecosystem of applications and their APIs|familiarity with javascript / relationship with IIT|familiarity with GeoCortex Essentials, .NET development for customization, deployment via jenkins of configuration files to DataBC’s environment|familiarity with javascript development/github|
 |What IT skills do you need to administer this solution once it has been implemented? |familiarity with ESRI ecosystem of applications||||
-|What type of documentation is available and when was it updated?                     |online updated regularly|via IIT, on intranet, not updated|online, updated by GeoCortex|Updated by Databc, ongoing|
+|What type of documentation is available and when was it updated?                     |online updated regularly, see [https://www.arcgis.com/home/index.html](https://www.arcgis.com/home/index.html)|via IIT, on intranet, not updated see - [https://i1portal.nrs.gov.bc.ca/cwmc-lib/v1.9.0/sdk/](https://i1portal.nrs.gov.bc.ca/cwmc-lib/v1.9.0/sdk/)|online, updated by GeoCortex [https://www.geocortex.com/products/geocortex-essentials/](https://www.geocortex.com/products/geocortex-essentials/)|Updated by Databc, ongoing, see [https://github.com/bcgov/smk](https://github.com/bcgov/smk)|
 
 ### User Interface
 
