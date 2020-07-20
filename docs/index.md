@@ -24,9 +24,9 @@ As the owner or developer of the application I want to understand...
 
 |                                                                                    |[AGO](web-mapping-frameworks/AGO.html)| [CWM](web-mapping-frameworks/CWM.html)  | [IMF2](web-mapping-frameworks/IMF2.html) |[SMK](web-mapping-frameworks/SMK.html)  |
 |------------------------------------------------------------------------------------|------|------|------|-----|
-|What IT skills do you need to develop this solution?                                 |familiarity with ESRI ecosystem of applications and their APIs|familiarity with javascript / relationship with IIT|familiarity with GeoCortex Essentials, .NET development for customization, deployment via jenkins of configuration files to DataBC’s environment|familiarity with javascript development/github|
-|What IT skills do you need to administer this solution once it has been implemented? |familiarity with ESRI ecosystem of applications||||
-|What type of documentation is available and when was it updated?                     |online updated regularly, see [https://www.arcgis.com/home/index.html](https://www.arcgis.com/home/index.html)|via IIT, on intranet, not updated see - [https://i1portal.nrs.gov.bc.ca/cwmc-lib/v1.9.0/sdk/](https://i1portal.nrs.gov.bc.ca/cwmc-lib/v1.9.0/sdk/)|online, updated by GeoCortex [https://www.geocortex.com/products/geocortex-essentials/](https://www.geocortex.com/products/geocortex-essentials/)|Updated by Databc, ongoing, see [https://github.com/bcgov/smk](https://github.com/bcgov/smk)|
+|<b>What IT skills do you need to develop this solution? </b>                                |familiarity with ESRI ecosystem of applications and their APIs|familiarity with javascript / relationship with IIT|familiarity with GeoCortex Essentials, .NET development for customization, deployment via jenkins of configuration files to DataBC’s environment|familiarity with javascript development/github|
+|<b>What IT skills do you need to administer this solution once it has been implemented?<b> |familiarity with ESRI ecosystem of applications||||
+|<b>What type of documentation is available and when was it updated?<b>                     |online updated regularly, see [https://www.arcgis.com/home/index.html](https://www.arcgis.com/home/index.html)|via IIT, on intranet, not updated see - [https://i1portal.nrs.gov.bc.ca/cwmc-lib/v1.9.0/sdk/](https://i1portal.nrs.gov.bc.ca/cwmc-lib/v1.9.0/sdk/)|online, updated by GeoCortex [https://www.geocortex.com/products/geocortex-essentials/](https://www.geocortex.com/products/geocortex-essentials/)|Updated by Databc, ongoing, see [https://github.com/bcgov/smk](https://github.com/bcgov/smk)|
 
 ### User Interface
 
@@ -34,7 +34,7 @@ As the end user of the application I want...
 
 |                                                                                    |[AGO](/web-mapping-frameworks/AGO.html)| [CWM](/web-mapping-frameworks/CWM.html)  | [IMF2](/web-mapping-frameworks/IMF2.html) |[SMK](web-mapping-frameworks/SMK.html)  |
 |------------------------------------------------------------------------------------|------|------|------|-----|
-Can I print a map with a user-defined scale, paper size or in combination with a report?|![](assets/images/check.jpg) |![](assets/images/check.jpg) |![](assets/images/check.jpg) |![](assets/images/check.jpg) |
+<b>Can I print a map with a user-defined scale, paper size or in combination with a report?|![](assets/images/check.jpg) |![](assets/images/check.jpg) |![](assets/images/check.jpg) |![](assets/images/check.jpg) |
 Can I draw and edit an Area of Interest ?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|?|
 Can data be downloaded that was created on the map ie. Area of Interest AOI|![](assets/images/check.jpg)|![](assets/images/check.jpg)|yes|YeS?viewer onlyyllno|
 Can I import/export data layers that are in different geographic projection as the map?|no* available in ESRI Javascript API/desktop tools|yes|yes|?|
