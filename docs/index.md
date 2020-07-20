@@ -27,6 +27,7 @@ The purpose of this site is to discover what is available, and if any of these s
 
 ## User Interface
 
+As the end user of the application I want...
 |                                                                                    |[AGO](/web-mapping-frameworks/AGO.html)| [CWM](/web-mapping-frameworks/CWM.html)  | [IMF2](/web-mapping-frameworks/IMF2.html) |[SMK](web-mapping-frameworks/SMK.html)  |
 |------------------------------------------------------------------------------------|------|------|------|-----|
 Can I print a map with a user-defined scale, paper size or in combination with a report?|yes|yes|yes|yes|
@@ -44,7 +45,7 @@ Can I create and save data queries within the map to find locations or interests
 Can the client easily create customize report outputs, either on-screen or printable?|||||
 Can I share a link or a saved session so my client either internal or external to government can look at the same layout, zoom scale, and layers. |||||
 Can I measure distance or area on my map?|||||
-Can you use this solution on a mobile device (phone or tablet) with a browser?|||||
+Can you use this solution on a mobile device (phone or tablet) with a browser?|![](assets/images/check.jpg) ||![](assets/images/check.jpg) |![](assets/images/check.jpg) |
 Which internet browsers can you use with this application?|||||
 
 ## Backend Technology
