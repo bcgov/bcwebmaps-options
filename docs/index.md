@@ -30,7 +30,7 @@ The purpose of this site is to discover what is available, and if any of these s
 As the end user of the application I want...
 |                                                                                    |[AGO](/web-mapping-frameworks/AGO.html)| [CWM](/web-mapping-frameworks/CWM.html)  | [IMF2](/web-mapping-frameworks/IMF2.html) |[SMK](web-mapping-frameworks/SMK.html)  |
 |------------------------------------------------------------------------------------|------|------|------|-----|
-Can I print a map with a user-defined scale, paper size or in combination with a report?|yes|yes|yes|yes|
+Can I print a map with a user-defined scale, paper size or in combination with a report?|![](assets/images/check.jpg) |![](assets/images/check.jpg) |![](assets/images/check.jpg) |![](assets/images/check.jpg) |
 Can I draw and edit an Area of Interest ?|yes|yes|yes|?|
 Can data be downloaded that was created on the map ie. Area of Interest AOI|yes|yes|yes|YeS?viewer onlyyllno|
 Can I import/export data layers that are in different geographic projection as the map?|no* available in ESRI Javascript API/desktop tools|yes|yes|?|
@@ -40,10 +40,10 @@ Can I download operational business data from the map/application?|yes* webappbu
 Can you import or load data for use in the map?|||||
 Can you search for geographic locations or a specific feature on the map?|||||
 Does the application provide map navigation tools such as mouse wheel zoom, zoom to extent or zoom to a feature?|||||
-Can you select different basemaps which are either an image or a different style of map?|||||
+Can you select different basemaps which are either an image or a different style of map?|![](assets/images/check.jpg) |![](assets/images/check.jpg) |![](assets/images/check.jpg) |![](assets/images/check.jpg) |
 Can I create and save data queries within the map to find locations or interests on the map?|||||
 Can the client easily create customize report outputs, either on-screen or printable?|||||
-Can I share a link or a saved session so my client either internal or external to government can look at the same layout, zoom scale, and layers. |||||
+Can I share a link or a saved session so my client either internal or external to government can look at the same layout, zoom scale, and layers. |![](assets/images/check.jpg) |![](assets/images/check.jpg) |![](assets/images/check.jpg) ||
 Can I measure distance or area on my map?|||||
 Can you use this solution on a mobile device (phone or tablet) with a browser?|![](assets/images/check.jpg) ||![](assets/images/check.jpg) |![](assets/images/check.jpg) |
 Which internet browsers can you use with this application?|||||
@@ -58,3 +58,15 @@ What capability does the application have to secure data or elements of the appl
 Can the application be used when it isn't connected to the internet?|||||
 What is the maturity and activity level of the project as measured in the Open Source environment?  |||||
 
+
+## Look and Feel
+
+Below are examples of similar functionality in the available solutions.
+
+|Complexity| Client| Example|
+|----------|-------|--------|
+|[AGO](/web-mapping-frameworks/AGO.html)  | Medium|BC Wildfire Service [https://bit.ly/BC_Wildfire_Dashboard](https://bit.ly/BC_Wildfire_Dashboard)|
+|[IMF2](/web-mapping-frameworks/IMF2.html)| High| iMapBC [https://maps.gov.bc.ca/ess/hm/imap4m/](https://maps.gov.bc.ca/ess/hm/imap4m/)|
+|[CWM](/web-mapping-frameworks/CWM.html) | High| Integrated Land and Resource Registry [https://a100.gov.bc.ca/ext/ilrr/jsp/mapviewer/ilrr-mapviewer.jsp](https://a100.gov.bc.ca/ext/ilrr/jsp/mapviewer/ilrr-mapviewer.jsp)|
+|[SMK](web-mapping-frameworks/SMK.html) | Low| BC Minstry of Health [https://moh.apps.gov.bc.ca/alrc/](https://moh.apps.gov.bc.ca/alrc/)|
+|[SMK](web-mapping-frameworks/SMK.html) | High| Translink [https://translink.apps.gov.bc.ca/trp/](https://translink.apps.gov.bc.ca/trp/)|
