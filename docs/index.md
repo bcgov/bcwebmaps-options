@@ -36,7 +36,7 @@ As the end user of the application I want...
 |------------------------------------------------------------------------------------|------|------|------|-----|
 Can I print a map with a user-defined scale, paper size or in combination with a report?|![](assets/images/check.jpg) |![](assets/images/check.jpg) |![](assets/images/check.jpg) |![](assets/images/check.jpg) |
 Can I draw and edit an Area of Interest ?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|?|
-Can data be downloaded that was created on the map ie. Area of Interest AOI|yes|yes|yes|YeS?viewer onlyyllno|
+Can data be downloaded that was created on the map ie. Area of Interest AOI|![](assets/images/check.jpg)|![](assets/images/check.jpg)|yes|YeS?viewer onlyyllno|
 Can I import/export data layers that are in different geographic projection as the map?|no* available in ESRI Javascript API/desktop tools|yes|yes|?|
 Can I add markup text or drawings onto my map for printing?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|yes?..|
 Can I turn on or off specific map layers while viewing the map?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|
@@ -61,8 +61,8 @@ As the owner or developer of the application I want to understand...
 Where will the application be hosted - in the cloud, on a Government server or elsewhere?|||||
 Where is the data stored - in the cloud, on Government server or local drive.|||||
 What capability does the application have to secure data or elements of the application based on IDIR/BCeID user and/or layer level security?|||||
-Can the application be used when it isn't connected to the internet?|||||
-What is the maturity and activity level of the project as measured in the Open Source environment?  |||||
+Can the application be used when it isn't connected to the internet?|![](assets/images/check.jpg)|[7](footnotes.html#7)  ||[7](footnotes.html#7)  |
+What is the maturity and activity level of the project as measured in the Open Source environment?  |low|high|low|high|
 
 ## Look and Feel
 
@@ -82,7 +82,7 @@ These REST basd web services are stand alone and support the Web Mapping Framewo
 
 |Name|Function|More Information|
 |----|--------|----------------|
-|GeoMark|The Geomark Web Service allows you to create and share geographic areas of interest over the web in a variety of formats and coordinate systems. This service is especially helpful when you need to share an area of interest with people who require that the data be in a different format, or they use different mapping software.|[https://www2.gov.bc.ca/gov/content/data/geographic-data-services/location-services/geomark-webservice](https://www2.gov.bc.ca/gov/content/data/geographic-data-services/location-services/geomark-webservice)|
-|BC Address Geocoder|The BC Address Geocoder is a REST web service that can be used to resolve the physical locations (i.e., latitude and longitude) and correct, standardized form of civic and non-civic addresses in British Columbia.|[https://www2.gov.bc.ca/gov/content/data/geographic-data-services/location-services/geocoder](https://www2.gov.bc.ca/gov/content/data/geographic-data-services/location-services/geocoder)|
-|BC Route Planner|The BC Route Planner is a REST web service that offers vehicle route plans that are based on the BC Digital Road Atlas. The BC Route Planner computes the shortest or fastest route between start and end points and returns the route, distance, time, and directions.|[https://www2.gov.bc.ca/gov/content/data/geographic-data-services/location-services/route-planner](https://www2.gov.bc.ca/gov/content/data/geographic-data-services/location-services/route-planner)|
-|BC Geographical Names|Geographical names are more than labels on maps and road signs. They can reveal patterns of settlement, exploration and migration, and mirror outside influences to our history - aspects of the heritage and promise of an area that might otherwise be overlooked or forgotten by visitors and later generations.|[https://www2.gov.bc.ca/gov/content/governments/celebrating-british-columbia/historic-places/geographical-names](https://www2.gov.bc.ca/gov/content/governments/celebrating-british-columbia/historic-places/geographical-names)\
+|1. GeoMark|The Geomark Web Service allows you to create and share geographic areas of interest over the web in a variety of formats and coordinate systems. This service is especially helpful when you need to share an area of interest with people who require that the data be in a different format, or they use different mapping software.|[See Website for Further Information](https://www2.gov.bc.ca/gov/content/data/geographic-data-services/location-services/geomark-webservice)|
+|2. BC Address Geocoder|The BC Address Geocoder is a REST web service that can be used to resolve the physical locations (i.e., latitude and longitude) and correct, standardized form of civic and non-civic addresses in British Columbia.|[See Website for Further Information](https://www2.gov.bc.ca/gov/content/data/geographic-data-services/location-services/geocoder)|
+|3. BC Route Planner|The BC Route Planner is a REST web service that offers vehicle route plans that are based on the BC Digital Road Atlas. The BC Route Planner computes the shortest or fastest route between start and end points and returns the route, distance, time, and directions.|[See Website for Further Information](https://www2.gov.bc.ca/gov/content/data/geographic-data-services/location-services/route-planner)|
+|4. BC Geographical Names|Geographical names are more than labels on maps and road signs. They can reveal patterns of settlement, exploration and migration, and mirror outside influences to our history - aspects of the heritage and promise of an area that might otherwise be overlooked or forgotten by visitors and later generations.|[See Website for Further Information](https://www2.gov.bc.ca/gov/content/governments/celebrating-british-columbia/historic-places/geographical-names)\
