@@ -35,22 +35,22 @@ As the end user of the application I want...
 |                                                                                    |[AGO](/web-mapping-frameworks/AGO.html)| [CWM](/web-mapping-frameworks/CWM.html)  | [IMF2](/web-mapping-frameworks/IMF2.html) |[SMK](web-mapping-frameworks/SMK.html)  |
 |------------------------------------------------------------------------------------|------|------|------|-----|
 <b>Can I print a map with a user-defined scale, paper size or in combination with a report?|![](assets/images/check.jpg) |![](assets/images/check.jpg) |![](assets/images/check.jpg) |![](assets/images/check.jpg) |
-Can I draw and edit an Area of Interest ?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|?|
-Can data be downloaded that was created on the map ie. Area of Interest AOI|![](assets/images/check.jpg)|![](assets/images/check.jpg)|yes|YeS?viewer onlyyllno|
-Can I import/export data layers that are in different geographic projection as the map?|no* available in ESRI Javascript API/desktop tools|yes|yes|?|
-Can I add markup text or drawings onto my map for printing?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|yes?..|
-Can I turn on or off specific map layers while viewing the map?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|
-Can I download operational business data from the map/application?|yes* webappbuilder csv, snippet of data|no|redirects to DataBC Distribution for BCGW data||
-Can you import or load data for use in the map?|||||
-Can you search for geographic locations or a specific feature on the map?|||||
-Does the application provide map navigation tools such as mouse wheel zoom, zoom to extent or zoom to a feature?|||||
-Can you select different basemaps which are either an image or a different style of map?|![](assets/images/check.jpg) |![](assets/images/check.jpg) |![](assets/images/check.jpg) |![](assets/images/check.jpg) |
-Can I create and save data queries within the map to find locations or interests on the map?|||||
-Can the client easily create customize report outputs, either on-screen or printable?|||||
-Can I share a link or a saved session so my client either internal or external to government can look at the same layout, zoom scale, and layers. |![](assets/images/check.jpg) |![](assets/images/check.jpg) |![](assets/images/check.jpg) ||
-Can I measure distance or area on my map?|||||
-Can you use this solution on a mobile device (phone or tablet) with a browser?|![](assets/images/check.jpg) ||![](assets/images/check.jpg) |![](assets/images/check.jpg) |
-Which internet browsers can you use with this application?|||||
+<b>Can I draw and edit an Area of Interest ?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|?|
+<b>Can data be downloaded that was created on the map ie. Area of Interest AOI|![](assets/images/check.jpg)|![](assets/images/check.jpg)|yes|YeS?viewer onlyyllno|
+<b>Can I import/export data layers that are in different geographic projection as the map?|no* available in ESRI Javascript API/desktop tools|yes|yes|?|
+<b>Can I add markup text or drawings onto my map for printing?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|yes?..|
+<b>Can I turn on or off specific map layers while viewing the map?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|
+<b>Can I download operational business data from the map/application?|yes* webappbuilder csv, snippet of data|no|redirects to DataBC Distribution for BCGW data||
+<b>Can you import or load data for use in the map?|||||
+<b>Can you search for geographic locations or a specific feature on the map?|||||
+<b>Does the application provide map navigation tools such as mouse wheel zoom, zoom to extent or zoom to a feature?|||||
+<b>Can you select different basemaps which are either an image or a different style of map?|![](assets/images/check.jpg) |![](assets/images/check.jpg) |![](assets/images/check.jpg) |![](assets/images/check.jpg) |
+<b>Can I create and save data queries within the map to find locations or interests on the map?|||||
+<b>Can the client easily create customize report outputs, either on-screen or printable?|||||
+<b>Can I share a link or a saved session so my client either internal or external to government can look at the same layout, zoom scale, and layers. |![](assets/images/check.jpg) |![](assets/images/check.jpg) |![](assets/images/check.jpg) ||
+<b>Can I measure distance or area on my map?|||||
+<b>Can you use this solution on a mobile device (phone or tablet) with a browser?|![](assets/images/check.jpg) ||![](assets/images/check.jpg) |![](assets/images/check.jpg) |
+<b>Which internet browsers can you use with this application?|||||
 
 ### Backend Technology
 
@@ -58,11 +58,11 @@ As the owner or developer of the application I want to understand...
 
 |                                                                                    |[AGO](/web-mapping-frameworks/AGO.html)| [CWM](/web-mapping-frameworks/CWM.html)  | [IMF2](/web-mapping-frameworks/IMF2.html) |[SMK](web-mapping-frameworks/SMK.html)  |
 |------------------------------------------------------------------------------------|------|------|------|-----|
-Where will the application be hosted - in the cloud, on a Government server or elsewhere?|||||
-Where is the data stored - in the cloud, on Government server or local drive.|||||
-What capability does the application have to secure data or elements of the application based on IDIR/BCeID user and/or layer level security?|||||
-Can the application be used when it isn't connected to the internet?|![](assets/images/check.jpg)|[7](footnotes.html#7)  ||[7](footnotes.html#7)  |
-What is the maturity and activity level of the project as measured in the Open Source environment?  |low|high|low|high|
+<b>Where will the application be hosted - in the cloud, on a Government server or elsewhere?|||||
+<b>Where is the data stored - in the cloud, on Government server or local drive.|||||
+<b>What capability does the application have to secure data or elements of the application based on IDIR/BCeID user and/or layer level security?|||||
+<b>Can the application be used when it isn't connected to the internet?|![](assets/images/check.jpg)|[7](footnotes.html#7)  ||[7](footnotes.html#7)  |
+<b>What is the maturity and activity level of the project as measured in the Open Source environment?  |low|high|low|high|
 
 ## Look and Feel
 
