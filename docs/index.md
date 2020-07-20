@@ -23,14 +23,14 @@ The purpose of this site is to discover what is available, and if any of these s
 Costs can be highly variable and are influenced by multiple factors; 
 as such, it is best to first identify the solution that will meet
 user’s needs, then collaborate with DataBC or IIT to arrive at a
-mutually agreeable business arrangement. 
+mutually agreeable business arrangement.
 
 As the owner or developer of the application I want to understand...
 
 |                                                                                    |[AGO](web-mapping-frameworks/AGO.html)| [CWM](web-mapping-frameworks/CWM.html)  | [IMF2](web-mapping-frameworks/IMF2.html) |[SMK](web-mapping-frameworks/SMK.html)  |
 |------------------------------------------------------------------------------------|------|------|------|-----|
-|<b>What IT skills do you need to develop this solution? </b>                                |familiarity with ESRI ecosystem of applications and their APIs|familiarity with javascript / relationship with IIT|familiarity with GeoCortex Essentials, .NET development for customization, deployment via jenkins of configuration files to DataBC’s environment|familiarity with javascript development/github|
-|<b>What IT skills do you need to administer this solution once it has been implemented?<b> |familiarity with ESRI ecosystem of applications||||
+|<b>What IT skills do you need to develop this solution? </b>                                |familiarity with ESRI ecosystem of applications and their APIs|familiarity with javascript and Openlayers/ relationship with IIT|familiarity with GeoCortex Essentials, .NET development for customization, Jenkins for deploying configuration files to DataBC’s environment|familiarity with NodeJS, leaflet or ArcGIS Javascript development, github|
+|<b>What IT skills do you need to administer this solution once it has been implemented?<b> |familiarity with ESRI ecosystem of applications|familiarity with JSON configuration files, CWM Configuration, IIT deployment pathways|||
 |<b>What type of documentation is available and when was it updated?<b>                     |online updated regularly, see [Website](https://www.arcgis.com/home/index.html)|via IIT, on intranet, not updated see - [Website](https://i1portal.nrs.gov.bc.ca/cwmc-lib/v1.9.0/sdk/)|online, updated by GeoCortex [Website](https://www.geocortex.com/products/geocortex-essentials/)|Updated by Databc, ongoing, see [Website](https://github.com/bcgov/smk)|
 
 ### User Interface
