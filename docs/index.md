@@ -78,6 +78,8 @@ Below are examples of similar functionality in the available solutions.
 
 ## Supporting/StandAlone Spatial Serivces
 
+These REST basd web services are stand alone and support the Web Mapping Frameworks described above.
+
 |Name|Function|More Information|
 |----|--------|----------------|
 |GeoMark|The Geomark Web Service allows you to create and share geographic areas of interest over the web in a variety of formats and coordinate systems. This service is especially helpful when you need to share an area of interest with people who require that the data be in a different format, or they use different mapping software.|[https://www2.gov.bc.ca/gov/content/data/geographic-data-services/location-services/geomark-webservice](https://www2.gov.bc.ca/gov/content/data/geographic-data-services/location-services/geomark-webservice)|
