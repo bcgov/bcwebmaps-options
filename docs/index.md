@@ -38,8 +38,8 @@ Can I print a map with a user-defined scale, paper size or in combination with a
 Can I draw and edit an Area of Interest ?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|?|
 Can data be downloaded that was created on the map ie. Area of Interest AOI|yes|yes|yes|YeS?viewer onlyyllno|
 Can I import/export data layers that are in different geographic projection as the map?|no* available in ESRI Javascript API/desktop tools|yes|yes|?|
-Can I add markup text or drawings onto my map for printing?|yes|yes|yes|yes?..|
-Can I turn on or off specific map layers while viewing the map?|yes|yes|yes|yes|
+Can I add markup text or drawings onto my map for printing?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|yes?..|
+Can I turn on or off specific map layers while viewing the map?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|
 Can I download operational business data from the map/application?|yes* webappbuilder csv, snippet of data|no|redirects to DataBC Distribution for BCGW data||
 Can you import or load data for use in the map?|||||
 Can you search for geographic locations or a specific feature on the map?|||||
