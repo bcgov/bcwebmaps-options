@@ -14,7 +14,7 @@ Last updated 2020-07-15
 * Contact / Initiation Process	Client Engagement - [Bill.Devey@gov.bc.ca](mailto:Bill.Devey@gov.bc.ca) Common Services Manager IITD
 * Technology platform - javascript, openlayers, OGC WMS/WFS, ISSS Platform (Liferay/Tomcat)
 * Skillsets required - familiarity with javascript / relationship with IIT
-* Links to software providers/code repositories - Vivid Solutions Inc.
+* Links to software providers/code repositories - Vivid Solutions Inc. [https://i1portal.nrs.gov.bc.ca/cwmc-lib/v1.9.0/sdk/](https://i1portal.nrs.gov.bc.ca/cwmc-lib/v1.9.0/sdk/)
 * Ie. Example web map application  
   - Natural Resource Online Services [https://portal.nrs.gov.bc.ca/web/client/explore](https://portal.nrs.gov.bc.ca/web/client/explore)
   - Mineral Tenures Online [https://www.mtonline.gov.bc.ca/mtov/map/mto/cwm.jsp?site=mem_mto_min-view-title](https://www.mtonline.gov.bc.ca/mtov/map/mto/cwm.jsp?site=mem_mto_min-view-title)
