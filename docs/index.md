@@ -20,6 +20,11 @@ The purpose of this site is to discover what is available, and if any of these s
 
 ### Costs and Skillsets
 
+Costs can be highly variable and are influenced by multiple factors; 
+as such, it is best to first identify the solution that will meet
+user’s needs, then collaborate with DataBC or IIT to arrive at a
+mutually agreeable business arrangement. 
+
 As the owner or developer of the application I want to understand...
 
 |                                                                                    |[AGO](web-mapping-frameworks/AGO.html)| [CWM](web-mapping-frameworks/CWM.html)  | [IMF2](web-mapping-frameworks/IMF2.html) |[SMK](web-mapping-frameworks/SMK.html)  |
@@ -51,6 +56,20 @@ As the end user of the application I want...
 <b>Can I measure distance or area on my map?|||||
 <b>Can you use this solution on a mobile device (phone or tablet) with a browser?|![](assets/images/check.jpg) ||![](assets/images/check.jpg) |![](assets/images/check.jpg) |
 <b>Which internet browsers can you use with this application?|||||
+|Access on mobile devices                             |![](assets/images/check.jpg)        |                                    |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |
+|Variety of base maps to choose from                  |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |
+|Identify & discover relationships among features     |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |[2](footnotes.html#2)|
+|Detect statistically significant patterns            |![](assets/images/check.jpg)        |                                    |                                    |                                    |
+|Make predictions using analytical models             |[3](footnotes.html#3)|                                    |                                    |                                    |
+|Re-symbolize, modify, or customize map data or labels|![](assets/images/check.jpg)        |[4](footnotes.html#4)|![](assets/images/check.jpg)        |[4](footnotes.html#4)| 
+|Customize printing of maps                           |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |[4](footnotes.html#4)|[4](footnotes.html#4)|
+|Save and share the work with others                  |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |                                    |
+|Prepare specific datasets for off-line use           |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |                                    |[7](footnotes.html#7)|
+|Collect data                                         |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |[5](footnotes.html#5)|[7](footnotes.html#7)|
+|Edit data                                            |[6](footnotes.html#6)|![](assets/images/check.jpg)        |6                                   |[7](footnotes.html#7)|
+|Work off-line (access without Internet)              |![](assets/images/check.jpg)        |[7](footnotes.html#7)|                                    |[7](footnotes.html#7)|   
+
+
 
 ### Backend Technology
 
@@ -58,11 +77,21 @@ As the owner or developer of the application I want to understand...
 
 |                                                                                    |[AGO](/web-mapping-frameworks/AGO.html)| [CWM](/web-mapping-frameworks/CWM.html)  | [IMF2](/web-mapping-frameworks/IMF2.html) |[SMK](web-mapping-frameworks/SMK.html)  |
 |------------------------------------------------------------------------------------|------|------|------|-----|
-<b>Where can these application be hosted - in the cloud, on a Government server or elsewhere?|Cloud|onPremise|onPremise|both|
-<b>Where is the data stored - in the cloud, on Government server or local drive.|all|cloud, onpremise|all|cloud, onpremise|
-<b>What capability does the application have to secure data or elements of the application based on IDIR/BCeID user and/or layer level security?|AGO BCGov Subscription based|Webade/Siteminder|Webade/Siteminder|User governed|
-<b>Can the application be used when it isn't connected to the internet?|![](assets/images/check.jpg)|[7](footnotes.html#7)  ||[7](footnotes.html#7)  |
-<b>What is the maturity and activity level of the project as measured in the Open Source environment?  |low|high|low|high|
+|<b>Where can these application be hosted - in the cloud, on a Government server or elsewhere?|Cloud|onPremise|onPremise|both|
+|<b>Where is the data stored - in the cloud, on Government server or local drive.|all|cloud, onpremise|all|cloud, onpremise|
+|<b>What capability does the application have to secure data or elements of the application based on IDIR/BCeID user and/or layer level security?|AGO BCGov Subscription based|Webade/Siteminder|Webade/Siteminder|User governed|
+|<b>Can the application be used when it isn't connected to the internet?|![](assets/images/check.jpg)|[7](footnotes.html#7)  ||[7](footnotes.html#7)  |
+|<b>What is the maturity and activity level of the project as measured in the Open Source environment?  |low|high|low|high|
+|The ability to make small changes that are easy to maintain. (Configuration*)                           |![](assets/images/check.jpg)          |[9](footnotes.html#9)|![](assets/images/check.jpg)          |[8](footnotes.html#8 ) |
+|The ability to invest more in build and maintenance to create a more unique experience. (Customization*)|![](assets/images/check.jpg)          |[8](footnotes.html#8)|![](assets/images/check.jpg)          |[8](footnotes.html#8 ) |
+|Someone else to manage the application                                                                  |![](assets/images/check.jpg)          |![](assets/images/check.jpg)        |![](assets/images/check.jpg)          |![](assets/images/check.jpg)          |
+|All data to reside in Canada                                                                            |                                      |![](assets/images/check.jpg)        |![](assets/images/check.jpg)          |[11](footnotes.html#11)| 
+|Automatic server scalability to meet use levels                                                         |[13](footnotes.html#13)|![](assets/images/check.jpg)        |![](assets/images/check.jpg)          |[13](footnotes.html#13)|
+|Prevent users from downloading datasets they are viewing                                                |![](assets/images/check.jpg)          |![](assets/images/check.jpg)        |![](assets/images/check.jpg)          |![](assets/images/check.jpg)          |
+|Security - manage users access at the application level                                                 |[13](footnotes.html#14)|![](assets/images/check.jpg)        |                                      |![](assets/images/check.jpg)          |
+|Security - manage users access at the data layer level                                                  |![](assets/images/check.jpg)          |![](assets/images/check.jpg)        |[15](footnotes.html#15)|[15](footnotes.html#15)|
+|My team to self-publish updates                                                                       |![](assets/images/check.jpg)          |![](assets/images/check.jpg)        |                                      |![](assets/images/check.jpg)          |
+|Deploy anywhere          
 
 ## Look and Feel
 
@@ -82,7 +111,7 @@ These REST based web services are stand alone and are supported by each of these
 
 |Name|Function|More Information|
 |----|--------|----------------|
-|1. GeoMark|The Geomark Web Service allows you to create and share geographic areas of interest over the web in a variety of formats and coordinate systems. This service is especially helpful when you need to share an area of interest with people who require that the data be in a different format, or they use different mapping software.|[See Website for Further Information](https://www2.gov.bc.ca/gov/content/data/geographic-data-services/location-services/geomark-webservice)|
-|2. BC Address Geocoder|The BC Address Geocoder is a REST web service that can be used to resolve the physical locations (i.e., latitude and longitude) and correct, standardized form of civic and non-civic addresses in British Columbia.|[See Website for Further Information](https://www2.gov.bc.ca/gov/content/data/geographic-data-services/location-services/geocoder)|
-|3. BC Route Planner|The BC Route Planner is a REST web service that offers vehicle route plans that are based on the BC Digital Road Atlas. The BC Route Planner computes the shortest or fastest route between start and end points and returns the route, distance, time, and directions.|[See Website for Further Information](https://www2.gov.bc.ca/gov/content/data/geographic-data-services/location-services/route-planner)|
-|4. BC Geographical Names|Geographical names are more than labels on maps and road signs. They can reveal patterns of settlement, exploration and migration, and mirror outside influences to our history - aspects of the heritage and promise of an area that might otherwise be overlooked or forgotten by visitors and later generations.|[See Website for Further Information](https://www2.gov.bc.ca/gov/content/governments/celebrating-british-columbia/historic-places/geographical-names)\
+|<b>GeoMark|The Geomark Web Service allows you to create and share geographic areas of interest over the web in a variety of formats and coordinate systems. This service is especially helpful when you need to share an area of interest with people who require that the data be in a different format, or they use different mapping software.|[See Website for Further Information](https://www2.gov.bc.ca/gov/content/data/geographic-data-services/location-services/geomark-webservice)|
+|<b>BC Address Geocoder|The BC Address Geocoder is a REST web service that can be used to resolve the physical locations (i.e., latitude and longitude) and correct, standardized form of civic and non-civic addresses in British Columbia.|[See Website for Further Information](https://www2.gov.bc.ca/gov/content/data/geographic-data-services/location-services/geocoder)|
+|<b>BC Route Planner|The BC Route Planner is a REST web service that offers vehicle route plans that are based on the BC Digital Road Atlas. The BC Route Planner computes the shortest or fastest route between start and end points and returns the route, distance, time, and directions.|[See Website for Further Information](https://www2.gov.bc.ca/gov/content/data/geographic-data-services/location-services/route-planner)|
+|<b>BC Geographical Names|Geographical names are more than labels on maps and road signs. They can reveal patterns of settlement, exploration and migration, and mirror outside influences to our history - aspects of the heritage and promise of an area that might otherwise be overlooked or forgotten by visitors and later generations.|[See Website for Further Information](https://www2.gov.bc.ca/gov/content/governments/celebrating-british-columbia/historic-places/geographical-names)\
