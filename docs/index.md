@@ -7,28 +7,28 @@ has_toc: true
 ---
 
 
-# Web Mapping Frameworks
-
+**Web Mapping Frameworks**
+{: .fs-10 }
 <details open markdown="block">
   <summary>
     Table of contents
   </summary>
   {: .text-delta }
-1. TOC
+
 {:toc}
 </details>
 
-## Find the right solution for your business
+# Find the right solution for your business
 
 There are many options for web mapping technology frameworks in today's world. The Province of British Columba currently uses four main web mapping frameworks. These frameworks vary from a cloud-based Software as a Service (SaaS) solution, Government hosted solutions, to a Do-It-Yourself Simple Map Kit.<br><br> The SaaS solution is the cloud-based ESRI solution solution (commonly known as ([AGO](web-mapping-frameworks/AGO.html) or ArcGIS Online).<br><br>In addition, there are two Government hosted service offerings: one by the Natural Resource Ministries' Information Innovation & Technology Division (IITD), called the Common Web Mappping Framework ([CWM](web-mapping-frameworks/CWM.html)) which is based on Openlayers 2, and DataBC's Internet Mapping Framework ([IMF2](web-mapping-frameworks/IMF2.html) which is based on VertiGIS's GeoCortex Essentials. <br><br>The last option is DataBC's Simple Map Kit ([SMK](web-mapping-frameworks/SMK.html)) which can use Leaflet or the ESRI Javascript API and is available on GitHub with an Apache License 2.0.
 <br><br>
 The purpose of this site is to discover what is available, and if any of these solutions can meet your needs.
 
-## Component Comparison
+# Component Comparison
 
 --------------
 
-### Costs and Skillsets
+## Costs and Skillsets
 
 Costs can be highly variable and are influenced by multiple factors; 
 as such, it is best to first identify the solution that will meet
@@ -43,7 +43,7 @@ As the owner or developer of the application I want to understand...
 |<b>What IT skills do you need to administer this solution once it has been implemented?<b> |familiarity with ESRI ecosystem of applications|familiarity with JSON configuration files, CWM Configuration, IIT deployment pathways|||
 |<b>What type of documentation is available and when was it updated?<b>                     |online updated regularly, see [Website](https://www.arcgis.com/home/index.html)|via IIT, on intranet, not updated see - [Website](https://i1portal.nrs.gov.bc.ca/cwmc-lib/v1.9.0/sdk/)|online, updated by GeoCortex [Website](https://www.geocortex.com/products/geocortex-essentials/)|Updated by Databc, ongoing, see [Website](https://github.com/bcgov/smk)|
 
-### User Interface
+## User Interface
 
 As the end user of the application I want...
 
@@ -81,7 +81,7 @@ As the end user of the application I want...
 
 
 
-### Backend Technology
+## Backend Technology
 
 As the owner or developer of the application I want to understand...
 
@@ -103,7 +103,7 @@ As the owner or developer of the application I want to understand...
 |My team to self-publish updates                                                                       |![](assets/images/check.jpg)          |![](assets/images/check.jpg)        |                                      |![](assets/images/check.jpg)          |
 |Deploy anywhere          
 
-## Look and Feel
+# Look and Feel
 
 Below are examples of similar functionality in the available solutions.
 
@@ -115,7 +115,7 @@ Below are examples of similar functionality in the available solutions.
 |[SMK](web-mapping-frameworks/SMK.html) | Low| BC Minstry of Health - Assisted Living and Residential Care Locations| [https://moh.apps.gov.bc.ca/alrc/](https://moh.apps.gov.bc.ca/alrc/)|
 |[SMK](web-mapping-frameworks/SMK.html) | High| Translink - Truck Route Planner |[https://translink.apps.gov.bc.ca/trp/](https://translink.apps.gov.bc.ca/trp/)|
 
-## Supporting/StandAlone Spatial Serivces
+# Supporting/StandAlone Spatial Serivces
 
 These REST based web services are stand alone and are supported by each of these Web Mapping Frameworks described above.
 
