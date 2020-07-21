@@ -7,17 +7,16 @@ has_toc: true
 ---
 
 
-**Web Mapping Frameworks**
-{: .fs-10 }
+# **Web Mapping Frameworks**
+{: .fs-10 .no_toc }
 
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
+## Table of contents
+{: .no_toc .text-delta }
+
 1. TOC
 {:toc}
-</details>
+
+---
 
 # Find the right solution for your business
 
