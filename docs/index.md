@@ -65,18 +65,18 @@ As the end user of the application I want...
 <b>Can I share a link or a saved session so my client either internal or external to government can look at the same layout, zoom scale, and layers. |![](assets/images/check.jpg) |![](assets/images/check.jpg) |![](assets/images/check.jpg) ||
 <b>Can I measure distance or area on my map?||![](assets/images/check.jpg)|||
 <b>Can you use this solution on a mobile device (phone or tablet) with a browser?|![](assets/images/check.jpg)||![](assets/images/check.jpg) |![](assets/images/check.jpg) |
-</b>Can you access on mobile devices?                             |![](assets/images/check.jpg)        |                                    |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |
-</b>Are there a variety of base maps to choose from?                  |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |
-</b>Can I identify and discover relationships among features?     |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |[2](footnotes.html#2)|
-</b>Can I detect statistically significant patterns?            |![](assets/images/check.jpg)        |                                    |                                    |                                    |
-</b>Can I make predictions using analytical models             |[3](footnotes.html#3)|                                    |                                    |                                    |
-</b>Can I re-symbolize, modify, or customize map data or labels?|![](assets/images/check.jpg)        |[4](footnotes.html#4)|![](assets/images/check.jpg)        |[4](footnotes.html#4)| 
-</b>Can I customize printing of maps?                           |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |[4](footnotes.html#4)|[4](footnotes.html#4)|
-</b>Can I save and share the work with others?                  |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |                                    |
-</b>Can I prepare specific datasets for off-line use?           |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |                                    |[7](footnotes.html#7)|
-</b>Can I collect data?                                         |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |[5](footnotes.html#5)|[7](footnotes.html#7)|
-</b>Can I edit data?                                            |[6](footnotes.html#6)|![](assets/images/check.jpg)        |6                                   |[7](footnotes.html#7)|
-</b>Can I work off-line (access without Internet)?              |![](assets/images/check.jpg)        |[7](footnotes.html#7)|                                    |[7](footnotes.html#7)|   
+<b>Can you access on mobile devices?                             |![](assets/images/check.jpg)        |                                    |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |
+<b>Are there a variety of base maps to choose from?                  |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |
+<b>Can I identify and discover relationships among features?     |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |[2](footnotes.html#2)|
+<b>Can I detect statistically significant patterns?            |![](assets/images/check.jpg)        |                                    |                                    |                                    |
+<b>Can I make predictions using analytical models             |[3](footnotes.html#3)|                                    |                                    |                                    |
+<b>Can I re-symbolize, modify, or customize map data or labels?|![](assets/images/check.jpg)        |[4](footnotes.html#4)|![](assets/images/check.jpg)        |[4](footnotes.html#4)| 
+<b>Can I customize printing of maps?                           |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |[4](footnotes.html#4)|[4](footnotes.html#4)|
+<b>Can I save and share the work with others?                  |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |                                    |
+<b>Can I prepare specific datasets for off-line use?           |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |                                    |[7](footnotes.html#7)|
+<b>Can I collect data on this application?                                         |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |[5](footnotes.html#5)|[7](footnotes.html#7)|
+<b>Can I edit data on this application?                                            |[6](footnotes.html#6)|![](assets/images/check.jpg)        |6                                   |[7](footnotes.html#7)|
+<b>Can I work off-line (access without Internet) on this application?              |![](assets/images/check.jpg)        |[7](footnotes.html#7)|                                    |[7](footnotes.html#7)|   
 
 
 
