@@ -56,14 +56,14 @@ As the end user of the application I want...
 <b>Can I add markup text or drawings onto my map for printing?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|yes?..|
 <b>Can I turn on or off specific map layers while viewing the map?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|
 <b>Can I download operational business data from the map/application?|yes* webappbuilder csv, snippet of data|no|redirects to DataBC Distribution for BCGW data||
-<b>Can you import or load data for use in the map?||![](assets/images/check.jpg)|||
-<b>Can you search for geographic locations or a specific feature on the map?||![](assets/images/check.jpg)|||
-<b>Does the application provide map navigation tools such as mouse wheel zoom, zoom to extent or zoom to a feature?||![](assets/images/check.jpg)|||
-<b>Can you select different basemaps which are either an image or a different style of map?|![](assets/images/check.jpg) |![](assets/images/check.jpg) |![](assets/images/check.jpg) |![](assets/images/check.jpg) |
-<b>Can I create and save data queries within the map to find locations or interests on the map?||![](assets/images/check.jpg)|||
-<b>Can the client easily create customize report outputs, either on-screen or printable?|||||
+<b>Can you import or load data for use in the map?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)||
+<b>Can you search for geographic locations or a specific feature on the map?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|
+<b>Does the application provide map navigation tools such as mouse wheel zoom, zoom to extent or zoom to a feature?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|
+<b>Can you select different basemaps which are either an image or a different style of map?|?? |![](assets/images/check.jpg) |![](assets/images/check.jpg) |![](assets/images/check.jpg) |
+<b>Can I save data queries within the map to find locations or interests?||![](assets/images/check.jpg)|![](assets/images/check.jpg)||
+<b>Can the client easily customize report outputs, either on-screen or printable?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|
 <b>Can I share a link or a saved session so my client either internal or external to government can look at the same layout, zoom scale, and layers. |![](assets/images/check.jpg) |![](assets/images/check.jpg) |![](assets/images/check.jpg) ||
-<b>Can I measure distance or area on my map?||![](assets/images/check.jpg)|||
+<b>Can I measure distance or area on my map?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|
 <b>Can you use this solution on a mobile device (phone or tablet) with a browser?|![](assets/images/check.jpg)||![](assets/images/check.jpg) |![](assets/images/check.jpg) |
 <b>Can you access on mobile devices?                             |![](assets/images/check.jpg)        |                                    |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |
 <b>Are there a variety of base maps to choose from?                  |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |
