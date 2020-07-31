@@ -19,10 +19,18 @@ has_toc: true
 ---
 
 # Find the right solution for your business
+There are many options for web mapping technology frameworks in today’s world.  The purpose of this site is to showcase what is available, and if any of these solutions can meet your needs.
 
-There are many options for web mapping technology frameworks in today's world. The Province of British Columba currently uses four main web mapping frameworks. These frameworks vary from a cloud-based Software as a Service (SaaS) solution, Government hosted solutions, to a Do-It-Yourself Simple Map Kit.<br><br> The SaaS solution is the cloud-based ESRI solution (commonly known as ArcGIS Online or ([AGO](web-mapping-frameworks/AGO.html)).<br><br>In addition, there are two Government hosted service offerings: one by the Natural Resource Ministries' Information, Innovation and Technology Division (IIT), called the Common Web Mapping Framework ([CWM](web-mapping-frameworks/CWM.html)) which is based on Openlayers 2, and DataBC's Internet Mapping Framework ([IMF2](web-mapping-frameworks/IMF2.html) which is based on VertiGIS's GeoCortex Essentials. <br><br>The last option is DataBC's Simple Map Kit ([SMK](web-mapping-frameworks/SMK.html)) which can use Leaflet or the ESRI Javascript API and is available on GitHub with an Apache License 2.0.
-<br><br>
-The purpose of this site is to discover what is available, and if any of these solutions can meet your needs.
+The Province of British Columba currently uses four main web mapping frameworks. These frameworks vary from a cloud-based Software as a Service (SaaS) solution, two Government hosted solutions and a Do-It-Yourself solution. <br>
+
+1. The SaaS solution is the cloud-based ESRI solution commonly known as [AGO](web-mapping-frameworks/AGO.html)
+        or ArcGIS Online
+2. Two Government hosted service offerings: 
+   - Common Web Mapping Framework [CWM](web-mapping-frameworks/CWM.html) which is based on Openlayers 2, and 
+   - Internet Mapping Framework [IMF2](web-mapping-frameworks/IMF2.html) which is based on 
+                VertiGIS’s GeoCortex Essentials.
+3. The Do-It-Yourself Simple Map Kit ([SMK](web-mapping-frameworks/SMK.html)) which can use either Leaflet or
+        the ESRI Javascript API.
 
 # Component Comparison
 
