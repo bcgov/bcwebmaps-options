@@ -38,7 +38,7 @@ mutually agreeable business arrangement.
 As the owner or developer of the application I want to understand...
 
 |                                                                                    |[AGO](web-mapping-frameworks/AGO.html)| [CWM](web-mapping-frameworks/CWM.html)  | [IMF2](web-mapping-frameworks/IMF2.html) |[SMK](web-mapping-frameworks/SMK.html)  |
-|------------------------------------------------------------------------------------|------|------|------|-----|
+|------------------------------------------------------------------------------------|:---:|:---:|:---:|:---:|
 |<b>What IT skills do you need to develop this solution? </b>                                |Familiarity with ESRI ecosystem of applications and APIs|Familiarity with javascript and Openlayers/ relationship with IIT|Familiarity with GeoCortex Essentials, .NET development for customization, Jenkins for deploying configuration files to DataBC’s environment|Familiarity with NodeJS, leaflet or ArcGIS Javascript development, github|
 |<b>What IT skills do you need to administer this solution once it has been implemented?<b> |Familiarity with ESRI ecosystem of applications|Familiarity with JSON configuration files, CWM Configuration, IIT deployment pathways|||
 |<b>What type of documentation is available and when was it updated?<b>                     |Online updated regularly, see - [Website](https://www.arcgis.com/home/index.html)|Online, updated by Vivid Solutions, July 17, 2019 see - [Website](https://i1portal.nrs.gov.bc.ca/cwmc-lib/v1.9.0/sdk/)|Online, updated by GeoCortex, see - [Website](https://www.geocortex.com/products/geocortex-essentials/)|Updated by DataBC, ongoing, see - [Website](https://github.com/bcgov/smk)|
@@ -85,7 +85,7 @@ As the end user of the application I want...
 As the owner or developer of the application I want to understand...
 
 |                                                                                    |[AGO](/web-mapping-frameworks/AGO.html)| [CWM](/web-mapping-frameworks/CWM.html)  | [IMF2](/web-mapping-frameworks/IMF2.html) |[SMK](web-mapping-frameworks/SMK.html)  |
-|------------------------------------------------------------------------------------|------|------|------|-----|
+|------------------------------------------------------------------------------------|:---:|:---:|:---:|:---:|
 |<b>Where can this application be hosted - in the cloud, on a Government server or elsewhere?|Cloud|On-Premise|On-Premise|both|
 |<b>Where is the data stored - in the cloud, on Government server or local drive.|All|Cloud, On-Premise|All|Cloud, On-Premise|
 |<b>What capability does the application have to secure data or elements of the application based on IDIR/BCeID user and/or layer level security?|AGO BCGov Subscription|WebADE and Siteminder|WebADE and Siteminder|WebADE and Siteminder|
