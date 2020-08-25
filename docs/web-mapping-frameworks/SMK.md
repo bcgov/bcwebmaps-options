@@ -8,19 +8,19 @@ nav_order: 4
 
 # SMK - Simple Map Kit 
 
-Last updated 2020-07-15
+Last updated 2020-08-24
 
 ## Status
 
-* Status: emerging
+* Status: Beta
 * Contact / Initiation Process	Client Engagement -  [datamaps@gov.bc.ca](mailto:datamaps@gov.bc.ca)
-* Technology platform - javascript, leaflet, arcgis javascript api, OGC WMS/WFS, ArcGIS Rest
-* Skillsets required - familiarity with javascript development/github
+* Technology platform - node.js,javascript, leaflet, arcgis javascript api, OGC WMS/WFS, ArcGIS Rest
+* Skillsets required - novice to experience developer (familiarity with javascript development/github)
 * Apache 2.0 license
-* Links to software providers/code repositories - [https://github.com/bcgov/smk](https://github.com/bcgov/smk) and [https://bcgov.github.io/smk/](https://bcgov.github.io/smk/)
-* Ie. Example web map applications:  
-  - Truck Route Planner - [https://bcgov.github.io/smk-tlink/](https://bcgov.github.io/smk-tlink/)
-  - Assisted Living and Residential Care Locations - [http://moh-qa.apps.gov.bc.ca/alrc/?](http://moh-qa.apps.gov.bc.ca/alrc/?)
+* Links to software providers/code repositories - [https://github.com/bcgov/smk](https://github.com/bcgov/smk),  [https://github.com/bcgov/smk-cli](https://github.com/bcgov/smk-cli) and [https://bcgov.github.io/smk/](https://bcgov.github.io/smk/)
+* Example SMK web map applications:  
+  - Truck Route Planner - [https://translink.apps.gov.bc.ca/trp/](https://translink.apps.gov.bc.ca/trp/)
+  - Assisted Living and Residential Care Locations - [http://moh.apps.gov.bc.ca/alrc/?](http://moh.apps.gov.bc.ca/alrc/?)
 
 ## Context
 
@@ -33,7 +33,7 @@ Last updated 2020-07-15
 
 * skillset of team (javascript developers)
 * opensource drivers
-* can be used by software developers and incorporated into there code base.
-* provides examples of using BC Government web services such as the BC Geocoder, BC Router and other web serices.
-* skill set required for development and maintenance available internal to government (software developer skillsets) that may not be available to business project.
+* can be used by software developers and incorporated into their code base
+* provides examples of using BC Government web services such as the BC Geocoder, BC Router and other web-based data services
+* skill set required for development and maintenance available internal to government (software developer skillsets) that may not be available to business project
 
