@@ -21,7 +21,7 @@ has_toc: true
 # Find the right solution for your business
 There are many options for web mapping technology frameworks in today’s world.  The purpose of this site is to showcase what is available, and if any of these solutions can meet your needs.
 
-The Province of British Columba currently uses four main web mapping frameworks. These frameworks vary from a cloud-based Software as a Service (SaaS) solution, two Government hosted solutions and a Do-It-Yourself solution. <br>
+The Province of British Columbia currently uses four main web mapping frameworks. These frameworks vary from a cloud-based Software as a Service (SaaS) solution, two Government hosted solutions and a Do-It-Yourself solution. <br>
 
 1. The SaaS solution is the cloud-based ESRI solution commonly known as [AGO](web-mapping-frameworks/AGO.html)
         or ArcGIS Online
@@ -32,7 +32,7 @@ The Province of British Columba currently uses four main web mapping frameworks.
 3. The Do-It-Yourself Simple Map Kit ([SMK](web-mapping-frameworks/SMK.html)) which can use either Leaflet or
         the ESRI Javascript API.
 
-# Component Comparison
+# Framework Comparison
 
 --------------
 
