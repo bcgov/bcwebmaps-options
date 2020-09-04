@@ -21,6 +21,7 @@ Last updated 2020-09-03
 * Example SMK web map applications:  
   - Truck Route Planner - [https://translink.apps.gov.bc.ca/trp/](https://translink.apps.gov.bc.ca/trp/)
   - Assisted Living and Residential Care Locations - [http://moh.apps.gov.bc.ca/alrc/?](http://moh.apps.gov.bc.ca/alrc/?)
+ * [Frequently Asked Questions](https://github.com/bcgov/smk-cli/wiki/Simple-Map-Kit-Editor-FAQs)
 
 ## Context
 
