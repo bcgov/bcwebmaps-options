@@ -32,6 +32,19 @@ The Province of British Columbia currently uses four main web mapping frameworks
 3. The Do-It-Yourself Simple Map Kit ([SMK](web-mapping-frameworks/SMK.html)) which can use either Leaflet or
         the ESRI Javascript API.
 
+# Look and Feel
+
+Below are examples of similar functionality in the available solutions.
+
+| |Complexity| Client| Example|
+|-|----------|-------|--------|
+|[AGO](/web-mapping-frameworks/AGO.html)  | Medium|BC Wildfire Dashboard| [https://bit.ly/BC_Wildfire_Dashboard](https://bit.ly/BC_Wildfire_Dashboard)|
+|[IMF2](/web-mapping-frameworks/IMF2.html)| High| DataBC iMapBC| [https://maps.gov.bc.ca/ess/hm/imap4m/](https://maps.gov.bc.ca/ess/hm/imap4m/)|
+|[CWM](/web-mapping-frameworks/CWM.html) | High| GeoBC Integrated Land and Resource Registry| [https://a100.gov.bc.ca/apps/ilrr/html/ILRRWelcome.html](https://a100.gov.bc.ca/apps/ilrr/html/ILRRWelcome.html)|
+|[SMK](web-mapping-frameworks/SMK.html) | Low| BC Minstry of Health - Assisted Living and Residential Care Locations| [https://moh.apps.gov.bc.ca/alrc/](https://moh.apps.gov.bc.ca/alrc/)|
+|[SMK](web-mapping-frameworks/SMK.html) | High| Translink - Truck Route Planner |[https://translink.apps.gov.bc.ca/trp/](https://translink.apps.gov.bc.ca/trp/)|
+
+
 # Framework Comparison
 
 --------------
@@ -110,17 +123,6 @@ As the owner or developer of the application I want to understand...
 |<b>Does the application allow my team to self-publish updates?                                                                       |![](assets/images/check.jpg)          |![](assets/images/check.jpg)        |                                      |![](assets/images/check.jpg)          |
 |<b>Can the application be deployed anywhere?          
 
-# Look and Feel
-
-Below are examples of similar functionality in the available solutions.
-
-| |Complexity| Client| Example|
-|-|----------|-------|--------|
-|[AGO](/web-mapping-frameworks/AGO.html)  | Medium|BC Wildfire Dashboard| [https://bit.ly/BC_Wildfire_Dashboard](https://bit.ly/BC_Wildfire_Dashboard)|
-|[IMF2](/web-mapping-frameworks/IMF2.html)| High| DataBC iMapBC| [https://maps.gov.bc.ca/ess/hm/imap4m/](https://maps.gov.bc.ca/ess/hm/imap4m/)|
-|[CWM](/web-mapping-frameworks/CWM.html) | High| GeoBC Integrated Land and Resource Registry| [https://a100.gov.bc.ca/apps/ilrr/html/ILRRWelcome.html](https://a100.gov.bc.ca/apps/ilrr/html/ILRRWelcome.html)|
-|[SMK](web-mapping-frameworks/SMK.html) | Low| BC Minstry of Health - Assisted Living and Residential Care Locations| [https://moh.apps.gov.bc.ca/alrc/](https://moh.apps.gov.bc.ca/alrc/)|
-|[SMK](web-mapping-frameworks/SMK.html) | High| Translink - Truck Route Planner |[https://translink.apps.gov.bc.ca/trp/](https://translink.apps.gov.bc.ca/trp/)|
 
 # Supporting and Standalone Spatial Services
 
