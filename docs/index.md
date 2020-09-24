@@ -69,7 +69,7 @@ As the owner or developer of the application I want to understand...
 
 As the end user of the application I want...
 
-|                                                                                    |[AGO](/web-mapping-frameworks/AGO.html)| [CWM](web-mapping-frameworks/CWM.html)  | [IMF2](/web-mapping-frameworks/IMF2.html) |[SMK](web-mapping-frameworks/SMK.html)  |
+|                                                                                    |[AGO](web-mapping-frameworks/AGO.html)| [CWM](web-mapping-frameworks/CWM.html)  | [IMF2](web-mapping-frameworks/IMF2.html) |[SMK](web-mapping-frameworks/SMK.html)  |
 |------------------------------------------------------------------------------------|:---:|:---:|:---:|:---:|
 <b>Can I print a map with a user-defined scale, paper size or in combination with a report?|![](assets/images/check.jpg) |![](assets/images/check.jpg) |![](assets/images/check.jpg) |![](assets/images/check.jpg) |
 <b>Can I draw and edit an Area of Interest ?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|?|
@@ -106,7 +106,7 @@ As the end user of the application I want...
 
 As the owner or developer of the application I want to understand...
 
-|                                                                                    |[AGO](/web-mapping-frameworks/AGO.html)| [CWM](web-mapping-frameworks/CWM.html)  | [IMF2](/web-mapping-frameworks/IMF2.html) |[SMK](web-mapping-frameworks/SMK.html)  |
+|                                                                                    |[AGO](web-mapping-frameworks/AGO.html)| [CWM](web-mapping-frameworks/CWM.html)  | [IMF2](web-mapping-frameworks/IMF2.html) |[SMK](web-mapping-frameworks/SMK.html)  |
 |------------------------------------------------------------------------------------|:---:|:---:|:---:|:---:|
 |<b>Where can this application be hosted - in the cloud, on a Government server or elsewhere?|Cloud|On-Premise|On-Premise|both|
 |<b>Where is the data stored - in the cloud, on Government server or local drive.|All|Cloud, On-Premise|All|Cloud, On-Premise|
