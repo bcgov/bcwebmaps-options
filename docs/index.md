@@ -38,9 +38,9 @@ Below are examples of similar functionality in the available solutions.
 
 | |Complexity| Client| Example|
 |-|----------|-------|--------|
-|[AGO](/web-mapping-frameworks/AGO.html)  | Medium|BC Wildfire Dashboard| [https://bit.ly/BC_Wildfire_Dashboard](https://bit.ly/BC_Wildfire_Dashboard)|
-|[IMF2](/web-mapping-frameworks/IMF2.html)| High| DataBC iMapBC| [https://maps.gov.bc.ca/ess/hm/imap4m/](https://maps.gov.bc.ca/ess/hm/imap4m/)|
-|[CWM](/web-mapping-frameworks/CWM.html) | High| GeoBC Integrated Land and Resource Registry| [https://a100.gov.bc.ca/apps/ilrr/html/ILRRWelcome.html](https://a100.gov.bc.ca/apps/ilrr/html/ILRRWelcome.html)|
+|[AGO](web-mapping-frameworks/AGO.html)  | Medium|BC Wildfire Dashboard| [https://bit.ly/BC_Wildfire_Dashboard](https://bit.ly/BC_Wildfire_Dashboard)|
+|[IMF2](web-mapping-frameworks/IMF2.html)| High| DataBC iMapBC| [https://maps.gov.bc.ca/ess/hm/imap4m/](https://maps.gov.bc.ca/ess/hm/imap4m/)|
+|[CWM](web-mapping-frameworks/CWM.html) | High| GeoBC Integrated Land and Resource Registry| [https://a100.gov.bc.ca/apps/ilrr/html/ILRRWelcome.html](https://a100.gov.bc.ca/apps/ilrr/html/ILRRWelcome.html)|
 |[SMK](web-mapping-frameworks/SMK.html) | Low| BC Minstry of Health - Assisted Living and Residential Care Locations| [https://moh.apps.gov.bc.ca/alrc/](https://moh.apps.gov.bc.ca/alrc/)|
 |[SMK](web-mapping-frameworks/SMK.html) | High| Translink - Truck Route Planner |[https://translink.apps.gov.bc.ca/trp/](https://translink.apps.gov.bc.ca/trp/)|
 
