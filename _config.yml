@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/bcwebmaps-options" # the subpath of your site, e.g. /blog
 url: "https://bcgov.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-collections_dir: web-mapping-frameworks
+collections_dir: collections
 collections:
   overview:
   services:
