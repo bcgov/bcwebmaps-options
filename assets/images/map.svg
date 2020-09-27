@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="24px" viewBox="0 0 18 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>map-marker-alt-solid</title>
+    <desc>Created with Sketch.</desc>
+    <g id="CSS-Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="our-team" transform="translate(-239.000000, -1456.000000)" fill="#38598A" fill-rule="nonzero">
+            <g id="map-marker-alt-solid" transform="translate(239.000000, 1456.000000)">
+                <path d="M8.0750625,23.5157755 C1.26421875,13.6420748 0,12.6287313 0,9 C0,4.02942089 4.02942187,0 9,0 C13.9705781,0 18,4.02942089 18,9 C18,12.6287313 16.7357812,13.6420748 9.9249375,23.5157755 C9.47798438,24.1614316 8.52196875,24.1613847 8.0750625,23.5157755 Z M9,12.7499987 C11.0710781,12.7499987 12.75,11.0710754 12.75,8.9999978 C12.75,6.92892018 11.0710781,5.24999872 9,5.24999872 C6.92892188,5.24999872 5.25,6.92892018 5.25,8.9999978 C5.25,11.0710754 6.92892188,12.7499987 9,12.7499987 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

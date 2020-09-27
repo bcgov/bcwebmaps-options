@@ -1,0 +1,21 @@
+<div class="feature-card">
+  <p class="onboard-table-desc">Finding and sharing container images (software components you can deploy and host) with your team and the
+    Docker community</p>
+  <div class="card">
+    <div class="card-header">
+      {{ include.param.title }} Images
+    </div>
+    <div class="card-body">
+      {% for image in include.param.dockerImages %}
+      <div class="row no-gutters">
+        <div class="col-sm-5">{{ image.name }}</div>
+        <div class="col-sm-7">
+          <a href="{{ image.url }}" target="_blank">{{ image.url }}
+            <i class="fas fa-external-link-square-alt"></i>
+          </a>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>

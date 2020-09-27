@@ -1,0 +1,134 @@
+@import "variables";
+
+/* The header/description section of the pages */
+.page-header {
+  margin-top: 11em;
+  h2 {
+    margin-bottom: 3em;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: $blue-text;
+  }
+  .page-description {
+    background-color: $grey-bg;
+    font-size: 1.25rem;
+    line-height: 2;
+    margin-bottom: 3em;
+    p {
+      margin-bottom: 0;
+    }
+    ul {
+      margin-bottom: 0;
+    }
+    li {
+      font-size: 1.125rem;
+      &.active {
+        font-weight: bold;
+      }
+      a {
+        color: $blue-text-light;
+      }
+    }
+    .page-description-content {
+      padding: 2em 0;
+    }
+  }
+}
+
+/* page header with inline mascot image */
+h2 .mascot{
+  height: 7rem;
+  @media (max-width: 768px) {
+    height: 3rem;
+  }
+}
+
+/* The tabled list of service/onboarding features */
+.feature-card {
+  margin: 0 2em 6em 2em;
+  > p {
+    margin-top: 1em;
+    margin-bottom: 0;
+  }
+  .card {
+    margin-top: 1em;
+    ul {
+      line-height: 2rem;
+      margin-bottom: 0;
+    }
+    a {
+      color: $blue-text-light;
+      i {
+        margin-left: .5rem;
+        font-size: larger;
+      }
+    }
+    .card-header {
+      color: $blue-text-light;
+      font-size: 1.125rem;
+      font-weight: bold;
+      text-align: center;
+    }
+    .card-body {
+      padding: 0;
+      .row {
+        &:not(:last-child) {
+          border-bottom: solid 1px $card-border
+        };
+        div[class^="col"] {
+          padding: 1rem 2rem;
+          &:first-child {
+            border-right: solid 1px $card-border;
+          }
+        }
+      }
+    }
+  }
+}
+
+/* Style specific to the onboarding pages */
+.onboarding-content {
+  h4, h5, h6 {
+    font-weight: bold;
+  }
+  h4 {
+    font-size: 1.25rem;
+    color: $blue-text;
+    margin-bottom: 1.25rem;
+  }
+  h5 {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+  }
+  .feature-card .onboard-table-desc {
+    display: none;
+  }
+}
+
+/* Style specific to the team */
+.team-content {
+  ol {
+    line-height: 32px;
+    padding-bottom: 2rem;
+  }
+  img {
+    margin-right: 1rem;
+  }
+  strong {
+    color: $blue-text;
+  }
+}
+
+.onboarding-content, .team-content {
+  h4, h5, h6 {
+    font-weight: bold;
+  }
+  h4 {
+    font-size: 1.25rem;
+    color: $blue-text;
+    margin-bottom: 1.25rem;
+  }
+  a {
+    color: $blue-text-light;
+  }
+}

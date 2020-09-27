@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="686px" height="140px" viewBox="0 0 686 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="img" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="CDOGS-Copy-4" transform="translate(-344.000000, -388.000000)">
+            <g id="Group-3" transform="translate(344.000000, 388.000000)">
+                <g id="form">
+                    <rect id="Rectangle" stroke="#003366" stroke-width="4" fill="#FFFFFF" x="2" y="2" width="130" height="136"></rect>
+                    <rect id="Rectangle" stroke="#003366" stroke-width="4" fill="#FFFFFF" x="25" y="43" width="85" height="83"></rect>
+                    <rect id="Rectangle" fill="#003366" x="2" y="0" width="130" height="16"></rect>
+                    <circle id="Oval" fill="#FFFFFF" cx="9.5" cy="7.5" r="3.5"></circle>
+                    <circle id="Oval" fill="#FFFFFF" cx="20.5" cy="7.5" r="3.5"></circle>
+                    <circle id="Oval" fill="#FFFFFF" cx="31.5" cy="7.5" r="3.5"></circle>
+                    <rect id="Rectangle" fill="#003366" x="38" y="26" width="58" height="5"></rect>
+                    <rect id="Rectangle" fill="#003366" x="70" y="108" width="31" height="10"></rect>
+                    <polygon id="Triangle" fill="#003366" transform="translate(98.000000, 71.000000) rotate(-180.000000) translate(-98.000000, -71.000000) " points="98 69 101 73 95 73"></polygon>
+                    <rect id="Rectangle" fill="#003366" x="37" y="51" width="64" height="3"></rect>
+                    <rect id="Rectangle" fill="#003366" x="37" y="60" width="22" height="3"></rect>
+                    <rect id="Rectangle" fill="#003366" x="65" y="60" width="36" height="3"></rect>
+                    <rect id="Rectangle" fill="#003366" x="37" y="69" width="54" height="3"></rect>
+                    <rect id="Rectangle" fill="#003366" x="37" y="78" width="54" height="3"></rect>
+                    <rect id="Rectangle" fill="#003366" x="49" y="92" width="14" height="3"></rect>
+                    <rect id="Rectangle" fill="#003366" x="83" y="92" width="14" height="3"></rect>
+                    <circle id="Oval" stroke="#003366" stroke-width="2" cx="42.5" cy="93.5" r="3.5"></circle>
+                    <circle id="Oval" stroke="#003366" stroke-width="2" cx="74.5" cy="93.5" r="3.5"></circle>
+                    <polygon id="Triangle" fill="#003366" transform="translate(98.000000, 71.000000) rotate(-180.000000) translate(-98.000000, -71.000000) " points="98 69 101 73 95 73"></polygon>
+                    <polygon id="Triangle" fill="#003366" transform="translate(98.000000, 80.000000) rotate(-180.000000) translate(-98.000000, -80.000000) " points="98 78 101 82 95 82"></polygon>
+                </g>
+                <g id="form" transform="translate(279.000000, 0.000000)">
+                    <rect id="Rectangle" stroke="#003366" stroke-width="4" fill="#FFFFFF" x="2" y="2" width="130" height="136"></rect>
+                    <rect id="Rectangle" stroke="#003366" stroke-width="4" fill="#FFFFFF" x="30" y="30" width="75" height="96"></rect>
+                    <rect id="Rectangle" fill="#003366" x="2" y="0" width="130" height="16"></rect>
+                    <circle id="Oval" fill="#FFFFFF" cx="9.5" cy="7.5" r="3.5"></circle>
+                    <circle id="Oval" fill="#FFFFFF" cx="20.5" cy="7.5" r="3.5"></circle>
+                    <circle id="Oval" fill="#FFFFFF" cx="31.5" cy="7.5" r="3.5"></circle>
+                    <rect id="Rectangle" fill="#003366" x="37" y="51" width="61" height="3"></rect>
+                    <rect id="Rectangle" fill="#003366" x="37" y="42" width="61" height="3"></rect>
+                    <rect id="Rectangle" fill="#003366" x="37" y="60" width="22" height="3"></rect>
+                    <rect id="Rectangle" fill="#003366" x="64" y="60" width="34" height="3"></rect>
+                    <rect id="Rectangle" fill="#003366" x="37" y="69" width="51" height="3"></rect>
+                    <rect id="Rectangle" fill="#003366" x="37" y="78" width="16" height="3"></rect>
+                    <rect id="Rectangle" fill="#003366" x="37" y="89" width="17" height="3"></rect>
+                    <rect id="Rectangle" fill="#003366" x="37" y="99" width="14" height="3"></rect>
+                    <polygon id="Triangle" fill="#003366" transform="translate(95.000000, 71.000000) rotate(-180.000000) translate(-95.000000, -71.000000) " points="95 69 98 73 92 73"></polygon>
+                    <polygon id="Triangle" fill="#003366" transform="translate(95.000000, 80.000000) rotate(-180.000000) translate(-95.000000, -80.000000) " points="95 78 98 82 92 82"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(552.000000, 0.000000)">
+                    <rect id="Rectangle" stroke="#003366" stroke-width="4" fill="#FFFFFF" x="2" y="2" width="130" height="136"></rect>
+                    <rect id="Rectangle" fill="#003366" x="2" y="0" width="130" height="16"></rect>
+                    <circle id="Oval" fill="#FFFFFF" cx="9.5" cy="7.5" r="3.5"></circle>
+                    <circle id="Oval" fill="#FFFFFF" cx="20.5" cy="7.5" r="3.5"></circle>
+                    <circle id="Oval" fill="#FFFFFF" cx="31.5" cy="7.5" r="3.5"></circle>
+                    <g id="bar_chart-24px" transform="translate(26.000000, 83.000000)">
+                        <polygon id="Path" points="0 0 37 0 37 37 0 37"></polygon>
+                        <path d="M8,13.6 L12.7142857,13.6 L12.7142857,29 L8,29 L8,13.6 Z M16.8,7 L21.2,7 L21.2,29 L16.8,29 L16.8,7 Z M25.6,19.5714286 L30,19.5714286 L30,29 L25.6,29 L25.6,19.5714286 Z" id="Shape" fill="#003366" fill-rule="nonzero"></path>
+                    </g>
+                    <g id="bar_chart-24px" transform="translate(101.500000, 101.500000) rotate(-270.000000) translate(-101.500000, -101.500000) translate(86.000000, 77.000000)">
+                        <polygon id="Path" points="-1.13686838e-13 0 31 0 31 49 -1.13686838e-13 49"></polygon>
+                        <path d="M7,18 L10.8571429,18 L10.8571429,39 L7,39 L7,18 Z M14.2,9 L17.8,9 L17.8,39 L14.2,39 L14.2,9 Z M21.4,16.5974026 L25,16.5974026 L25,38.9999994 L21.4,38.9999994 L21.4,16.5974026 Z" id="Shape" fill="#003366" fill-rule="nonzero"></path>
+                    </g>
+                    <g id="multiline_chart-24px" transform="translate(22.000000, 45.000000)">
+                        <polygon id="Path" points="0 0 44 0 44 44 0 44"></polygon>
+                        <path d="M41,12.5581913 L38.3915,9.94514455 L33.119,15.8939956 C29.308,11.5945145 24.0355,9 18.0785,9 C12.732,9 7.8295,11.1497405 4,14.5596738 L6.627,17.1912528 C9.772,14.4299481 13.7495,12.7064492 18.0785,12.7064492 C23.1475,12.7064492 27.495,15.0415122 30.603,18.710897 L25.275,24.7153447 L17.875,17.3024463 L4,31.2201631 L6.775,34 L17.875,22.8621201 L25.275,30.2750185 L32.7675,21.8428466 C34.155,24.3446998 35.08,27.2171979 35.4315,30.2750185 L39.15,30.2750185 C38.743,26.0126019 37.3925,22.1393625 35.376,18.8962194 L41,12.5581913 Z" id="Path" fill="#003366" fill-rule="nonzero"></path>
+                    </g>
+                    <line x1="18.5" y1="41.5" x2="18.5" y2="117.5" id="Line-6" stroke="#003366" stroke-width="3" stroke-linecap="square"></line>
+                    <line x1="78.5" y1="117.5" x2="18.5" y2="117.5" id="Line-6" stroke="#003366" stroke-width="3" stroke-linecap="square"></line>
+                    <g id="pie_chart-24px" transform="translate(82.000000, 40.000000)">
+                        <polygon id="Path" points="0 0 39 0 39 39 0 39"></polygon>
+                        <path d="M17.85,3 L17.85,36 C9.4845,35.175 3,28.0965 3,19.5 C3,10.9035 9.4845,3.825 17.85,3 Z M21.1995,3 L21.1995,17.8335 L36,17.8335 C35.2245,10.0125 29.004,3.7755 21.1995,3 Z M21.1995,21.1665 L21.1995,36 C29.0205,35.2245 35.2245,28.9875 36,21.1665 L21.1995,21.1665 Z" id="Shape" fill="#003366" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+                <g id="search-24px-(2)" transform="translate(315.000000, 52.000000)">
+                    <polygon id="Path" points="0 0 97 0 97 97 0 97"></polygon>
+                    <path d="M62.7432819,56.6540881 L59.5363065,56.6540881 L58.3996569,55.5580332 C62.3779302,50.9302459 64.7730132,44.9222413 64.7730132,38.3865066 C64.7730132,23.813036 52.9599771,12 38.3865066,12 C23.813036,12 12,23.813036 12,38.3865066 C12,52.9599771 23.813036,64.7730132 38.3865066,64.7730132 C44.9222413,64.7730132 50.9302459,62.3779302 55.5580332,58.3996569 L56.6540881,59.5363065 L56.6540881,62.7432819 L76.9514008,83 L83,76.9514008 L62.7432819,56.6540881 Z M38.3865066,56.6540881 C28.2784448,56.6540881 20.1189251,48.4945683 20.1189251,38.3865066 C20.1189251,28.2784448 28.2784448,20.1189251 38.3865066,20.1189251 C48.4945683,20.1189251 56.6540881,28.2784448 56.6540881,38.3865066 C56.6540881,48.4945683 48.4945683,56.6540881 38.3865066,56.6540881 Z" id="Shape" fill="#003366" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
