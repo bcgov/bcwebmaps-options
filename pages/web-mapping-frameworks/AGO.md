@@ -1,11 +1,12 @@
 ---
-layout: default
 parent: Web Mapping Frameworks
-title: AGO
+title: AGO - BC Map Hub (ArcGIS Online Subscription)
 nav_order: 1
----
+permalink: /web-mapping-frameworks/ago
 
-# BC Map Hub (ArcGIS Online Subscription)
+layout: post
+sidenav: docs
+---
 
 
 Last updated 2020-07-15

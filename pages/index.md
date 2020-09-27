@@ -1,20 +1,31 @@
 ---
-layout: default
-title: Home
+title: Web Mapping Frameworks Comparison
 nav_order: 1
 has_toc: true
+description: This is a main page.
+permalink: /
 
----
+layout: post
+sidenav: docs
 
 
-# **Web Mapping Frameworks**
-{: .fs-10 .no_toc }
 
-## Table of contents
-{: .no_toc .text-delta }
+subnav:
+  - text: Find the right solution for your business
+    href: '#find-the-right-solution-for-your-business'
+  - text: Look and Feel
+    href: '#look-and-feel'
+  - text: Framework Comparison
+    href: '#framework-comparison'
+  - text: Costs and Skillsets
+    href: '#costs-and-skillsets'
+  - text: User Interface
+    href: '#user-interface'
+  - text: Backend Technology
+    href: '#backend-technology'
+  - text: Supporting and Standalone Spatial Services
+    href: '#supporting-and-standalone-spatial-services'
 
-1. TOC
-{:toc}
 
 ---
 

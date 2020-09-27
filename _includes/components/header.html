@@ -16,7 +16,7 @@
       <div class="bc-logo" id="{% if header.type == 'extended' or header.type == 'extended-mega' %}extended-mega-{% endif %}logo">
         <!-- Note: Header Link -->
         <!-- <a href="{% if header.href %}{{ header.href }}{% else %}{{ site.baseurl }}/{% endif %}" title="Home"> -->
-        <a target= "_blank" href="https://intranet.gov.bc.ca/thehub" title="Home">  
+        <a target= "_blank" href="https://github.com/bcgov/bcwebmaps-options" title="Home">  
           
           {% if header.logo %}
             <img class="bc-logo-img" src="{% if header.logo.external %}{{ header.logo.src }}{% else %}{{ header.logo.src | relative_url }}{% endif %}" alt="{{ header.logo.alt }}">
