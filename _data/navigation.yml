@@ -1,0 +1,136 @@
+# This is the configuration for the site navigation.
+
+# This file defines the structure of various named navigational
+# listings, any of which can be used (with some caveats) as the
+# links in your header, footer, and per-page side navigation.
+#
+# For instance, if you have a "primary" navigation list here, you
+# can use that as your header's primary navigation by setting
+# `primary.links` to "primary":
+#
+# primary:
+#   links: primary
+#
+primary:
+  - text: Home
+    href: /
+  - text: Play 1
+    href: /play1
+  - text: Play 2
+    href: /play2
+  - text: Play 3
+    href: /play3
+  - text: Play 4
+    href: /play4
+  - text: Play 5
+    href: /play5
+  - text: Play 6
+    href: /play6
+  - text: Play 7
+    href: /play7
+
+secondary:
+  - text: Home
+    href: /
+    external: false
+  - text: GitHub Source
+    href: https://github.com/bcgov/CITZ-IMB-playbook
+    external: true
+  - text: Provide Feedback
+    href: /feedback
+    external: false
+  - text: PDF Version
+    href: https://bcgov.github.io/CITZ-IMB-playbook/docs/Modern-Application-Playbook-BETA.pdf
+    external: true
+
+docs:
+  - text: Modern Application Playbook
+    href: /
+  - text: Play 1
+    href: /play1
+  - text: Play 2
+    href: /play2
+  - text: Play 3
+    href: /play3
+  - text: Play 4
+    href: /play4
+  - text: Play 5
+    href: /play5
+  - text: Play 6
+    href: /play6
+  - text: Play 7
+    href: /play7
+  - text: Principles
+    href: /principles
+  - text: Patterns
+    href: /patterns
+  - text: Glossary
+    href: /glossary
+      
+play1:
+  - text: Play 1
+    href: /play1
+
+play2:
+  - text: Play 2
+    href: /play2
+
+play3:
+  - text: Play 3
+    href: /play3
+
+play4:
+  - text: Play 4
+    href: /play4
+
+play5:
+  - text: Play 5
+    href: /play5
+
+play6:
+  - text: Play 6
+    href: /play6
+
+play7:
+  - text: Play 7
+    href: /play7
+
+footer:
+  - text: Home
+    href: /
+  - text: Disclaimer
+    href: https://www2.gov.bc.ca/gov/content/home/disclaimer
+    external: true
+  - text: Privacy
+    href: https://www2.gov.bc.ca/gov/content/home/privacy
+    external: true
+  - text: Accessibility
+    href: https://www2.gov.bc.ca/gov/content/home/accessible-government
+    external: true
+  - text: Copyright
+    href: https://www2.gov.bc.ca/gov/content/home/copyright
+    external: true
+  - text: Contact Us
+    href: https://github.com/bcgov/CITZ-IMB-Playbook/issues
+    external: true
+  - text: Fair Use
+    href: /fairuse
+  - text: Updated 15/07/2020
+    href: https://github.com/bcgov/CITZ-IMB-Playbook
+    external: true
+
+patterns:
+  - text: Patterns Home
+    href: /patterns
+  - text: Platform Adoption Patterns
+    href: /platform-adoption-patterns
+  - text: IMB Patterns
+    href: /imb-patterns
+
+maintenanceanddevelopment:
+  - text: Maintenance and Development
+    href: /maintenanceanddevelopment
+
+feedback:
+  - text: Provide Feedback
+    href: /feedback
