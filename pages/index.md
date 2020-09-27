@@ -15,8 +15,6 @@ subnav:
     href: '#find-the-right-solution-for-your-business'
   - text: Look and Feel
     href: '#look-and-feel'
-  - text: Framework Comparison
-    href: '#framework-comparison'
   - text: Costs and Skillsets
     href: '#costs-and-skillsets'
   - text: User Interface
