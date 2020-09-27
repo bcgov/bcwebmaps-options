@@ -1,0 +1,23 @@
+<div class="feature-card">
+  <p class="onboard-table-desc">Share independently usable packages of code for teams to achieve a variety of capabilities in their systems.
+  </p>
+  <div class="card">
+    <div class="card-header">
+      {{ include.param.title }} NPM Packages
+    </div>
+    <div class="card-body">
+      {% for package in include.param.npmPackages %}
+      <div class="row no-gutters">
+        <div class="col-sm-3">{{ package.name }}</div>
+        <div class="col-sm-9">
+          {{ package.description }}
+          <hr>
+          <a href="{{ package.url }}" target="_blank">{{ package.url }}
+            <i class="fas fa-external-link-square-alt"></i>
+          </a>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>

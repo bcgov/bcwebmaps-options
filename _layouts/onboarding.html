@@ -1,0 +1,24 @@
+---
+layout: default
+---
+{% assign onboarding = site.onboarding | sort: 'order' %}
+
+<div class="page-header">
+  <h2 class="text-center">Fast, frictionless and self-serve onboarding</h2>
+  <div class="page-description">
+    <div class="container page-description-content">
+      <h4 class="mb-3"><strong>Onboard Option</strong></h4>
+      <ul>
+        {% for onb in onboarding %}
+        <li class="{% if onb.url == page.url %}active{% endif %}">
+          <a href="{{ site.baseurl }}{{ onb.url }}.html">{{ onb.title }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="container onboarding-content">
+  {{ content }}
+</div>
