@@ -14,27 +14,24 @@
 primary:
   - text: Home
     href: /
-  - text: Play 1
-    href: /play1
-  - text: Play 2
-    href: /play2
-  - text: Play 3
-    href: /play3
-  - text: Play 4
-    href: /play4
-  - text: Play 5
-    href: /play5
-  - text: Play 6
-    href: /play6
-  - text: Play 7
-    href: /play7
+  - text: Web Mapping Frameworks
+    href: /web-mapping-frameworks
+  - text: Glossary
+    href: /glossary
+  - text: Footnotes
+    href: /footnotes
+  - text: Footnotes
+    href: /footnotes
+
+
+
 
 secondary:
   - text: Home
     href: /
     external: false
   - text: GitHub Source
-    href: https://github.com/bcgov/CITZ-IMB-playbook
+    href: https://github.com/bcgov/bcwebmaps-options
     external: true
   - text: Provide Feedback
     href: /feedback
@@ -44,56 +41,34 @@ secondary:
     external: true
 
 docs:
-  - text: Modern Application Playbook
+  - text: BC Web Mapping Frameworks Comparison
     href: /
-  - text: Play 1
-    href: /play1
-  - text: Play 2
-    href: /play2
-  - text: Play 3
-    href: /play3
-  - text: Play 4
-    href: /play4
-  - text: Play 5
-    href: /play5
-  - text: Play 6
-    href: /play6
-  - text: Play 7
-    href: /play7
-  - text: Principles
-    href: /principles
-  - text: Patterns
-    href: /patterns
+  - text: Web Mapping Frameworks
+    href: /web-mapping-frameworks
+  - text: Footnotes
+    href: /footnotes
   - text: Glossary
     href: /glossary
-      
-play1:
-  - text: Play 1
-    href: /play1
+  - text: Provide Feedback
+    href: /feedback
 
-play2:
-  - text: Play 2
-    href: /play2
+    
+footnotes:
+  - text: Footnotes
+    href: /footnotes
 
-play3:
-  - text: Play 3
-    href: /play3
+web-mapping-frameworks:
+  - text: Web Mapping Frameworks Home
+    href: /web-mapping-frameworks
+  - text: AGO
+    href: /web-mapping-frameworks/AGO
+  - text: CWM
+    href: /web-mapping-frameworks/CWM
+  - text: IMF2
+    href: /web-mapping-frameworks/IMF2
+  - text: SMK
+    href: /web-mapping-frameworks/SMK
 
-play4:
-  - text: Play 4
-    href: /play4
-
-play5:
-  - text: Play 5
-    href: /play5
-
-play6:
-  - text: Play 6
-    href: /play6
-
-play7:
-  - text: Play 7
-    href: /play7
 
 footer:
   - text: Home
@@ -111,21 +86,14 @@ footer:
     href: https://www2.gov.bc.ca/gov/content/home/copyright
     external: true
   - text: Contact Us
-    href: https://github.com/bcgov/CITZ-IMB-Playbook/issues
+    href: https://github.com/bcgov/bcwebmaps-options/issues
     external: true
   - text: Fair Use
     href: /fairuse
-  - text: Updated 15/07/2020
-    href: https://github.com/bcgov/CITZ-IMB-Playbook
+  - text: Updated 30/09/2020
+    href: https://github.com/bcgov/bcwebmaps-options
     external: true
 
-patterns:
-  - text: Patterns Home
-    href: /patterns
-  - text: Platform Adoption Patterns
-    href: /platform-adoption-patterns
-  - text: IMB Patterns
-    href: /imb-patterns
 
 maintenanceanddevelopment:
   - text: Maintenance and Development

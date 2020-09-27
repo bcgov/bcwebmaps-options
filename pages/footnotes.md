@@ -1,8 +1,11 @@
 ---
-layout: default
+
 title: Footnotes
+permalink: /footnotes
 nav_order: 2
 has_toc: false
+layout: post
+sidenav: docs
 ---
 
 # FOOTNOTES

@@ -1,12 +1,13 @@
 ---
-layout: default
 parent: Web Mapping Frameworks
-title: IMF2
-nav_order: 3
+title: IMF2 - IMF2 Internet Mapping Framework 2
+permalink: /web-mapping-frameworks/imf2
+
+layout: post
+sidenav: docs
 
 ---
 
-# IMF2 Internet Mapping Framework 2
 
 Last updated 2020-07-15
 

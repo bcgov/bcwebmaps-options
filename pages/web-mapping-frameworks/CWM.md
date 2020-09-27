@@ -1,10 +1,11 @@
 ---
-layout: default
 parent: Web Mapping Frameworks
-title: CWM
-nav_order: 2
+title: CWM - Common Web Mapping Framework
+permalink: /web-mapping-frameworks/cwm
+
+layout: post
+sidenav: docs
 ---
-# CWM - Common Web Mapping Framework
 
 Last updated 2020-07-15
 

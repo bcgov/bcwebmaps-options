@@ -1,12 +1,12 @@
 ---
-layout: default
 parent: Web Mapping Frameworks
-title: SMK
-nav_order: 4
+title: SMK - Simple Map Kit 
+permalink: /web-mapping-frameworks/smk
+
+layout: post
+sidenav: docs
 
 ---
-
-# SMK - Simple Map Kit 
 
 Last updated 2020-09-03
 
