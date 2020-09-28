@@ -23,9 +23,6 @@ primary:
   - text: Footnotes
     href: /footnotes
 
-
-
-
 secondary:
   - text: Home
     href: /
@@ -93,7 +90,6 @@ footer:
   - text: Updated 30/09/2020
     href: https://github.com/bcgov/bcwebmaps-options
     external: true
-
 
 maintenanceanddevelopment:
   - text: Maintenance and Development
