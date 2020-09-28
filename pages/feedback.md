@@ -34,7 +34,7 @@ To help our developers resolve your issue, we suggest the following:
 - In general, please try to include as much information as possible.
 
 ## Maintenance
-The site structure and theme are described in the [maintenance and development guide](bcwebmaps-options/maintenanceanddevelopment).
+The site structure and theme are described in the [maintenance and development guide](https://bcgov.github.io/bcwebmaps-options/maintenanceanddevelopment).
 
 <br>
 <br>
