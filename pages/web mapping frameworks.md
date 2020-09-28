@@ -8,13 +8,13 @@ sidenav: docs
 permalink: /web-mapping-frameworks
 subnav: 
   - text: AGO - BC Map Hub (ArcGIS Online)
-    href: bcwebmaps-options/web-mapping-frameworks/ago
+    href: web-mapping-frameworks/ago
   - text: CWM - Common Web Mapping
-    href: bcwebmaps-options/web-mapping-frameworks/cwm
+    href: web-mapping-frameworks/cwm
   - text: IMF2 - Internet Mapping Framework 2
-    href: bcwebmaps-options/web-mapping-frameworks/imf2
+    href: web-mapping-frameworks/imf2
   - text: SMK - Simple Map Kit
-    href: bcwebmaps-options/web-mapping-frameworks/smk
+    href: web-mapping-frameworks/smk
 ---
 
 
