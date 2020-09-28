@@ -23,7 +23,7 @@ subnav:
 The purpose of this site is to discover what web mapping technology framework is currently available within the Provincial Government, and if any of these solutions can meet your needs.<br><br>
 The Province of British Columbia currently uses four main web mapping frameworks. These frameworks vary from a cloud-based Software as a Service (SaaS) solution, two Government hosted solutions and a Do-It-Yourself solution. <br>
 
-1. The Software as a Service (SaaS) solution is the cloud-based ESRI solution commonly known as [AGO](web-mapping-frameworks/AGO.html)
+1. The Software as a Service (SaaS) solution is the cloud-based ESRI solution commonly known as [AGO](web-mapping-frameworks/ago.html)
         or ArcGIS Online
 2. Two Government hosted service offerings: 
    - Common Web Mapping Framework [CWM](web-mapping-frameworks/cwm.html) which is based on Openlayers 2, and 
