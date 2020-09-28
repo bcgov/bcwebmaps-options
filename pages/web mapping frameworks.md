@@ -26,10 +26,10 @@ The Province of British Columbia currently uses four main web mapping frameworks
 1. The Software as a Service (SaaS) solution is the cloud-based ESRI solution commonly known as [AGO](AGO.html)
         or ArcGIS Online
 2. Two Government hosted service offerings: 
-   - Common Web Mapping Framework [CWM](CWM.html) which is based on Openlayers 2, and 
-   - Internet Mapping Framework [IMF2](IMF2.html) which is based on 
+   - Common Web Mapping Framework [CWM](web-mapping-frameworks/cwm.html) which is based on Openlayers 2, and 
+   - Internet Mapping Framework [IMF2](web-mapping-frameworks/imf2.html) which is based on 
                 VertiGIS’s GeoCortex Essentials.
-3. The Do-It-Yourself Simple Map Kit ([SMK](SMK.html)) which can use either Leaflet or
+3. The Do-It-Yourself Simple Map Kit ([SMK](web-mapping-frameworks/smk.html)) which can use either Leaflet or
         the ESRI Javascript API.
 
 
