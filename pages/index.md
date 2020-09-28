@@ -38,8 +38,7 @@ The Province of British Columbia currently uses four main web mapping frameworks
    - Common Web Mapping Framework [CWM](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/cwm.html) which is based on Openlayers 2, and 
    - Internet Mapping Framework [IMF2](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/imf2.html) which is based on 
                 VertiGIS’s GeoCortex Essentials.
-3. The Do-It-Yourself Simple Map Kit ([SMK](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/smk.html)) which can use either Leaflet or
-        the ESRI Javascript API.
+3. The Do-It-Yourself Simple Map Kit ([SMK](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/smk.html)) is Open Source Software that can be installed on a local machine and then used to configure a leaflet map.  The resulting code can be deployed anywhere that is web accessible.
 
 # Look and Feel
 
@@ -62,7 +61,7 @@ Below are examples of similar functionality in the available solutions.
 
 Costs can be highly variable and are influenced by multiple factors; 
 as such, it is best to first identify the solution that will meet
-user’s needs, then collaborate with DataBC or IIT to arrive at a
+user needs, then collaborate with DataBC or IIT to arrive at a
 mutually agreeable business arrangement.
 
 As the owner or developer of the application I want to understand...
