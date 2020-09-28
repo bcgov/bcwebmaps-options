@@ -23,6 +23,12 @@ primary:
   - text: Footnotes
     href: /footnotes
 
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> c5662f3... case sensitve
 secondary:
   - text: Home
     href: /
@@ -33,7 +39,13 @@ secondary:
   - text: Provide Feedback
     href: /feedback
     external: false
+<<<<<<< HEAD
 
+=======
+  - text: PDF Version
+    href: https://bcgov.github.io/CITZ-IMB-playbook/docs/Modern-Application-Playbook-BETA.pdf
+    external: true
+>>>>>>> c5662f3... case sensitve
 
 docs:
   - text: BC Web Mapping Frameworks Comparison
@@ -89,10 +101,18 @@ footer:
     href: https://github.com/bcgov/bcwebmaps-options
     external: true
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> c5662f3... case sensitve
 maintenanceanddevelopment:
   - text: Maintenance and Development
     href: /maintenanceanddevelopment
 
 feedback:
   - text: Provide Feedback
+<<<<<<< HEAD
     href: /feedback
+=======
+    href: /feedback
+>>>>>>> c5662f3... case sensitve

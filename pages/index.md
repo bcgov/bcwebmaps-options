@@ -32,6 +32,7 @@ There are many options for web mapping technology frameworks in today’s world.
 
 The Province of British Columbia currently uses four main web mapping frameworks. These frameworks vary from a cloud-based Software as a Service (SaaS) solution, two Government hosted solutions and a Do-It-Yourself solution. <br>
 
+<<<<<<< HEAD:pages/index.md
 1. The SaaS solution is the cloud-based ESRI solution commonly known as [AGO](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/ago.html)
         or ArcGIS Online
 2. Two Government hosted service offerings: 
@@ -39,6 +40,15 @@ The Province of British Columbia currently uses four main web mapping frameworks
    - Internet Mapping Framework [IMF2](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/imf2.html) which is based on 
                 VertiGIS’s GeoCortex Essentials.
 3. The Do-It-Yourself Simple Map Kit ([SMK](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/smk.html)) which can use either Leaflet or
+=======
+1. The SaaS solution is the cloud-based ESRI solution commonly known as [AGO](web-mapping-frameworks/ago.html)
+        or ArcGIS Online
+2. Two Government hosted service offerings: 
+   - Common Web Mapping Framework [CWM](web-mapping-frameworks/cwm.html) which is based on Openlayers 2, and 
+   - Internet Mapping Framework [IMF2](web-mapping-frameworks/imf2.html) which is based on 
+                VertiGIS’s GeoCortex Essentials.
+3. The Do-It-Yourself Simple Map Kit ([SMK](web-mapping-frameworks/smk.html)) which can use either Leaflet or
+>>>>>>> c5662f3... case sensitve:docs/index.md
         the ESRI Javascript API.
 
 # Look and Feel
@@ -67,7 +77,11 @@ mutually agreeable business arrangement.
 
 As the owner or developer of the application I want to understand...
 
+<<<<<<< HEAD:pages/index.md
 |                                                                                    |[AGO](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/ago.html)| [CWM](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/cwm.html)  | [IMF2](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/imf2.html) |[SMK](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/smk.html)  |
+=======
+|                                                                                    |[AGO](web-mapping-frameworks/ago.html)| [CWM](web-mapping-frameworks/cwm.html)  | [IMF2](web-mapping-frameworks/imf2.html) |[SMK](web-mapping-frameworks/smk.html)  |
+>>>>>>> c5662f3... case sensitve:docs/index.md
 |------------------------------------------------------------------------------------|:---:|:---:|:---:|:---:|
 |<b>What IT skills do you need to develop this solution? </b>                                |Familiarity with ESRI ecosystem of applications and APIs|Familiarity with javascript and Openlayers/ relationship with IIT|Familiarity with GeoCortex Essentials, .NET development for customization, Jenkins for deploying configuration files to DataBC’s environment|Familiarity with NodeJS, leaflet or ArcGIS Javascript development, github|
 |<b>What IT skills do you need to administer this solution once it has been implemented?<b> |Familiarity with ESRI ecosystem of applications|Familiarity with JSON configuration files, CWM Configuration, IIT deployment pathways|||
@@ -78,7 +92,11 @@ As the owner or developer of the application I want to understand...
 
 As the end user of the application I want...
 
+<<<<<<< HEAD:pages/index.md
 |                                                                                    |[AGO](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/ago.html)| [CWM](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/cwm.html)  | [IMF2](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/imf2.html) |[SMK](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/smk.html)  |
+=======
+|                                                                                    |[AGO](web-mapping-frameworks/ago.html)| [CWM](web-mapping-frameworks/cwm.html)  | [IMF2](web-mapping-frameworks/imf2.html) |[SMK](web-mapping-frameworks/smk.html)  |
+>>>>>>> c5662f3... case sensitve:docs/index.md
 |------------------------------------------------------------------------------------|:---:|:---:|:---:|:---:|
 <b>Can I print a map with a user-defined scale, paper size or in combination with a report?|![](assets/images/check.jpg) |![](assets/images/check.jpg) |![](assets/images/check.jpg) |![](assets/images/check.jpg) |
 <b>Can I draw and edit an Area of Interest ?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|?|
@@ -115,7 +133,11 @@ As the end user of the application I want...
 
 As the owner or developer of the application I want to understand...
 
+<<<<<<< HEAD:pages/index.md
 |                                                                                    |[AGO](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/ago.html)| [CWM](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/cwm.html)  | [IMF2](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/imf2.html) |[SMK](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/smk.html)  |
+=======
+|                                                                                    |[AGO](web-mapping-frameworks/ago.html)| [CWM](web-mapping-frameworks/cwm.html)  | [IMF2](web-mapping-frameworks/imf2.html) |[SMK](web-mapping-frameworks/smk.html)  |
+>>>>>>> c5662f3... case sensitve:docs/index.md
 |------------------------------------------------------------------------------------|:---:|:---:|:---:|:---:|
 |<b>Where can this application be hosted - in the cloud, on a Government server or elsewhere?|Cloud|On-Premise|On-Premise|both|
 |<b>Where is the data stored - in the cloud, on Government server or local drive.|All|Cloud, On-Premise|All|Cloud, On-Premise|
