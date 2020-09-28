@@ -61,13 +61,13 @@ web-mapping-frameworks:
   - text: Web Mapping Frameworks Home
     href: /web-mapping-frameworks
   - text: AGO
-    href: /web-mapping-frameworks/AGO
+    href: /web-mapping-frameworks/ago
   - text: CWM
-    href: /web-mapping-frameworks/CWM
+    href: /web-mapping-frameworks/cwm
   - text: IMF2
-    href: /web-mapping-frameworks/IMF2
+    href: /web-mapping-frameworks/imf2
   - text: SMK
-    href: /web-mapping-frameworks/SMK
+    href: /web-mapping-frameworks/smk
 
 
 footer:
