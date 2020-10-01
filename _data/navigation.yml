@@ -33,9 +33,7 @@ secondary:
   - text: Provide Feedback
     href: /feedback
     external: false
-  - text: PDF Version
-    href: https://bcgov.github.io/CITZ-IMB-playbook/docs/Modern-Application-Playbook-BETA.pdf
-    external: true
+
 
 docs:
   - text: BC Web Mapping Frameworks Comparison
