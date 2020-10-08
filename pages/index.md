@@ -82,12 +82,12 @@ As the end user of the application I want...
 |------------------------------------------------------------------------------------|:---:|:---:|:---:|:---:|
 <b>Can I print a map with a user-defined scale, paper size or in combination with a report?|![](assets/images/check.jpg) |![](assets/images/check.jpg) |![](assets/images/check.jpg) |![](assets/images/check.jpg) |
 <b>Can I draw and edit an Area of Interest ?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|?|
-<b>Can data be downloaded that was created on the map ie. Area of Interest AOI|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|Yes? Viewer only no?|
-<b>Can I import/export data layers that are in different geographic projection as the map?|no* available in ESRI Javascript API/desktop tools|![](assets/images/check.jpg)|![](assets/images/check.jpg)|?|
-<b>Can I add markup text or drawings onto my map for printing?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|yes?..|
+<b>Can data be downloaded that was created on the map ie. Area of Interest AOI|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|[7](footnotes.html#7)|
+<b>Can I import/export data layers that are in different geographic projection as the map?|no* available in ESRI Javascript API/desktop tools|![](assets/images/check.jpg)|![](assets/images/check.jpg)|import CSV supports projection specification as does WFS/WMS; map is Geographic|
+<b>Can I add markup text or drawings onto my map for printing?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|(assets/images/check.jpg)|
 <b>Can I turn on or off specific map layers while viewing the map?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|
-<b>Can I download operational business data from the map/application?|yes* webappbuilder csv, snippet of data|no|redirects to DataBC Distribution for BCGW data||
-<b>Can you import or load data for use in the map?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)||
+<b>Can I download operational business data from the map/application?|yes* webappbuilder csv, snippet of data|no|redirects to DataBC Distribution for BCGW data||Selection/extraction of feature is a configurable feature
+<b>Can you import or load data for use in the map?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|[7](footnotes.html#7)|
 <b>Can you search for geographic locations or a specific feature on the map?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|
 <b>Does the application provide map navigation tools such as mouse wheel zoom, zoom to extent or zoom to a feature?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|
 <b>Can you select different basemaps which are either an image or a different style of map?|?? |![](assets/images/check.jpg) |![](assets/images/check.jpg) |![](assets/images/check.jpg) |
@@ -103,8 +103,8 @@ As the end user of the application I want...
 <b>Can I make predictions using analytical models             |[3](footnotes.html#3)|                                    |                                    |                                    |
 <b>Can I re-symbolize, modify, or customize map data or labels?|![](assets/images/check.jpg)        |[4](footnotes.html#4)|![](assets/images/check.jpg)        |[4](footnotes.html#4)| 
 <b>Can I customize printing of maps?                           |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |[4](footnotes.html#4)|[4](footnotes.html#4)|
-<b>Can I save and share the work with others?                  |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |                                    |
-<b>Can I prepare specific datasets for off-line use?           |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |                                    |[7](footnotes.html#7)|
+<b>Can I save and share the work with others?                  |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |![](assets/images/check.jpg) |  |
+<b>Can I prepare specific datasets for off-line use?           |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |     |[7](footnotes.html#7)|
 <b>Can I collect data on this application?                                         |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |[5](footnotes.html#5)|[7](footnotes.html#7)|
 <b>Can I edit data on this application?                                            |[6](footnotes.html#6)|![](assets/images/check.jpg)        |6                                   |[7](footnotes.html#7)|
 <b>Can I work off-line (access without Internet) on this application?              |![](assets/images/check.jpg)        |[7](footnotes.html#7)|                                    |[7](footnotes.html#7)|   
@@ -117,21 +117,21 @@ As the owner or developer of the application I want to understand...
 
 |                                                                                    |[AGO](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/ago.html)| [CWM](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/cwm.html)  | [IMF2](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/imf2.html) |[SMK](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/smk.html)  |
 |------------------------------------------------------------------------------------|:---:|:---:|:---:|:---:|
-|<b>Where can this application be hosted - in the cloud, on a Government server or elsewhere?|Cloud|On-Premise|On-Premise|both|
+|<b>Where can this application be hosted - in the cloud, on a Government server or elsewhere?|Cloud|On-Premise|On-Premise|All|
 |<b>Where is the data stored - in the cloud, on Government server or local drive.|All|Cloud, On-Premise|All|Cloud, On-Premise|
-|<b>What capability does the application have to secure data or elements of the application based on IDIR/BCeID user and/or layer level security?|AGO BCGov Subscription|WebADE and Siteminder|WebADE and Siteminder|WebADE and Siteminder|
+|<b>What capability does the application have to secure data or elements of the application based on IDIR/BCeID user and/or layer level security?|AGO BCGov Subscription|WebADE and Siteminder|WebADE and Siteminder|[7](footnotes.html#7)|
 |<b>Can the application be used when it isn't connected to the internet?|![](assets/images/check.jpg)|[7](footnotes.html#7)  ||[7](footnotes.html#7)  |
 |<b>What is the maturity and activity level of the project as measured in the Open Source environment?  |Low|High|Low|High|
 |<b>Does the application allow the user the ability to make small changes that are easy to maintain? (Configuration*)                           |![](assets/images/check.jpg)          |[9](footnotes.html#9)|![](assets/images/check.jpg)          |[8](footnotes.html#8 ) |
 |<b>Does the application allow the user the ability to invest more in build and maintenance to create a unique experience? (Customization*)|![](assets/images/check.jpg)          |[8](footnotes.html#8)|![](assets/images/check.jpg)          |[8](footnotes.html#8 ) |
 |<b>Does the application allow the someone else the ability to manage it?                                                                  |![](assets/images/check.jpg)          |![](assets/images/check.jpg)        |![](assets/images/check.jpg)          |![](assets/images/check.jpg)          |
 |<b>Does all data reside in Canada?                                                                            |                                      |![](assets/images/check.jpg)        |![](assets/images/check.jpg)          |[11](footnotes.html#11)| 
-|<b>Does the application provide automatic server scalability to meet use levels?                                                         |[13](footnotes.html#13)|![](assets/images/check.jpg)        |![](assets/images/check.jpg)          |[13](footnotes.html#13)|
+|<b>Does the application provide automatic server scalability to meet use levels?                                                         |[13](footnotes.html#13)|![](assets/images/check.jpg)        |![](assets/images/check.jpg)          |depends on deployment pattern but generally supported|
 |<b>Does the application prevent users from downloading datasets they are viewing?                                                |![](assets/images/check.jpg)          |![](assets/images/check.jpg)        |![](assets/images/check.jpg)          |![](assets/images/check.jpg)          |
 |<b>Security - does the application manage users access at the application level?                                                 |[13](footnotes.html#14)|![](assets/images/check.jpg)        |                                      |![](assets/images/check.jpg)          |
 |<b>Security - does the application manage users access at the data layer level                                                  |![](assets/images/check.jpg)          |![](assets/images/check.jpg)        |[15](footnotes.html#15)|[15](footnotes.html#15)|
 |<b>Does the application allow my team to self-publish updates?                                                                       |![](assets/images/check.jpg)          |![](assets/images/check.jpg)        |                                      |![](assets/images/check.jpg)          |
-|<b>Can the application be deployed anywhere?          
+|<b>Can the application be deployed anywhere?                                                                               |       |      |    |![](assets/images/check.jpg) |
 
 
 # Supporting and Standalone Spatial Services
