@@ -26,9 +26,12 @@ primary:
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 
 
 >>>>>>> c5662f3... case sensitve
+=======
+>>>>>>> cda8ece... navigation
 secondary:
   - text: Home
     href: /
@@ -40,12 +43,18 @@ secondary:
     href: /feedback
     external: false
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
   - text: PDF Version
     href: https://bcgov.github.io/CITZ-IMB-playbook/docs/Modern-Application-Playbook-BETA.pdf
     external: true
 >>>>>>> c5662f3... case sensitve
+=======
+  - text: PDF Version
+    href: https://bcgov.github.io/CITZ-IMB-playbook/docs/Modern-Application-Playbook-BETA.pdf
+    external: true
+>>>>>>> cda8ece... navigation
 
 docs:
   - text: BC Web Mapping Frameworks Comparison
