@@ -101,18 +101,10 @@ footer:
     href: https://github.com/bcgov/bcwebmaps-options
     external: true
 
-<<<<<<< HEAD
-=======
-
->>>>>>> c5662f3... case sensitve
 maintenanceanddevelopment:
   - text: Maintenance and Development
     href: /maintenanceanddevelopment
 
 feedback:
   - text: Provide Feedback
-<<<<<<< HEAD
     href: /feedback
-=======
-    href: /feedback
->>>>>>> c5662f3... case sensitve
