@@ -15,26 +15,25 @@ Last updated 2020-07-15
 
 * Status: Platform Maturity - Minor UI Updates
 * Contact / Initiation Process	Client Engagement - [Terry.Lanktree@gov.bc.ca](mailto:Terry.Lanktree@gov.bc.ca); [datamaps@gov.bc.ca](mailto:datamaps@gov.bc.ca)
-* Technology platform - .NET, IIS, HTML5 Viewer, ArcGIS rest services, GeoCortex Essentials
-* Skillsets required - .NET development for customization, deployment via jenkins of configuration files to DataBC's environment
-* Licensed through VertiGis 
+* Technology platform - .NET, IIS, HTML5 Viewer, ArcGIS rest services, Geocortex Essentials
+* Skillsets required - .NET development for customization, deployment of configuration files to DataBC's environment via Jenkins
+* Licensed through VertiGIS 
 * Links to software providers/code repositories - [https://www.geocortex.com/products/geocortex-essentials/](https://www.geocortex.com/products/geocortex-essentials/)
-* Example implementation - iMapBC - [https://maps.gov.bc.ca/ess/hm/imap4m/](https://maps.gov.bc.ca/ess/hm/imap4m/)
+* Example implementations - iMapBC - [https://maps.gov.bc.ca/ess/hm/imap4m/](https://maps.gov.bc.ca/ess/hm/imap4m/)
+                            BC Frogwatch Atlas - [https://maps.gov.bc.ca/ess/hm/bcfa/](https://maps.gov.bc.ca/ess/hm/bcfa/)
 
 ## Context
 
-A web mapping platform which is the built upon the ESRI GeoCortex platform and an HTML5 viewer.
-This is a DataBC hosted licensed product which provides maps and reports from the BC Geographic Warehouse (secure and public). 
-Ideal for either mobile or desktop as is or with additional development. This solution may be a good fit for business areas that need access to secure objects within the BC Geographic Warehouse via WEBADE and Siteminder, and may not have any GIS, hosting or development capabilities.
+A web mapping platform which is based on ESRI ArcGIS Server, Geocortex Essentials, and an HTML5 viewer.
+This are DataBC-hosted, licensed products which provide maps and reports based on data hosted in the BC Geographic Warehouse (both secure and public data). 
+Ideal for either mobile or desktop using out of the box features or with custom workflow development. This solution may be a good fit for business areas that need access to secure objects within the BC Geographic Warehouse via WEBADE and Siteminder, and may not have any GIS, hosting or development capabilities.
 
 ## Decision Drivers
 
 * based on business need for secure access to BCGW, and hosting support
-* capabilitied and skill sets of the development/application team
+* capabilities and skill sets of the development/application team
 * relationship with DataBC
-* hosted by DataBC, access to secure BC Geographic Warehouse data
-* not open source
+* not Open Source
 * use of legacy security model
-* full control of hosted environment in production is by DataBC
-
+* DataBC maintains full control of the IMF2 Test and Production hosted environments
 

@@ -38,8 +38,7 @@ The Province of British Columbia currently uses four main web mapping frameworks
    - Common Web Mapping Framework [CWM](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/cwm.html) which is based on Openlayers 2, and 
    - Internet Mapping Framework [IMF2](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/imf2.html) which is based on 
                 VertiGIS’s GeoCortex Essentials.
-3. The Do-It-Yourself Simple Map Kit ([SMK](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/smk.html)) which can use either Leaflet or
-        the ESRI Javascript API.
+3. The Simple Map Kit ([SMK](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/smk.html)) is Open Source Software that can be installed on a local machine and then used to configure a leaflet map.  The resulting code can be deployed anywhere that is web accessible.  The code is also extensible allowing for customization to meet business and end user needs.
 
 # Look and Feel
 
@@ -48,6 +47,7 @@ Below are examples of similar functionality in the available solutions.
 | |Complexity| Client| Example|
 |-|----------|-------|--------|
 |[AGO](web-mapping-frameworks/ago.html)  | Medium|BC Wildfire Dashboard| [https://bit.ly/BC_Wildfire_Dashboard](https://bit.ly/BC_Wildfire_Dashboard)|
+|[IMF2](web-mapping-frameworks/imf2.html)| Low| BC Ministry of Environment - BC Frogwatch Atlas| [http://maps.gov.bc.ca/ess/hm/bcfa/](http://maps.gov.bc.ca/ess/hm/bcfa/)|
 |[IMF2](web-mapping-frameworks/imf2.html)| High| DataBC iMapBC| [https://maps.gov.bc.ca/ess/hm/imap4m/](https://maps.gov.bc.ca/ess/hm/imap4m/)|
 |[CWM](web-mapping-frameworks/cwm.html) | High| GeoBC Integrated Land and Resource Registry| [https://a100.gov.bc.ca/apps/ilrr/html/ILRRWelcome.html](https://a100.gov.bc.ca/apps/ilrr/html/ILRRWelcome.html)|
 |[SMK](web-mapping-frameworks/smk.html) | Low| BC Minstry of Health - Assisted Living and Residential Care Locations| [https://moh.apps.gov.bc.ca/alrc/](https://moh.apps.gov.bc.ca/alrc/)|
@@ -62,17 +62,17 @@ Below are examples of similar functionality in the available solutions.
 
 Costs can be highly variable and are influenced by multiple factors; 
 as such, it is best to first identify the solution that will meet
-user’s needs, then collaborate with DataBC or IIT to arrive at a
+user needs, then collaborate with DataBC or IIT to arrive at a
 mutually agreeable business arrangement.
 
 As the owner or developer of the application I want to understand...
 
 |                                                                                    |[AGO](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/ago.html)| [CWM](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/cwm.html)  | [IMF2](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/imf2.html) |[SMK](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/smk.html)  |
 |------------------------------------------------------------------------------------|:---:|:---:|:---:|:---:|
-|<b>What IT skills do you need to develop this solution? </b>                                |Familiarity with ESRI ecosystem of applications and APIs|Familiarity with javascript and Openlayers/ relationship with IIT|Familiarity with GeoCortex Essentials, .NET development for customization, Jenkins for deploying configuration files to DataBC’s environment|Familiarity with NodeJS, leaflet or ArcGIS Javascript development, github|
-|<b>What IT skills do you need to administer this solution once it has been implemented?<b> |Familiarity with ESRI ecosystem of applications|Familiarity with JSON configuration files, CWM Configuration, IIT deployment pathways|||
+|<b>What IT skills do you need to develop this solution? </b>                                |Familiarity with ESRI ecosystem of applications and APIs|Familiarity with javascript and Openlayers/ relationship with IIT|Familiarity with GeoCortex Essentials, .NET development for customization, Jenkins for deploying configuration files to DataBC’s environment|Familiarity with NodeJS, leaflet, HTML/Javascript development, github|
+|<b>What IT skills do you need to administer this solution once it has been implemented?<b> |Familiarity with ESRI ecosystem of applications|Familiarity with JSON configuration files, CWM Configuration, IIT deployment pathways|DataBC staff are well versed in ArcGIS Server, Geocortex Essentials administration; customizations require .NET and familiarity with DataBC's IMF2 Dapplication Development and Delivery Standards|Familiarity with JSON configuration files, source to hosting deployment pathways, e.g. github to OpenShift|
 |<b>What type of documentation is available and when was it updated?<b>                     |Online updated regularly, see - [Website](https://www.arcgis.com/home/index.html)|Online, updated by Vivid Solutions, July 17, 2019 see - [Website](https://i1portal.nrs.gov.bc.ca/cwmc-lib/v1.9.0/sdk/)|Online, updated by GeoCortex, see - [Website](https://www.geocortex.com/products/geocortex-essentials/)|Updated by DataBC, ongoing, see - [Website](https://github.com/bcgov/smk)|
-|<b>As a developer what do I control?<b>                                             |with an ArcGIS Online account I can create maps and feature services and build javascript applications - see [link](https://developers.arcgis.com/)|checkout this showcase [link](https://i1portal.nrs.gov.bc.ca/cwmc-lib/v1.9.0/sdk/examples/showcase/) which describes all of the capabilities of CWM. Check out the developer guide [here](https://i1portal.nrs.gov.bc.ca/cwmc-lib/v1.9.0/sdk/docs/developer-guide.html). ||check out the developer documentation here a fork the code [here](https://github.com/bcgov/smk)|
+|<b>As a developer what do I control?<b>                                                    |With an ArcGIS Online account I can create maps and feature services and build Esri javascript applications - see [link](https://developers.arcgis.com/)|Checkout this showcase [link](https://i1portal.nrs.gov.bc.ca/cwmc-lib/v1.9.0/sdk/examples/showcase/) which describes all of the capabilities of CWM. Check out the developer guide [here](https://i1portal.nrs.gov.bc.ca/cwmc-lib/v1.9.0/sdk/docs/developer-guide.html).|Site configuration and custom workflow development using .NET and deployment to Delivery using Jenkins|The version of SMK, the base configuration of the web mapping application, the ability to customize, the source code repository, the deployment pattern, where the code is hosted.|
 
 ## User Interface
 
