@@ -30,15 +30,16 @@ subnav:
 # Find the right solution for your business
 There are many options for web mapping technology frameworks in today’s world.  The purpose of this site is to showcase what is available, and if any of these solutions can meet your needs.
 
-The Province of British Columbia currently uses four main web mapping frameworks. These frameworks vary from a cloud-based Software as a Service (SaaS) solution, two Government hosted solutions and a Do-It-Yourself solution. <br>
+The Province of British Columbia currently uses four main web mapping frameworks. These frameworks vary from a cloud-based Software as a Service (SaaS) solution, two Government hosted solutions and Do-It-Yourself solutions. <br>
 
 1. The SaaS solution is the cloud-based ESRI solution commonly known as [AGO](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/ago.html)
-        or ArcGIS Online
+        or ArcGIS Online.
 2. Two Government hosted service offerings: 
    - Common Web Mapping Framework [CWM](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/cwm.html) which is based on Openlayers 2, and 
    - Internet Mapping Framework [IMF2](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/imf2.html) which is based on 
                 VertiGIS’s GeoCortex Essentials.
-3. The Simple Map Kit ([SMK](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/smk.html)) is Open Source Software that can be installed on a local machine and then used to configure a leaflet map.  The resulting code can be deployed anywhere that is web accessible.  The code is also extensible allowing for customization to meet business and end user needs.
+3. The Simple Map Kit ([SMK](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/smk.html)) is Open Source and can be deployed anywhere and it can be used to build and configure web maps using Leaflet OR ArcGIS Javascript API libraries.  The code is also extensible allowing for customization to meet business and end user needs.
+4. Also listed are two currently popular open source libaries that provide flexibility and options for development of simple to complex applications. These specific libaries are not hosted or maintained by anyone BC Government Organization, but they have been used (and contributed to) by various project teams within the BC Government to build awesome and business specific solutions. See their respective websites - [Leaflet](https://leafletjs.com/) and [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/api). Examples of the use of these open source libaries, with the BC Government, are listed below.  
 
 # Look and Feel
 
