@@ -32,7 +32,7 @@ sidenav: docs
 
 11. <b>Derived data</b> -data created by running a geoprocessing operation on existing data. Derived data from one process can serve as input data for another process. From <https://support.esri.com/en/other-resources/gis-dictionary/term/df95c888-a28b-46dc-a493-4cf21a2ca256>  
 
-12. <b>ESRI - Esri is an international supplier of geographic information system software, web GIS and geodatabase management applications. The company is headquartered in Redlands, California. The company was founded as the Environmental Systems Research Institute in 1969 as a land-use consulting firm. 
+12. <b>ESRI </b> - Esri is an international supplier of geographic information system software, web GIS and geodatabase management applications. The company is headquartered in Redlands, California. The company was founded as the Environmental Systems Research Institute in 1969 as a land-use consulting firm. 
 
 13. <b>Extensible</b> -The ability for a system or components of a system to expand by assimilating new data, software or hardware components. From <https://www.ogc.org/ogc/glossary/e>  
 
