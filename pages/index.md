@@ -21,7 +21,7 @@ subnav:
     href: '#user-interface'
   - text: Backend Technology
     href: '#backend-technology'
-  - test: Other Spatial Libraries
+  - text: Other Spatial Libraries
     href: '#other-spatial-libraries'
   - text: Supporting and Standalone Spatial Services
     href: '#supporting-and-standalone-spatial-services'
@@ -123,7 +123,7 @@ As the owner or developer of the application I want to understand...
 |                                                                                    |[AGO](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/ago.html)| [CWM](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/cwm.html)  | [IMF2](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/imf2.html) | [SMK](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/smk.html)  |
 |------------------------------------------------------------------------------------|:---:|:---:|:---:|:---:|
 |<b>Where can this application be hosted - in the cloud, on a Government server or elsewhere?|Cloud|On-Premise|On-Premise|  All|
-|<b>Where is the data stored - in the cloud, on Government server or local drive.|All|Cloud, On-Premise|All | |Cloud, On-Premise|
+|<b>Where is the data stored - in the cloud, on Government server or local drive.|All|Cloud, On-Premise|All |Cloud, On-Premise|
 |<b>What capability does the application have to secure data or elements of the application based on IDIR/BCeID user and/or layer level security?|AGO BCGov Subscription|WebADE and Siteminder|WebADE and Siteminder |[7](footnotes.html#7)|
 |<b>Can the application be used when it isn't connected to the internet?|![](assets/images/check.jpg)|[7](footnotes.html#7)   | |[7](footnotes.html#7)  |
 |<b>What is the maturity and activity level of the project as measured in the Open Source environment?  |Low|High|Low |High|
@@ -140,13 +140,13 @@ As the owner or developer of the application I want to understand...
 
 # Other Spatial Libraries
 |Libary Name   | Description    | Language    | Link |
-|------------- | -------------- | ----------- |------|
+|-------------|:--------------:|:-----------:|:-----:|
 |<b>GDAL - Geospatial Data Abstraction Library| a library for reading and writing raster and vector geospatial data formats, and is released under the permissive X/MIT style free software license by the Open Source Geospatial Foundation| C, C++, Python|[see website](https://gdal.org/)|
 |<b>Leaflet |Open-source JavaScript library for mobile-friendly interactive maps.| JavaScript |[see website](https://leafletjs.com/)|
 |<b>Openlayers |Open-source JavaScript library developed for the use of geographic information. | JavaScript |[see website](https://openlayers.org/)|
-|<b>MapBox | Mapbox-gl-js is no longer under the 3-Clause BSD license. By upgrading to this release, you are agreeing to Mapbox terms of service.| Javascript | [see website](https://www.mapbox.com/)|
-|<b>OpenStreeMap | OpenStreetMap is a map of the world, created by people like you and free to use under an open license.|Open Data|[see website](https://www.openstreetmap.org/about)|
-|<b>SO MANY OTHERS! | The Open Source Geospatial Foundation (OSGEO) provides a list of Geospatial libraries that offer developers access to a wide range of spatial data, web services, analysis and processing. These libraries are often available as command line tools, and are responsible for the heavy-lifting in many of the popular desktop and web service solutions. ||[see website](https://www.osgeo.org/choose-a-project/development/libraries/)|
+|<b>MapBox |Mapbox-gl-js is no longer under the 3-Clause BSD license. By upgrading to this release, you are agreeing to Mapbox terms of service.| Javascript | [see website](https://www.mapbox.com/)|
+|<b>OpenStreeMap |OpenStreetMap is a map of the world, created by people like you and free to use under an open license.|Open Data|[see website](https://www.openstreetmap.org/about)|
+|<b>SO MANY OTHERS! |The Open Source Geospatial Foundation (OSGEO) provides a list of Geospatial libraries that offer developers access to a wide range of spatial data, web services, analysis and processing. These libraries are often available as command line tools, and are responsible for the heavy-lifting in many of the popular desktop and web service solutions. ||[see website](https://www.osgeo.org/choose-a-project/development/libraries/)|
 
 
 # Supporting and Standalone Spatial Services
