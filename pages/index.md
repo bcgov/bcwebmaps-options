@@ -21,6 +21,8 @@ subnav:
     href: '#user-interface'
   - text: Backend Technology
     href: '#backend-technology'
+  - test: Other Spatial Libraries
+    href: '#other-spatial-libraries'
   - text: Supporting and Standalone Spatial Services
     href: '#supporting-and-standalone-spatial-services'
 
