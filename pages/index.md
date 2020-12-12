@@ -41,7 +41,7 @@ The Province of British Columbia currently uses four main web mapping frameworks
    - Internet Mapping Framework [IMF2](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/imf2.html) which is based on 
                 VertiGIS’s GeoCortex Essentials.
 3. The Simple Map Kit ([SMK](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/smk.html)) is Open Source and can be deployed anywhere and it can be used to build and configure web maps using Leaflet OR ArcGIS Javascript API libraries.  The code is also extensible allowing for customization to meet business and end user needs.
-4. Also listed are two currently popular open source libaries that provide flexibility and options for development of simple to complex applications. These specific libaries are not hosted or maintained by anyone BC Government Organization, but they have been used (and contributed to) by various project teams within the BC Government to build awesome and business specific solutions. See their respective websites - [Leaflet](https://leafletjs.com/) and [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/api). Examples of the use of these open source libaries, with the BC Government, are listed below.  
+4. Also listed are currently popular open source libaries that provide flexibility and options for development of simple to complex applications. These specific libaries are not hosted or maintained by anyone BC Government Organization, but they have been used (and contributed to) by various project teams within the BC Government to build awesome and business specific solutions. See their respective websites - [Leaflet](https://leafletjs.com/) and [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/api). Examples of the use of these open source libaries, with the BC Government, are listed below.  
 
 # Look and Feel
 
@@ -91,12 +91,12 @@ As the end user of the application I want...
 <b>Can I import/export data layers that are in different geographic projection as the map?|no* available in ESRI Javascript API/desktop tools|![](assets/images/check.jpg)|![](assets/images/check.jpg)|import CSV supports projection specification as does WFS/WMS; map is Geographic|
 <b>Can I add markup text or drawings onto my map for printing?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|
 <b>Can I turn on or off specific map layers while viewing the map?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)| ![](assets/images/check.jpg)|
-<b>Can I download operational business data from the map/application?|yes* webappbuilder csv, snippet of data|no|redirects to DataBC Distribution for BCGW data|Selection/extraction of feature is a configurable feature
+<b>Can I download operational business data from the map/application?|yes* webappbuilder csv, snippet of data|no|redirects to DataBC Distribution for BCGW data|Selection/extraction of feature is a configurable feature|
 <b>Can you import or load data for use in the map?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|[7](footnotes.html#7)|
 <b>Can you search for geographic locations or a specific feature on the map?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)| ![](assets/images/check.jpg)|
 <b>Does the application provide map navigation tools such as mouse wheel zoom, zoom to extent or zoom to a feature?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|
 <b>Can you select different basemaps which are either an image or a different style of map?|?? |![](assets/images/check.jpg) |![](assets/images/check.jpg) |![](assets/images/check.jpg) |
-<b>Can I save data queries within the map to find locations or interests?|| | |
+<b>Can I save data queries within the map to find locations or interests?|| | ||
 <b>Can the client easily customize report outputs, either on-screen or printable?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|
 <b>Can I share a link or a saved session so my client either internal or external to government can look at the same layout, zoom scale, and layers. |![](assets/images/check.jpg) |![](assets/images/check.jpg) | |![](assets/images/check.jpg) |
 <b>Can I measure distance or area on my map?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)| ![](assets/images/check.jpg)|
@@ -105,7 +105,7 @@ As the end user of the application I want...
 <b>Are there a variety of base maps to choose from?                  |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |![](assets/images/check.jpg)       |![](assets/images/check.jpg)        |
 <b>Can I identify and discover relationships among features?     |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |![](assets/images/check.jpg)    |[2](footnotes.html#2)|
 <b>Can I detect statistically significant patterns?            |![](assets/images/check.jpg)        |                               | |                                        |
-<b>Can I make predictions using analytical models             |[3](footnotes.html#3)|               |                               | |                                        |
+<b>Can I make predictions using analytical models             |[3](footnotes.html#3)               |                               | |                                        |
 <b>Can I re-symbolize, modify, or customize map data or labels?|![](assets/images/check.jpg)        |[4](footnotes.html#4)|![](assets/images/check.jpg)         |[4](footnotes.html#4)| 
 <b>Can I customize printing of maps?                           |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |[4](footnotes.html#4) |[4](footnotes.html#4)|
 <b>Can I save and share the work with others?                  |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |![](assets/images/check.jpg)  |  |
@@ -139,8 +139,10 @@ As the owner or developer of the application I want to understand...
 |<b>Can the application be deployed anywhere?                                                                               |       |      |  |![](assets/images/check.jpg) |
 
 # Other Spatial Libraries
-|Libary Name   | Description    | Language    | Link |
-|-------------|:--------------:|:-----------:|:-----:|
+
+
+| Libary Name |Description    | Language    | Link |
+|-------------|:---:|:---:|:---:|:---:|
 |<b>GDAL - Geospatial Data Abstraction Library| a library for reading and writing raster and vector geospatial data formats, and is released under the permissive X/MIT style free software license by the Open Source Geospatial Foundation| C, C++, Python|[see website](https://gdal.org/)|
 |<b>Leaflet |Open-source JavaScript library for mobile-friendly interactive maps.| JavaScript |[see website](https://leafletjs.com/)|
 |<b>Openlayers |Open-source JavaScript library developed for the use of geographic information. | JavaScript |[see website](https://openlayers.org/)|
