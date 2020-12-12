@@ -142,7 +142,7 @@ As the owner or developer of the application I want to understand...
 
 
 | Libary Name |Description    | Language    | Link |
-|-------------|:---:|:---:|:---:|:---:|
+|-------------|---|---|---|---|
 |<b>GDAL - Geospatial Data Abstraction Library| a library for reading and writing raster and vector geospatial data formats, and is released under the permissive X/MIT style free software license by the Open Source Geospatial Foundation| C, C++, Python|[see website](https://gdal.org/)|
 |<b>Leaflet |Open-source JavaScript library for mobile-friendly interactive maps.| JavaScript |[see website](https://leafletjs.com/)|
 |<b>Openlayers |Open-source JavaScript library developed for the use of geographic information. | JavaScript |[see website](https://openlayers.org/)|
