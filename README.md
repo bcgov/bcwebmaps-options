@@ -1,4 +1,6 @@
 # BCWebMaps-Options
+[![img](https://img.shields.io/badge/Lifecycle-Stable-97ca00)](https://github.com/bcgov/repomountie/blob/master/doc/lifecycle-badges.md)
+
 BC Web Mapping Technological Solutions And Experiences
 
 see Documentation - [https://bcgov.github.io/bcwebmaps-options](https://bcgov.github.io/bcwebmaps-options)
