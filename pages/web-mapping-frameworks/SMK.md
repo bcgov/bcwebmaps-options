@@ -23,7 +23,7 @@ Last updated 2020-09-03
   - Assisted Living and Residential Care Locations - [http://moh.apps.gov.bc.ca/alrc/](http://moh.apps.gov.bc.ca/alrc/)
  * [Frequently Asked Questions](https://github.com/bcgov/smk-cli/wiki/Simple-Map-Kit-and-SMK-Editor-FAQs)
  
-Example of an embedded SMK map that sources data from the BCGW Warehouse via MPCM and also and uploaded CSV:
+Example of an embedded SMK map that sources data from the BCGW Warehouse via MPCM and also from an uploaded CSV data file:
 <iframe src="https://nicoledegreef.github.io/smk-moh-hsat/" height="600px" width="100%" style="border:none;"></iframe>
 
 ## Context
