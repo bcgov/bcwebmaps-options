@@ -15,7 +15,7 @@ Last updated 2020-07-15
 ## Status
 
 * Status: SaaS - Licensed cloud based service running on elastic Amazon cloud
-* Contact / Initiation Process	Client Engagement - [meg.hoole@gov.bc.ca](mailto:meg.hoole@gov.bc.ca); [datamaps@gov.bc.ca](mailto:datamaps@gov.bc.ca)
+* Contact / Initiation Process	Client Engagement - [datamaps@gov.bc.ca](mailto:datamaps@gov.bc.ca)
 * Technology platform - Cloud based, HTML5 Viewers, ArcGIS rest services
 * Skillsets required - familiarity with ESRI ecosystem of applications
 * ELA/Subscription based cloud services
