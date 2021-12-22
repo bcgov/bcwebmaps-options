@@ -40,7 +40,7 @@ The Province of British Columbia currently uses four main web mapping frameworks
    - Common Web Mapping Framework [CWM](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/cwm.html) which is based on Openlayers 2, and 
    - Internet Mapping Framework [IMF2](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/imf2.html) which is based on 
                 VertiGIS’s GeoCortex Essentials.
-3. The Simple Map Kit ([SMK](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/smk.html)) is Open Source and can be deployed anywhere and it can be used to build and configure web maps using Leaflet OR ArcGIS Javascript API libraries.  The code is also extensible allowing for customization to meet business and end user needs.
+3. The Simple Map Kit ([SMK](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/smk.html)) is Open Source and can be deployed anywhere.  It is Leaflet.js based and and it can be used to rapidly configure web mapping applications that consume BC Gov-hosted data or uploaded files.  The code is also extensible allowing for customization to meet business and end user needs.
 4. Also listed are currently popular open source libaries that provide flexibility and options for development of simple to complex applications. These specific libaries are not hosted or maintained by anyone BC Government Organization, but they have been used (and contributed to) by various project teams within the BC Government to build awesome and business specific solutions. See their respective websites - [Leaflet](https://leafletjs.com/) and [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/api). Examples of the use of these open source libaries, with the BC Government, are listed below.  
 
 # Look and Feel
@@ -85,8 +85,8 @@ As the end user of the application I want...
 
 |                                                                                    |[AGO](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/ago.html)| [CWM](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/cwm.html)  | [IMF2](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/imf2.html) | [SMK](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/smk.html)  |
 |------------------------------------------------------------------------------------|:---:|:---:|:---:|:---:|
-<b>Can I print a map with a user-defined scale, paper size or in combination with a report?|![](assets/images/check.jpg) |![](assets/images/check.jpg) |![](assets/images/check.jpg) |![](assets/images/check.jpg) |
-<b>Can I draw and edit an Area of Interest ?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)| ![](assets/images/check.jpg)|
+<b>Can I print a map with a user-defined scale, paper size or in combination with a report?|![](assets/images/check.jpg) |![](assets/images/check.jpg) |![](assets/images/check.jpg) |[7](footnotes.html#7) |
+<b>Can I draw and edit an Area of Interest ?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)| [7](footnotes.html#7)|
 <b>Can data be downloaded that was created on the map ie. Area of Interest AOI|![](assets/images/check.jpg)|![](assets/images/check.jpg)| ![](assets/images/check.jpg)| [7](footnotes.html#7)|
 <b>Can I import/export data layers that are in different geographic projection as the map?|no* available in ESRI Javascript API/desktop tools|![](assets/images/check.jpg)|![](assets/images/check.jpg)|import CSV supports projection specification as does WFS/WMS; map is Geographic|
 <b>Can I add markup text or drawings onto my map for printing?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|
@@ -96,19 +96,19 @@ As the end user of the application I want...
 <b>Can you search for geographic locations or a specific feature on the map?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)| ![](assets/images/check.jpg)|
 <b>Does the application provide map navigation tools such as mouse wheel zoom, zoom to extent or zoom to a feature?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|
 <b>Can you select different basemaps which are either an image or a different style of map?|?? |![](assets/images/check.jpg) |![](assets/images/check.jpg) |![](assets/images/check.jpg) |
-<b>Can I save data queries within the map to find locations or interests?|| | ||
-<b>Can the client easily customize report outputs, either on-screen or printable?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|
-<b>Can I share a link or a saved session so my client either internal or external to government can look at the same layout, zoom scale, and layers. |![](assets/images/check.jpg) |![](assets/images/check.jpg) | |![](assets/images/check.jpg) |
+<b>Can I save data queries within the map to find locations or interests?|| |![](assets/images/check.jpg)||
+<b>Can the client easily customize report outputs, either on-screen or printable?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)|[7](footnotes.html#7))|
+<b>Can I share a link or a saved session so my client either internal or external to government can look at the same layout, zoom scale, and layers. |![](assets/images/check.jpg) |![](assets/images/check.jpg) | |customized URL is possible to query for features (no saved session currently) |
 <b>Can I measure distance or area on my map?|![](assets/images/check.jpg)|![](assets/images/check.jpg)|![](assets/images/check.jpg)| ![](assets/images/check.jpg)|
 <b>Can you use this solution on a mobile device (phone or tablet) with a browser?|![](assets/images/check.jpg)||![](assets/images/check.jpg)|![](assets/images/check.jpg)|
 <b>Can you access on mobile devices?                             |![](assets/images/check.jpg)||![](assets/images/check.jpg)|![](assets/images/check.jpg)|
 <b>Are there a variety of base maps to choose from?                  |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |![](assets/images/check.jpg)       |![](assets/images/check.jpg)        |
 <b>Can I identify and discover relationships among features?     |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |![](assets/images/check.jpg)    |[2](footnotes.html#2)|
-<b>Can I detect statistically significant patterns?            |![](assets/images/check.jpg)        |                               | |                                        |
+<b>Can I detect statistically significant patterns?            |![](assets/images/check.jpg)        |                               | | heat map representation of vector data is built-in |
 <b>Can I make predictions using analytical models             |[3](footnotes.html#3)               |                               | |                                        |
-<b>Can I re-symbolize, modify, or customize map data or labels?|![](assets/images/check.jpg)        |[4](footnotes.html#4)|![](assets/images/check.jpg)         |[4](footnotes.html#4)| 
-<b>Can I customize printing of maps?                           |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |[4](footnotes.html#4) |[4](footnotes.html#4)|
-<b>Can I save and share the work with others?                  |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |![](assets/images/check.jpg)  |  |
+<b>Can I re-symbolize, modify, or customize map data or labels?|![](assets/images/check.jpg)        |[4](footnotes.html#4)|![](assets/images/check.jpg)         |[7](footnotes.html#7)| 
+<b>Can I customize printing of maps?                           |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |[4](footnotes.html#4) |[7](footnotes.html#7)|
+<b>Can I save and share the work with others?                  |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |![](assets/images/check.jpg)  | [7](footnotes.html#7)  |
 <b>Can I prepare specific datasets for off-line use?           |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |     |[7](footnotes.html#7)|
 <b>Can I collect data on this application?                                         |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        |[5](footnotes.html#5) | [7](footnotes.html#7)|
 <b>Can I edit data on this application?                                            |[6](footnotes.html#6)|![](assets/images/check.jpg)        |[6](footnotes.html#6)                                   | [7](footnotes.html#7)|
@@ -123,14 +123,14 @@ As the owner or developer of the application I want to understand...
 |                                                                                    |[AGO](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/ago.html)| [CWM](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/cwm.html)  | [IMF2](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/imf2.html) | [SMK](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/smk.html)  |
 |------------------------------------------------------------------------------------|:---:|:---:|:---:|:---:|
 |<b>Where can this application be hosted - in the cloud, on a Government server or elsewhere?|Cloud|On-Premise|On-Premise|  All|
-|<b>Where is the data stored - in the cloud, on Government server or local drive.|All|Cloud, On-Premise|All |Cloud, On-Premise|
+|<b>Where is the data stored - in the cloud, on Government server or local drive.|All|Cloud, On-Premise|All |Cloud, On-Premise, Local to app|
 |<b>What capability does the application have to secure data or elements of the application based on IDIR/BCeID user and/or layer level security?|AGO BCGov Subscription|WebADE and Siteminder|WebADE and Siteminder |[7](footnotes.html#7)|
 |<b>Can the application be used when it isn't connected to the internet?|![](assets/images/check.jpg)|[7](footnotes.html#7)   | |[7](footnotes.html#7)  |
 |<b>What is the maturity and activity level of the project as measured in the Open Source environment?  |Low|High|Low |High|
 |<b>Does the application allow the user the ability to make small changes that are easy to maintain? (Configuration*)                           |![](assets/images/check.jpg)          |[9](footnotes.html#9)|![](assets/images/check.jpg)           | [8](footnotes.html#8 ) |
-|<b>Does the application allow the user the ability to invest more in build and maintenance to create a unique experience? (Customization*)|![](assets/images/check.jpg)          |[8](footnotes.html#8)|![](assets/images/check.jpg)         |[8](footnotes.html#8 ) |
+|<b>Does the application allow the user the ability to invest more in build and maintenance to create a unique experience? (Customization*)|![](assets/images/check.jpg)          |[8](footnotes.html#8)|![](assets/images/check.jpg)         |[7](footnotes.html#7) |
 |<b>Does the application allow the someone else the ability to manage it?                                                                  |![](assets/images/check.jpg)          |![](assets/images/check.jpg)        |![](assets/images/check.jpg)       | ![](assets/images/check.jpg)          |
-|<b>Does all data reside in Canada?                                                                            |                                      |![](assets/images/check.jpg)        |![](assets/images/check.jpg)         | [11](footnotes.html#11)| 
+|<b>Does all data reside in Canada?   |                                      |![](assets/images/check.jpg)        |![](assets/images/check.jpg)         | [11](footnotes.html#11)| 
 |<b>Does the application provide automatic server scalability to meet use levels?                                                         |![](assets/images/check.jpg) |![](assets/images/check.jpg)        |[13](footnotes.html#13)        | depends on deployment pattern but generally supported|
 |<b>Does the application prevent users from downloading datasets they are viewing?                                                |![](assets/images/check.jpg)          |![](assets/images/check.jpg)        |![](assets/images/check.jpg)        | ![](assets/images/check.jpg)          |
 |<b>Security - does the application manage users access at the application level?                                                 |[14](footnotes.html#14)|![](assets/images/check.jpg)        |                                     | ![](assets/images/check.jpg)          |

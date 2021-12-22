@@ -8,11 +8,11 @@ sidenav: docs
 
 ---
 
-Last updated 2020-09-03
+Last updated 2021-12-21
 
 ## Status
 
-* Status: v.1.0.2
+* Status: v.1.0.7
 * Contact / Initiation Process	Client Engagement -  [datamaps@gov.bc.ca](mailto:datamaps@gov.bc.ca)
 * Technology platform - node.js,javascript, leaflet, OGC WMS/WFS, ArcGIS Rest
 * Skillsets required - novice to experienced developer (familiarity with javascript development/github is an asset)
@@ -28,7 +28,7 @@ Example of an embedded SMK map that sources data from the BCGW Warehouse via MPC
 
 ## Context
 
-* Leaflet based, light weight javascript toolkit. Targeted to non-GIS developers.
+* Leaflet-based, light weight javascript toolkit. Targeted to non-GIS developers.
 * Community involvement, source code on GitHub
 * Architecture - can be containerized, or deployed standalone anywhere
 * Business Areas who may have javascript/software developers who are able to build and support the web mapping solution OR engage with DataBC for hosting resources.
@@ -38,6 +38,5 @@ Example of an embedded SMK map that sources data from the BCGW Warehouse via MPC
 * Skillset of team (javascript developers)
 * Open Source drivers
 * Can be used by software developers and incorporated into their code base
-* Provides examples of using BC Government web services such as the BC Geocoder, BC Router and other web-based data services
+* Provides examples of using BC Government web services such as the BC Geocoder, BC Router, Geomark, and other web-based data services
 * Skill set required for development and maintenance available internal to government (software developer skillsets) that may not be available to business project
-
