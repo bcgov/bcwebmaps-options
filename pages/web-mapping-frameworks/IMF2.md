@@ -14,7 +14,7 @@ Last updated 2020-07-15
 ## Status
 
 * Status: Platform Maturity - Minor UI Updates
-* Contact / Initiation Process	Client Engagement - [Terry.Lanktree@gov.bc.ca](mailto:Terry.Lanktree@gov.bc.ca); [datamaps@gov.bc.ca](mailto:datamaps@gov.bc.ca)
+* Contact / Initiation Process	Client Engagement  [Visit the Data Services Client Hub](https://dpdd.atlassian.net/servicedesk/customer/portal/1/group/1/create/14)
 * Technology platform - .NET, IIS, HTML5 Viewer, ArcGIS rest services, Geocortex Essentials
 * Skillsets required - .NET development for customization, deployment of configuration files to DataBC's environment via Jenkins
 * Licensed through VertiGIS 

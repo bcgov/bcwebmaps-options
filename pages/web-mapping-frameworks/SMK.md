@@ -13,7 +13,7 @@ Last updated 2021-12-21
 ## Status
 
 * Status: v.1.0.7
-* Contact / Initiation Process	Client Engagement -  [datamaps@gov.bc.ca](mailto:datamaps@gov.bc.ca)
+* Contact / Initiation Process / Client Engagement -  [Visit the Data Services Client Hub](https://dpdd.atlassian.net/servicedesk/customer/portal/1/group/1/create/14)
 * Technology platform - node.js,javascript, leaflet, OGC WMS/WFS, ArcGIS Rest
 * Skillsets required - novice to experienced developer (familiarity with javascript development/github is an asset)
 * Open Source - Apache 2.0 license
