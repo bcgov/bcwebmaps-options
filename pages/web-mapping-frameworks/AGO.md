@@ -15,7 +15,7 @@ Last updated 2020-07-15
 ## Status
 
 * Status: SaaS - Licensed cloud based service running on elastic Amazon cloud
-* Contact / Initiation Process	Client Engagement - [datamaps@gov.bc.ca](mailto:datamaps@gov.bc.ca)
+* Contact / Initiation Process / Client Engagement - [Visit the Data Services Client Hub](https://dpdd.atlassian.net/servicedesk/customer/portal/1/group/1/create/14)
 * Technology platform - Cloud based, HTML5 Viewers, ArcGIS rest services
 * Skillsets required - familiarity with ESRI ecosystem of applications
 * ELA/Subscription based cloud services
