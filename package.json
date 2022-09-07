@@ -13,6 +13,6 @@
     "uswds": "^1.6.0"
   },
   "devDependencies": {
-    "cached-path-relative": "^1.0.2"
+    "cached-path-relative": "^1.1.0"
   }
 }
