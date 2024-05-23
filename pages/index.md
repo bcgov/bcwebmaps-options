@@ -41,7 +41,12 @@ The Province of British Columbia currently uses four main web mapping frameworks
    - Internet Mapping Framework [IMF2](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/imf2.html) which is based on 
                 VertiGIS’s GeoCortex Essentials.
 3. The Simple Map Kit ([SMK](https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/smk.html)) is Open Source and can be deployed anywhere.  It is Leaflet.js based and and it can be used to rapidly configure web mapping applications that consume BC Gov-hosted data or uploaded files.  The code is also extensible allowing for customization to meet business and end user needs.
-4. Also listed are currently popular open source libaries that provide flexibility and options for development of simple to complex applications. These specific libaries are not hosted or maintained by anyone BC Government Organization, but they have been used (and contributed to) by various project teams within the BC Government to build awesome and business specific solutions. See their respective websites - [Leaflet](https://leafletjs.com/) and [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/api). Examples of the use of these open source libaries, with the BC Government, are listed below.  
+4. Also listed are currently popular open source libaries that provide flexibility and options for development of simple to complex applications. These specific libaries are not hosted or maintained by anyone BC Government Organization, but they have been used (and contributed to) by various project teams within the BC Government to build awesome and business specific solutions. 
+See their respective websites (linked below) for more information. Examples of the use of these open source libaries, with the BC Government, are listed in the next section below.  
+    - [Leaflet](https://leafletjs.com/)
+    - [Mapbox GL JS](https://www.mapbox.com/)
+    - [MapLibre GL JS](https://maplibre.org/)
+    - [Google Maps](https://developers.google.com/maps)
 
 # Look and Feel
 
