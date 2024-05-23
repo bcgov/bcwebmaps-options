@@ -21,7 +21,7 @@ subnav:
 ## Find the right solution for your business. 
 
 The purpose of this site is to discover what web mapping technology framework is currently available within the Provincial Government, and if any of these solutions can meet your needs.<br><br>
-The Province of British Columbia currently uses four main web mapping frameworks. These frameworks vary from a cloud-based Software as a Service (SaaS) solution, two Government hosted solutions and a Do-It-Yourself solution. <br>
+The Province of British Columbia currently uses four main web mapping frameworks. These frameworks vary from a cloud-based Software as a Service (SaaS) solution, two Government hosted solutions, and a Do-It-Yourself solution. You can also build your own tool from scratch with open source libraries. <br>
 
 1. The Software as a Service (SaaS) solution is the cloud-based ESRI solution commonly known as [AGO](web-mapping-frameworks/ago.html)
         or ArcGIS Online
@@ -31,6 +31,6 @@ The Province of British Columbia currently uses four main web mapping frameworks
                 VertiGIS’s GeoCortex Essentials.
 3. The Do-It-Yourself Simple Map Kit ([SMK](web-mapping-frameworks/smk.html)) which can use either Leaflet or
         the ESRI Javascript API.
-
+4. Build from scratch using open source libraries such as Leaflet, MapBox, MapLibre and ohters listed on the [Comparisons](index.html) page.
 
 {: .fs-6 .fw-300 }
