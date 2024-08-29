@@ -1208,8 +1208,15 @@ var trim = String.prototype.trim ? function (str) {
   return str.replace(RE_TRIM, '');
 };
 
-var queryById = function queryById(id) {
-  return this.querySelector('[id="' + id.replace(/"/g, '\\"') + '"]');
+// var queryById = function queryById(id) {
+//  return this.querySelector('[id="' + id.replace(/"/g, '\\"') + '"]');
+//};
+
+var queryById = function queryById(id: string) {
+  // Allow only alphanumeric characters and specific safe symbols (-, _, :, .)
+  const sanitizedId = id.replace(/[^a-zA-Z0-9-_:.]/g, "");
+
+  return this.querySelector(`[id="${sanitizedId}"]`);
 };
 
 module.exports = function resolveIds(ids, doc) {
