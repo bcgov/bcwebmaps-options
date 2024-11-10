@@ -54,7 +54,7 @@ Below are examples of similar functionality in the available solutions.
 
 | |Complexity| Client| Example|
 |-|----------|-------|--------|
-|[AGO](web-mapping-frameworks/ago.html)  | Medium|BC Wildfire Dashboard| [https://bit.ly/BC_Wildfire_Dashboard](https://bit.ly/BC_Wildfire_Dashboard)|
+|[AGO](web-mapping-frameworks/ago.html)  | Medium|Emergency Map BC| [https://governmentofbc.maps.arcgis.com/apps/webappviewer/index.html?id=950b4eec577a4dc5b298a61adab41c06](https://governmentofbc.maps.arcgis.com/apps/webappviewer/index.html?id=950b4eec577a4dc5b298a61adab41c06)|
 |[CWM](web-mapping-frameworks/cwm.html) | High| No exmple available as of November, 2024|
 |[IMF2](web-mapping-frameworks/imf2.html)| Low| BC Ministry of Environment - BC Frogwatch Atlas| [http://maps.gov.bc.ca/ess/hm/bcfa/](http://maps.gov.bc.ca/ess/hm/bcfa/)|
 |[IMF2](web-mapping-frameworks/imf2.html)| High| DataBC iMapBC| [https://maps.gov.bc.ca/ess/hm/imap4m/](https://maps.gov.bc.ca/ess/hm/imap4m/)|
