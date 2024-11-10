@@ -58,7 +58,7 @@ Below are examples of similar functionality in the available solutions.
 |[CWM](web-mapping-frameworks/cwm.html) | High| No exmple available as of November, 2024|
 |[IMF2](web-mapping-frameworks/imf2.html)| Low| BC Ministry of Environment - BC Frogwatch Atlas| [http://maps.gov.bc.ca/ess/hm/bcfa/](http://maps.gov.bc.ca/ess/hm/bcfa/)|
 |[IMF2](web-mapping-frameworks/imf2.html)| High| DataBC iMapBC| [https://maps.gov.bc.ca/ess/hm/imap4m/](https://maps.gov.bc.ca/ess/hm/imap4m/)|
-|[Leaflet](https://leafletjs.com/) | Low| FLNRORD Range Branch - MyRangeBC| [https://myrangebc.gov.bc.ca/login](https://myrangebc.gov.bc.ca/login)|
+|[Leaflet](https://leafletjs.com/) | Low| BC Wildfire Dashboard| [https://wildfiresituation.nrs.gov.bc.ca/map](https://wildfiresituation.nrs.gov.bc.ca/map)|
 |[Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/api/) | Low| BC Ministry of Environment - Groundwater Wells and Aquifers | [https://apps.nrs.gov.bc.ca/gwells/](https://apps.nrs.gov.bc.ca/gwells/) |
 |[SMK](web-mapping-frameworks/smk.html) | Low| BC Minstry of Health - Assisted Living and Residential Care Locations| [https://moh.apps.gov.bc.ca/alrc/](https://moh.apps.gov.bc.ca/alrc/)|
 |[SMK](web-mapping-frameworks/smk.html) | High| Translink - Truck Route Planner |[https://translink.apps.gov.bc.ca/trp/](https://translink.apps.gov.bc.ca/trp/)|
