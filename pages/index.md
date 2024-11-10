@@ -55,7 +55,7 @@ Below are examples of similar functionality in the available solutions.
 | |Complexity| Client| Example|
 |-|----------|-------|--------|
 |[AGO](web-mapping-frameworks/ago.html)  | Medium|BC Wildfire Dashboard| [https://bit.ly/BC_Wildfire_Dashboard](https://bit.ly/BC_Wildfire_Dashboard)|
-|[CWM](web-mapping-frameworks/cwm.html) | High| GeoBC Integrated Land and Resource Registry| [https://a100.gov.bc.ca/apps/ilrr/html/ILRRWelcome.html](https://a100.gov.bc.ca/apps/ilrr/html/ILRRWelcome.html)|
+|[CWM](web-mapping-frameworks/cwm.html) | High| No exmple available as of November, 2024|
 |[IMF2](web-mapping-frameworks/imf2.html)| Low| BC Ministry of Environment - BC Frogwatch Atlas| [http://maps.gov.bc.ca/ess/hm/bcfa/](http://maps.gov.bc.ca/ess/hm/bcfa/)|
 |[IMF2](web-mapping-frameworks/imf2.html)| High| DataBC iMapBC| [https://maps.gov.bc.ca/ess/hm/imap4m/](https://maps.gov.bc.ca/ess/hm/imap4m/)|
 |[Leaflet](https://leafletjs.com/) | Low| FLNRORD Range Branch - MyRangeBC| [https://myrangebc.gov.bc.ca/login](https://myrangebc.gov.bc.ca/login)|
