@@ -1,0 +1,188 @@
+﻿Diagnose log at 2024-08-29T18:36:33Z
+
+AppPath: C:\sw_nt\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: C:\sw_nt\Git\mingw64\bin\
+Version: 2.5.0+d34930736e131ad80e5690e5634ced1808aff3e2
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 19045)
+Reading environment variables... OK
+ Variables:
+HOMEPATH=\
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMPUTERNAME=NG402493
+UATDATA=C:\Windows\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77
+GIT_TRACE2_PARENT_SID=9a736406-48c3-414f-92dc-604e164b2c4a
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+OneDrive=C:\Users\mrdouvil\OneDrive - Government of BC
+TMP=C:\Users\mrdouvil\AppData\Local\Temp
+PROCESSOR_REVISION=8e0c
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW
+GIT_EXEC_PATH=C:/sw_nt/Git/mingw64/libexec/git-core
+TEMP=C:\Users\mrdouvil\AppData\Local\Temp
+LOCALAPPDATA=C:\Users\mrdouvil\AppData\Local
+MSYSTEM=MINGW64
+TERM=xterm-256color
+COLORTERM=truecolor
+USERDNSDOMAIN=IDIR.BCGOV
+USERDOMAIN=IDIR
+ProgramFiles(x86)=C:\Program Files (x86)
+Path=C:/sw_nt/Git/mingw64/libexec/git-core;C:\sw_nt\Git\mingw64\bin;C:\sw_nt\Git\usr\bin;C:\Users\mrdouvil\bin;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\sw_nt\Python310\Scripts\;C:\sw_nt\Python310\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\sw_nt\vscode\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\Plantronics\Spokes3G\;C:\ORACLE\ORAHOME_12C\BIN;C:\ORACLE\ORAHOME_10G\bin;C:\Program Files\Docker\Docker\resources\bin;C:\sw_nt\Git\cmd;C:\Users\mrdouvil\AppData\Local\Microsoft\WindowsApps;C:\sw_nt\Fiddler
+PROCESSOR_LEVEL=6
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+TMPDIR=C:\Users\mrdouvil\AppData\Local\Temp
+PROMPT=$P$G
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+NUMBER_OF_PROCESSORS=8
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+ATERNITY_AGENT_HOME=C:\Program Files (x86)\Aternity Information Systems\Agent\
+HOMESHARE=\\sfp.idir.bcgov\U109\MRDOUVIL$
+ProgramData=C:\ProgramData
+MSYS=disable_pcon
+ProgramFiles=C:\Program Files (x86)
+PLINK_PROTOCOL=ssh
+STEELCENTRAL_ATERNITY_AGENT_HOME=C:\Program Files (x86)\Aternity Information Systems\Agent\
+ProgramW6432=C:\Program Files
+HOME=C:\Users\mrdouvil
+LC_CTYPE=C.UTF-8
+CommonProgramW6432=C:\Program Files\Common Files
+ZES_ENABLE_SYSMAN=1
+LOGONSERVER=\\WHEAT
+USERPROFILE=C:\Users\mrdouvil
+SystemRoot=C:\Windows
+USERDOMAIN_ROAMINGPROFILE=IDIR
+APPDATA=C:\Users\mrdouvil\AppData\Roaming
+HOMEDRIVE=H:
+OneDriveCommercial=C:\Users\mrdouvil\OneDrive - Government of BC
+USERNAME=MRDOUVIL
+PROCESSOR_ARCHITEW6432=AMD64
+PROCESSOR_ARCHITECTURE=x86
+OS=Windows_NT
+ComSpec=C:\Windows\system32\cmd.exe
+SystemDrive=C:
+windir=C:\Windows
+ALLUSERSPROFILE=C:\ProgramData
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\mrdouvil\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\mrdouvil\AppData\Local\Temp\09864620affd0439c1abe196'... OK
+Reading from temporary file 'C:\Users\mrdouvil\AppData\Local\Temp\09864620affd0439c1abe196'... OK
+Deleting temporary file 'C:\Users\mrdouvil\AppData\Local\Temp\09864620affd0439c1abe196'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\mrdouvil
+UserDataDirectoryPath: C:\Users\mrdouvil\.gcm
+GetCurrentDirectory(): C:\sw_nt\Git\repos\BCWebMaps-Options
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com... OK
+ OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:65371/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.45.2.windows.1'
+Locating current repository...Git repository at 'C:/sw_nt/Git/repos/BCWebMaps-Options/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:C:/sw_nt/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/sw_nt/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/sw_nt/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/sw_nt/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/sw_nt/Git/etc/gitconfig	filter.lfs.required=true
+file:C:/sw_nt/Git/etc/gitconfig	http.sslbackend=openssl
+file:C:/sw_nt/Git/etc/gitconfig	http.sslcainfo=C:/sw_nt/Git/mingw64/etc/ssl/certs/ca-bundle.crt
+file:C:/sw_nt/Git/etc/gitconfig	core.autocrlf=true
+file:C:/sw_nt/Git/etc/gitconfig	core.fscache=true
+file:C:/sw_nt/Git/etc/gitconfig	core.symlinks=false
+file:C:/sw_nt/Git/etc/gitconfig	core.editor="C:\\sw_nt\\notepad\\notepad++.exe" -multiInst -notabbar -nosession -noPlugin
+file:C:/sw_nt/Git/etc/gitconfig	pull.rebase=false
+file:C:/sw_nt/Git/etc/gitconfig	credential.helper=manager
+file:C:/sw_nt/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:C:/sw_nt/Git/etc/gitconfig	init.defaultbranch=main
+file:C:/Users/mrdouvil/.gitconfig	safe.directory=C:/sw_nt/Git/repos/BCWebMaps-Option
+file:C:/Users/mrdouvil/.gitconfig	credential.helper=
+file:C:/Users/mrdouvil/.gitconfig	credential.helper=C:/sw_nt/Git/mingw64/bin/git-credential-manager.exe
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/bcgov/bcwebmaps-options.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config	branch.master.remote=origin
+file:.git/config	branch.master.merge=refs/heads/master
+file:.git/config	branch.gh-pages.remote=origin
+file:.git/config	branch.gh-pages.merge=refs/heads/gh-pages
+file:.git/config	branch.fixcodescan1.vscode-merge-base=origin/master
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\mrdouvil\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\mrdouvil\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+
