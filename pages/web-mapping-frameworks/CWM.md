@@ -14,7 +14,7 @@ Last updated 2020-07-15
 * Status: Platform Maturity
 * Contact / Initiation Process	Client Engagement - [Bill.Devey@gov.bc.ca](mailto:Bill.Devey@gov.bc.ca) Common Services Manager - Natural Resource Information & Digital Services (NRIDS)
 * Technology platform - javascript, openlayers, OGC WMS/WFS, ISSS Platform (Liferay/Tomcat)
-* Skillsets required - familiarity with javascript / relationship with IIT
+* Skillsets required - familiarity with javascript / relationship with Natural Resource Information & Digital Services (NRIDS)
 
 * Ie. Example web map application  
   - Natural Resource Online Services [https://portalext.nrs.gov.bc.ca/web/client/-/mapping-tools.html](https://portalext.nrs.gov.bc.ca/web/client/-/mapping-tools.html)
@@ -27,7 +27,7 @@ This Natural Resource Ministries (NRM) service is part of Common Services tools 
 
 ## Decision Drivers
 
-* skillset of team (javascript developers/ relationship to IIT)
+* skillset of team (javascript developers/ relationship to NRIDS)
 * opensource drivers
 * part of NRM ISSS environment
 * skill set required for development and maintenance available internal to government (software developer skillsets) that may not be available to business project.
