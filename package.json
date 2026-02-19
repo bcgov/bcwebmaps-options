@@ -10,7 +10,7 @@
     "update-sass": "rsync -avr --delete node_modules/bcwds/src/stylesheets/ _sass/bcwds/"
   },
   "dependencies": {
-    "uswds": "^1.6.0"
+    "uswds": "^2.14.0"
   },
   "devDependencies": {
     "cached-path-relative": "^1.1.0"
