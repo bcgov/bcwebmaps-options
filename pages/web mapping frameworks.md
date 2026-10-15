@@ -29,8 +29,8 @@ The Province of British Columbia currently uses four main web mapping frameworks
    - Common Web Mapping Framework [CWM](web-mapping-frameworks/cwm.html) which is based on Openlayers 2, and 
    - Internet Mapping Framework [IMF2](web-mapping-frameworks/imf2.html) which is based on 
                 VertiGIS’s GeoCortex Essentials.
-3. The Do-It-Yourself Simple Map Kit ([SMK](web-mapping-frameworks/smk.html)) which can use either Leaflet or
-        the ESRI Javascript API.
-4. Build from scratch using open source libraries such as Leaflet, MapBox, MapLibre and ohters listed on the [Comparisons](index.html) page.
+3. The Do-It-Yourself Simple Map Kit ([SMK](web-mapping-frameworks/smk.html)) which uses Leaflet and
+        ESRI Javascript libraries and showcases the thousands of map layers in the BC Geographic Warehouse.
+4. Build from scratch using open source libraries such as Leaflet, MapBox, MapLibre and others listed on the [Comparisons](index.html) page.
 
 {: .fs-6 .fw-300 }
