@@ -16,7 +16,7 @@ sidenav: docs
 4. The ability to access certain features (re-symbolize layers, perform custom printing) is only available to site authors.
 5. IMF2’s feature to collect data requires the development of a customized workflow.
 6. IMF2 and AGO both requires ArcGIS REST services for editing. This can be achieved through customization.
-7. Possible with a high-level of customization.
+7. Possible with a high level of customization.
 8. The ability to make customizations and configurations requires a developer skill-set.
 9. CWM configurations are achieved through configuration of a JSON file. In the future a wizard library to pull from may be available.
 10. Available indirectly through REST/WMS/WFS.
