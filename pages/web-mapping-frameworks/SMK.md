@@ -8,24 +8,21 @@ sidenav: docs
 
 ---
 
-Last updated 2025-05-16
+Last updated 2026-10-16
 
 ## Status
 
-* Status: v.1.2.4
+* Status: v.1.2.7
 * Contact / Initiation Process / Client Engagement -  [Visit the Data Services Client Hub](https://dpdd.atlassian.net/servicedesk/customer/portal/1/group/1/create/14)
 * Technology platform - Node.js, Javascript, Leaflet, OGC WMS/WFS, ArcGIS Rest
 * Skillsets required - novice to experienced developer (familiarity with Javascript development/GitHub is an asset)
 * Open Source - Apache 2.0 license
 * Links to software providers/code repositories - [https://github.com/bcgov/smk](https://github.com/bcgov/smk),  [https://github.com/bcgov/smk-cli](https://github.com/bcgov/smk-cli)
 * Example SMK web map applications:  
-  - Truck Route Planner - [https://translink.apps.gov.bc.ca/trp/](https://translink.apps.gov.bc.ca/trp/)
+  - Municipal and Regional District Tax (MRDT) Map - [https://municipal-regional-district-tax-map.apps.gov.bc.ca/](https://municipal-regional-district-tax-map.apps.gov.bc.ca/)
   - Speculation and Vacancy Tax (SVT) Location Map - [https://map-spec-tax-areas.apps.gov.bc.ca/](https://map-spec-tax-areas.apps.gov.bc.ca/)
  * [Frequently Asked Questions](https://github.com/bcgov/smk-cli/wiki/Simple-Map-Kit-and-SMK-Editor-FAQs)
  
-<!-- Example of an embedded SMK map that sources data from the BCGW Warehouse via MPCM and also from an uploaded CSV data file:
-<iframe src="https://nicoledegreef.github.io/smk-moh-hsat/" height="600px" width="100%" style="border:none;"></iframe> -->
-
 ## Context
 
 * Leaflet-based, light weight Javascript toolkit. Targeted to non-GIS developers.
